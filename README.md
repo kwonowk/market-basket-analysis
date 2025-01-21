@@ -31,11 +31,11 @@ This project utilizes Market Basket Analysis (MBA), a data mining technique for 
 **Description** 
 - Anonymized dataset containing a sample of over 3 million grocery orders from more than 200,000 users
 
-**Size (merged)**
-- 32,434,489 rows * 12 columns
-
 **Source** 
 - [Instacart](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2)
+
+**Size (merged)**
+- 32,434,489 rows * 12 columns
 
 **Structure**
 ```
