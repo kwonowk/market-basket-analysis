@@ -26,7 +26,7 @@ This project utilizes Market Basket Analysis (MBA), a data mining technique for 
 - What are the products that customers rarely or never reorder?
 - Are there products that are seldom or never purchased?
 
-## 💾 Data
+## 💾 Dataset
 
 **Description** 
 - Anonymized dataset containing a sample of over 3 million grocery orders from more than 200,000 users
