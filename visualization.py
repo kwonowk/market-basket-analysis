@@ -1,7 +1,10 @@
 import streamlit as st
+import pandas as pd
 
 st.header('What are customers buying from our app?')
 st.subheader('A Deepdive on Instacart Online Grocery Shopping Dataset')
+st.title("")
+
 
 with st.sidebar:
     st.title("")
@@ -10,10 +13,8 @@ with st.sidebar:
     st.subheader("Purchase combinations")
     pc1 = st.button("Which product groups are purchased together most frequently?")
 
-    st.button("How do purchasing patterns for these product groups vary at different times of the day?")
+    pc2 = st.button("How do purchasing patterns for these product groups vary at different times of the day?")
 
-if pc1:
-    st.header('placeholder')
 # How do purchasing patterns for these product groups vary at different times of the day?
 # Purchase timing and frequency
 
@@ -25,3 +26,13 @@ if pc1:
 # Which products are typically bought as standalone items?
 # What are the products that customers rarely or never reorder?
 # Are there products that are seldom or never purchased?")
+import pandas as pd
+
+data_1  = pd.read_csv('q1-1.csv')
+data_2 = pd.read_csv('q1-2.csv')
+
+if pc1:
+    st.write(data_1)
+
+if pc2:
+    st.write(data_2)
