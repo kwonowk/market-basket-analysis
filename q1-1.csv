@@ -1,1540 +1,189 @@
 consequent,antecedent,support_itemset_absolute,support_itemset_relative_pct,confidence_pct
-Banana,"('Organic Avocado',)",53395,1.7460039252797301,30.28592820315026
-Banana,"('Organic Fuji Apple',)",33943,1.1099281062977786,37.96161674905496
-Banana,"('Cucumber Kirby',)",32097,1.0495643410376159,33.05731500077244
-Banana,"('Honeycrisp Apple',)",28408,0.9289349098107795,35.68978730354159
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple',)",23364,0.7639972976914621,31.15864717806465
-Bag of Organic Bananas,"('Organic Hass Avocado', 'Organic Strawberries')",15066,0.492654651901197,36.93190175025739
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"",)",14905,0.48738998981729337,30.503028814669285
-Bag of Organic Bananas,"('Organic Navel Orange',)",14019,0.458417998473575,32.86370669042149
-Banana,"('Broccoli Crown',)",13842,0.4526301401577306,32.96342160411507
-Banana,"('Bartlett Pears',)",13682,0.4473981778383232,38.735065964554664
-Banana,"('Clementines, Bag',)",12406,0.4056732783410494,31.252519145505847
-Bag of Organic Bananas,"('Organic Hass Avocado', 'Organic Baby Spinach')",12196,0.3988063277968272,34.94455746253689
-Banana,"('Granny Smith Apples',)",11992,0.39213557583958286,33.322218517283545
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Strawberries')",11584,0.378794071925094,34.208428077843074
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado')",11409,0.37307161313824216,44.23293141550033
-Banana,"('Organic Avocado', 'Organic Baby Spinach')",10770,0.35217646362510896,34.86678105474441
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry',)",9331,0.3051215025149389,44.992526158445436
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% with Strawberry Lowfat Greek Strained Yogurt',)",9331,0.3051215025149389,31.262773478071498
-Banana,"('Gala Apples',)",8771,0.28680963439701307,36.62365860787507
-Banana,"('No Salt Added Black Beans',)",8757,0.2863518376940649,31.390472093773525
-Banana,"('Organic Avocado', 'Organic Strawberries')",8700,0.28448795111777603,36.274182788525685
-Banana,"('Large Lemon', 'Organic Avocado')",8423,0.275430116352302,34.496457386247286
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach',)",8014,0.2620559126733169,40.30376181854757
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Hass Avocado')",7966,0.2604863239774947,37.49411653958392
-Organic Hass Avocado,"('Organic Lemon', 'Bag of Organic Bananas')",7966,0.2604863239774947,35.58950989590314
-Organic Strawberries,"('Organic Raspberries', 'Organic Hass Avocado')",7892,0.2580665414047688,30.597448920249683
-Banana,"('Red Raspberries',)",7865,0.2571836477633688,30.050051579872388
-Banana,"('Limes', 'Organic Avocado')",7269,0.23769458812357633,33.02589731940027
-Banana,"('Large Lemon', 'Organic Baby Spinach')",7241,0.23677899471768005,31.747632409680815
-Organic Strawberries,"('Organic Yellow Peaches',)",7230,0.23641929730822078,33.989939354050115
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt',)",7224,0.23622309872124303,44.15108177484415
-Non Fat Raspberry Yogurt,"('Icelandic Style Skyr Blueberry Non-fat Yogurt',)",7224,0.23622309872124303,37.54092397235358
-Bag of Organic Bananas,"('Organic Yellow Onion', 'Organic Hass Avocado')",7078,0.2314489331047838,35.519646710493305
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Hass Avocado')",6733,0.22016751435356163,38.57126489459212
-Organic Hass Avocado,"('Organic Cucumber', 'Bag of Organic Bananas')",6733,0.22016751435356163,31.26683384415343
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water',)",6727,0.21997131576658385,31.77910052910053
-Bag of Organic Bananas,"('Organic Bosc Pear',)",6684,0.21856522589324312,31.2219730941704
-Vanilla Skyr Nonfat Yogurt,"('Icelandic Style Skyr Blueberry Non-fat Yogurt',)",6653,0.21755153319385792,34.573611183287426
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Vanilla Skyr Nonfat Yogurt',)",6653,0.21755153319385792,36.69608383894098
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Hass Avocado')",6650,0.21745343390036906,42.85069914298602
-Banana,"('Cucumber Kirby', 'Organic Avocado')",6594,0.21562224708857647,42.35067437379576
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Baby Spinach')",6447,0.21081538170762093,35.72932830857903
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach',)",6282,0.20541992056573205,31.593240796620396
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry',)",6282,0.20541992056573205,30.290756545638654
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Hass Avocado')",6101,0.19950126319190248,37.05660835762877
-Banana,"('Cucumber Kirby', 'Organic Baby Spinach')",6086,0.19901076672445805,38.52874145353254
-Banana,"('Asparation/Broccolini/Baby Broccoli',)",6075,0.1986510693149988,36.81371954914556
-Sparkling Water Grapefruit,"('Sparkling Water Berry',)",6040,0.19750657755762843,34.77860309782921
-Bag of Organic Bananas,"('Organic Garlic', 'Organic Hass Avocado')",5865,0.1917841187707766,33.14121037463977
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Hass Avocado')",5804,0.18978943313650254,43.46588781547218
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Strawberries')",5622,0.18383807599817667,33.95952884324978
-Banana,"('Mango Chunks',)",5609,0.1834129790597248,31.757445362926056
-Banana,"('XL Emerald White Seedless Grapes',)",5575,0.18230118706685075,35.49824896529768
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries')",5509,0.1801430026100952,36.4520611394164
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Strawberries')",5503,0.17994680402311744,34.67548834278513
-Banana,"('Large Lemon', 'Organic Strawberries')",5490,0.17952170708466558,33.67065317387304
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Strawberries')",5435,0.1777232200373693,35.86985216473073
-Banana,"('Cucumber Kirby', 'Large Lemon')",5428,0.1774943216858952,37.545825551635886
-Bag of Organic Bananas,"('Organic Yellow Onion', 'Organic Strawberries')",5301,0.1733414515948656,31.835925770224012
-Banana,"('Strawberries', 'Organic Avocado')",5290,0.17298175418540637,41.503216695433856
-Banana,"('Large Yellow Flesh Nectarine',)",5209,0.17033307326120636,34.12828408569744
-Bag of Organic Bananas,"('Organic Whole Milk', 'Organic Hass Avocado')",5205,0.17020227420322118,35.19745739789018
-Banana,"('Organic Whole Milk', 'Organic Avocado')",5190,0.16971177773577675,39.70621987606151
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Baby Spinach')",5104,0.1668995979890953,32.277240245367736
-Vanilla Skyr Nonfat Yogurt,"('Non Fat Raspberry Yogurt',)",5097,0.1666706996376212,31.151448478181155
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Strawberries')",5058,0.16539540882226567,33.01566579634464
-Organic Hass Avocado,"('Organic Lemon', 'Organic Strawberries')",5024,0.16428361682939158,33.157338965153116
-Organic Zucchini,"('Organic Yellow Squash',)",4992,0.16323722436551014,44.55949299294832
-Banana,"('Cucumber Kirby', 'Organic Strawberries')",4955,0.16202733307914716,41.137401411374015
-Banana,"('Strawberries', 'Large Lemon')",4829,0.15790716275261385,42.38567541472834
-Banana,"('Honeycrisp Apple', 'Organic Avocado')",4814,0.15741666628516943,43.58138692739453
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Hass Avocado')",4773,0.15607597594082126,38.89658544535898
-Banana,"('Frozen Broccoli Florets',)",4709,0.15398319101305832,30.530342323651453
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Hass Avocado')",4689,0.1533291957231324,39.92337164750958
-Organic Hass Avocado,"('Organic Tomato Cluster', 'Bag of Organic Bananas')",4665,0.1525444013752213,30.976095617529882
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Hass Avocado')",4665,0.1525444013752213,35.717020136283594
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Baby Spinach')",4618,0.15100751244389538,33.23736864833741
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Hass Avocado')",4597,0.15032081738947314,34.44477746141166
-Organic Strawberries,"('Organic Nectarine',)",4594,0.15022271809598425,35.07405710795541
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt',)",4559,0.1490782263386139,42.77537999624695
-Banana,"('Berry Medley',)",4505,0.14731243905581393,31.772339375132237
-Sparkling Lemon Water,"('Lime Sparkling Water', 'Sparkling Water Grapefruit')",4434,0.14499075577657689,33.37850045167119
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",4434,0.14499075577657689,51.88392230283173
-Lime Sparkling Water,"('Sparkling Lemon Water', 'Sparkling Water Grapefruit')",4434,0.14499075577657689,48.0702515177797
-Banana,"('Seedless Red Grapes', 'Organic Strawberries')",4432,0.1449253562475843,31.804808037316114
-Organic Hass Avocado,"('Organic Lemon', 'Organic Baby Spinach')",4419,0.14450025930913243,31.805095724773285
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Hass Avocado')",4418,0.14446755954463616,37.57761333673556
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Raspberries')",4406,0.1440751623706806,32.72916357153469
-Banana,"('Strawberries', 'Organic Baby Spinach')",4390,0.14355196613873988,31.924950912660897
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Strawberries')",4389,0.14351926637424356,33.00496315235374
-Organic Strawberries,"('Organic Blueberries', 'Organic Raspberries')",4301,0.14064168709856953,31.94919031347497
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Raspberries')",4273,0.13972609369267322,40.579297245963915
-Banana,"('Organic Fuji Apple', 'Organic Avocado')",4251,0.1390066988737547,45.35851472471191
-Banana,"('Organic Garlic', 'Organic Avocado')",4247,0.13887589981576953,31.11583266173346
-Banana,"('Honeycrisp Apple', 'Organic Strawberries')",4243,0.13874510075778435,37.0082860880942
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Hass Avocado')",4159,0.13599832054009547,44.76856835306782
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Strawberries')",4122,0.13478842925373252,33.01297453147525
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Hass Avocado')",4116,0.13459223066675474,43.52791878172589
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Hass Avocado')",4087,0.13364393749636216,36.452015697467
-Organic Hass Avocado,"('Organic Red Bell Pepper', 'Bag of Organic Bananas')",4087,0.13364393749636216,31.49418201433305
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Raspberries')",4073,0.133186140793414,40.21127455819923
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Baby Spinach')",4072,0.1331534410289177,36.618705035971225
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Strawberries')",4068,0.13302264197093253,30.104343965070672
-Bag of Organic Bananas,"('Organic Cilantro', 'Organic Hass Avocado')",4058,0.13269564432596956,33.85051718385051
-Clementines,"('Apples',)",4009,0.13109335586565107,32.820302906262796
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Hass Avocado')",3980,0.13014506269525847,39.25436433573331
-Organic Strawberries,"('Organic Blueberries', 'Organic Hass Avocado')",3979,0.13011236293076217,32.426045147094776
-Soda,"('Zero Calorie Cola',)",3970,0.1298180650502955,49.94338910554787
-Banana,"('Cucumber Kirby', 'Strawberries')",3959,0.12945836764083624,44.51315493591185
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Strawberries')",3949,0.1291313699958733,37.78947368421053
-Organic Hass Avocado,"('Organic Garnet Sweet Potato (Yam)', 'Bag of Organic Bananas')",3944,0.1289678711733918,31.052673017872607
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Hass Avocado')",3944,0.1289678711733918,38.32102603964244
-Banana,"('Honeycrisp Apple', 'Organic Baby Spinach')",3926,0.12837927541245847,38.603736479842674
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt',)",3925,0.1283465756479622,45.36523347202959
-Banana,"('Organic Grape Tomatoes', 'Organic Avocado')",3903,0.12762718082904367,31.936830046641028
-Banana,"('Cucumber Kirby', 'Limes')",3901,0.12756178130005108,36.29512467435802
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt',)",3898,0.1274636820065622,36.573465941077124
-Banana,"('Honeycrisp Apple', 'Large Lemon')",3874,0.1266788876586511,40.84343700579863
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Baby Spinach')",3838,0.1255016961367844,31.911532385466035
-Banana,"('Seedless Red Grapes', 'Strawberries')",3837,0.12546899637228812,38.198108511697356
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries')",3828,0.12517469849182147,45.029996471003415
-Organic Hass Avocado,"('Organic Raspberries', 'Organic Strawberries', 'Bag of Organic Bananas')",3828,0.12517469849182147,33.045580110497234
-Organic Strawberries,"('Organic Raspberries', 'Organic Hass Avocado', 'Bag of Organic Bananas')",3828,0.12517469849182147,33.55245858532737
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Strawberries')",3828,0.12517469849182147,48.504815002534215
-Non Fat Raspberry Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt',)",3821,0.12494580014034738,35.85100394070182
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Hass Avocado')",3779,0.12357241003150296,46.356722276741905
-Banana,"('Organic Fuji Apple', 'Organic Strawberries')",3761,0.12298381427056962,39.046926910299
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",3733,0.12206822086467334,59.42375039796243
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",3733,0.12206822086467334,46.5809832792613
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",3733,0.12206822086467334,40.00643017897331
-Bag of Organic Bananas,"('Fresh Cauliflower', 'Organic Hass Avocado')",3731,0.12200282133568074,35.069085440360936
-Bag of Organic Bananas,"('Organic Honey Sweet Whole Wheat Bread',)",3731,0.12200282133568074,31.940758496704046
-Banana,"('Mandarin Oranges',)",3710,0.12131612628125853,33.20802005012531
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Strawberries')",3704,0.12111992769428075,31.71232876712329
-Banana,"('Honeycrisp Apple', 'Strawberries')",3697,0.12089102934280667,49.05785562632696
-Banana,"('Organic Fuji Apple', 'Organic Baby Spinach')",3693,0.1207602302848215,39.49732620320855
-Banana,"('Organic Fuji Apple', 'Strawberries')",3669,0.11997543593691039,49.01803607214429
-Bag of Organic Bananas,"('Organic Red Onion', 'Organic Hass Avocado')",3656,0.11955033899845853,33.07699267167285
-Organic Hass Avocado,"('Organic Lemon', 'Organic Raspberries')",3647,0.11925604111799187,36.005528680027645
-Banana,"('Yellow Onions', 'Large Lemon')",3629,0.11866744535705853,33.73617179511016
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Raspberries')",3620,0.11837314747659188,38.52703277990634
-Banana,"('Yellow Onions', 'Organic Avocado')",3606,0.11791535077364373,37.86621862858343
-Banana,"('Yellow Onions', 'Organic Baby Spinach')",3585,0.11722865571922152,35.41440284500642
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Hass Avocado')",3567,0.11664005995828818,39.62893011887568
-Banana,"('Broccoli Crown', 'Organic Avocado')",3554,0.11621496301983632,44.475034413715434
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Hass Avocado')",3530,0.11543016867192521,38.253142609449505
-Banana,"('Original Hummus', 'Organic Baby Spinach')",3528,0.11536476914293264,32.16923497766025
-Bag of Organic Bananas,"('Organic Baby Carrots', 'Organic Hass Avocado')",3519,0.11507047126246596,35.22875162678947
-Banana,"('Organic Fuji Apple', 'Large Lemon')",3517,0.11500507173347338,42.64064015518913
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Raspberries')",3490,0.1141221780920734,40.50133457119647
-Limes,"('Organic Cilantro', 'Organic Avocado')",3480,0.11379518044711043,36.01366035392735
-Bag of Organic Bananas,"('Organic Whole Milk', 'Organic Raspberries')",3440,0.11248718986725857,33.22708393702308
-Limes,"('Organic Cilantro', 'Banana')",3435,0.11232369104477709,31.09722976643129
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Strawberries')",3417,0.11173509528384377,31.812680383576946
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Baby Spinach')",3372,0.11026360588151043,31.561213028828156
-Bag of Organic Bananas,"('Original Hummus', 'Organic Hass Avocado')",3365,0.11003470753003636,32.688945016514474
-Bag of Organic Bananas,"('Organic Hass Avocado', 'Organic Baby Spinach', 'Organic Strawberries')",3349,0.10951151129809562,41.15261735070042
-Organic Hass Avocado,"('Organic Baby Spinach', 'Organic Strawberries', 'Bag of Organic Bananas')",3349,0.10951151129809562,30.537065742682596
-Grapefruit Sparkling Water,"('Lemon Sparkling Water',)",3335,0.10905371459514748,35.30968766543145
-Bag of Organic Bananas,"('Organic Yellow Onion', 'Organic Raspberries')",3326,0.10875941671468083,38.66542664496629
-Banana,"('Organic Whole Milk', 'Large Lemon')",3307,0.1081381211892512,34.089269147510564
-Organic Hass Avocado,"('Organic Lemon', 'Organic Yellow Onion')",3307,0.1081381211892512,31.227573182247404
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Yellow Onion')",3307,0.1081381211892512,31.227573182247404
-Banana,"('Michigan Organic Kale', 'Organic Avocado')",3305,0.1080727216602586,33.918308702791464
-Large Lemon,"('Cucumber Kirby', 'Limes')",3300,0.10790922283777711,30.703386676590995
-Banana,"('Organic Fuji Apple', 'Cucumber Kirby')",3295,0.10774572401529563,46.258598904955775
-Banana,"('Organic Baby Arugula', 'Organic Avocado')",3257,0.10650313296443638,32.84921835602622
-Banana,"('Medium Navel Orange',)",3255,0.1064377334354438,32.743184790262546
-Banana,"('Seedless Red Grapes', 'Organic Avocado')",3251,0.10630693437745861,41.6688028710587
-Limes,"('Organic Cilantro', 'Large Lemon')",3235,0.10578373814551786,40.72768475387134
-Organic Strawberries,"('Organic Whole Milk', 'Organic Raspberries')",3211,0.10499894379760676,31.01516468656428
-Limes,"('Organic Cilantro', 'Organic Garlic')",3209,0.10493354426861419,32.88246746592889
-Organic Strawberries,"('Organic Lemon', 'Organic Raspberries')",3209,0.10493354426861419,31.68131108697798
-Organic Strawberries,"('Organic Whole String Cheese', 'Organic Hass Avocado')",3208,0.10490084450411788,31.640201203274486
-Banana,"('Original Hummus', 'Organic Avocado')",3190,0.10431224874318457,39.20363770431363
-Banana,"('Yellow Onions', 'Limes')",3187,0.10421414944969568,33.291549148647235
-Organic Strawberries,"('Apple Honeycrisp Organic', 'Organic Raspberries')",3186,0.10418144968519936,30.256410256410255
-Banana,"('Seedless Red Grapes', 'Organic Baby Spinach')",3172,0.10372365298225122,33.87441264416916
-Bag of Organic Bananas,"('Michigan Organic Kale', 'Organic Hass Avocado')",3171,0.10369095321775493,30.6258450840255
-Blackberry Cucumber Sparkling Water,"('Kiwi Sandia Sparkling Water',)",3160,0.10333125580829568,34.61875547765118
-Non Fat Raspberry Yogurt,"('Non Fat Acai & Mixed Berries Yogurt',)",3145,0.10284075934085123,36.34997688395747
-Banana,"('Organic Blueberries', 'Organic Avocado')",3138,0.10261186098937715,34.04209155999132
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Strawberries')",3084,0.10084607370657715,32.02824800083082
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Strawberries')",3082,0.10078067417758459,43.42068188222034
-Banana,"('Asparagus', 'Organic Avocado')",3059,0.10002857959416976,33.79363676535572
-Banana,"('Whole Strawberries',)",3043,0.09950538336222903,34.51678765880218
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Raspberries')",3038,0.09934188453974754,41.55382300642867
-Bag of Organic Bananas,"('Carrots', 'Organic Hass Avocado')",3037,0.09930918477525125,31.694844500104363
-Organic Strawberries,"('Organic Kiwi', 'Organic Hass Avocado')",3037,0.09930918477525125,32.117174280879865
-Organic Yellow Onion,"('Organic Small Bunch Celery', 'Organic Garlic')",3032,0.09914568595276976,33.19829190846381
-Banana,"('Strawberries', 'Limes')",3026,0.098949487365792,37.8533900425319
-Bag of Organic Bananas,"('Organic Italian Parsley Bunch', 'Organic Hass Avocado')",3013,0.09852439042734014,33.67609254498715
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Strawberries')",3012,0.09849169066284386,32.083510864933956
-Total 0% Raspberry Yogurt,"('Fat Free Strawberry Yogurt',)",3009,0.09839359136935497,30.69781677208733
-Banana,"('Blueberries', 'Strawberries')",3007,0.09832819184036237,33.40368806931793
-Organic Garlic,"('Organic Italian Parsley Bunch', 'Organic Yellow Onion')",3001,0.09813199325338459,32.53116531165311
-Limes,"('Bunched Cilantro', 'Organic Avocado')",3000,0.09809929348888828,39.98400639744102
-Banana,"('Boneless Skinless Chicken Breasts', 'Organic Baby Spinach')",2993,0.09787039513741423,35.43269799928969
-Banana,"('Black Plum',)",2988,0.09770689631493275,32.26781857451404
-Banana,"('Red Vine Tomato', 'Organic Avocado')",2982,0.09751069772795495,36.06676342525399
-Banana,"('Boneless Skinless Chicken Breasts', 'Organic Avocado')",2975,0.09728179937648089,38.29814624098867
-Banana,"('Cucumber Kirby', 'Organic Hass Avocado')",2969,0.09708560078950312,32.472930110467026
-Limes,"('Organic Red Onion', 'Organic Cilantro')",2968,0.09705290102500681,34.92586490939045
-Banana,"('Organic Baby Carrots', 'Organic Avocado')",2962,0.09685670243802903,36.667491953453826
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Raspberries')",2953,0.09656240455756238,39.76033391679009
-Banana,"('Organic Whole Milk', 'Strawberries')",2951,0.09649700502856978,38.80852183061547
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Raspberries')",2950,0.09646430526407349,43.08456258215277
-Vanilla Skyr Nonfat Yogurt,"('Non Fat Raspberry Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",2928,0.09574491044515497,40.53156146179402
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",2928,0.09574491044515497,57.44555620953502
-Non Fat Raspberry Yogurt,"('Vanilla Skyr Nonfat Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",2928,0.09574491044515497,44.01022095295355
-Banana,"('Honeycrisp Apple', 'Cucumber Kirby')",2927,0.09571221068065869,44.9064130101258
-Blueberry Yoghurt,"('Raspberry Yoghurt',)",2916,0.09535251327119941,34.884555568847944
-Banana,"('Seedless Red Grapes', 'Large Lemon')",2892,0.09456771892328832,39.57307060755337
-Bag of Organic Bananas,"('Organic Raspberries', 'Limes')",2868,0.09378292457537721,30.48793451684915
-Banana,"('Broccoli Crown', 'Organic Baby Spinach')",2859,0.09348862669491054,39.43992274796524
-Banana,"('Organic Raspberries', 'Organic Avocado')",2834,0.09267113258250315,30.77090119435396
-Banana,"('Red Plums',)",2834,0.09267113258250315,31.97202166064982
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Strawberries')",2829,0.09250763376002166,32.773401297497685
-Yotoddler Organic Pear Spinach Mango Yogurt,"('Organic Whole Milk Strawberry Beet Berry Yogurt Pouch',)",2823,0.09231143517304388,45.00239120038259
-Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,"('Yotoddler Organic Pear Spinach Mango Yogurt',)",2823,0.09231143517304388,46.11991504656102
-Banana,"('Red Vine Tomato', 'Organic Baby Spinach')",2816,0.0920825368215698,37.194558182538636
-Banana,"('Pink Lady (Cripps) Apple',)",2815,0.09204983705707352,36.792576133838715
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Baby Spinach')",2810,0.09188633823459204,34.876504902569195
-Bag of Organic Bananas,"('Organic Red Onion', 'Organic Strawberries')",2810,0.09188633823459204,30.368529125688966
-Organic Strawberries,"('Organic Cucumber', 'Organic Raspberries')",2805,0.09172283941211055,32.55193222699315
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Raspberries')",2804,0.09169013964761426,34.69867590644722
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Banana')",2801,0.09159204035412537,45.38972613838924
-Banana,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",2801,0.09159204035412537,30.018218840424392
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Banana')",2801,0.09159204035412537,31.782593895381822
-Bag of Organic Bananas,"('Organic Ginger Root', 'Organic Hass Avocado')",2798,0.09149394106063648,33.78411011832891
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Hass Avocado')",2781,0.09093804506419945,38.732590529247915
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Lemon')",2774,0.09070914671272537,33.393523534368605
-Banana,"('Organic Peeled Whole Baby Carrots', 'Organic Baby Spinach')",2774,0.09070914671272537,31.779127047771794
-Blueberry on the Bottom Nonfat Greek Yogurt,"('Strawberry on the Bottom Nonfat Greek Yogurt',)",2767,0.0904802483612513,36.25049128782916
-Strawberry on the Bottom Nonfat Greek Yogurt,"('Blueberry on the Bottom Nonfat Greek Yogurt',)",2767,0.0904802483612513,43.437990580847725
-Banana,"('Organic Grape Tomatoes', 'Large Lemon')",2766,0.090447548596755,30.55340771015133
-Organic Hass Avocado,"('Organic Cucumber', 'Organic Lemon')",2766,0.090447548596755,33.29721921271217
-Organic Strawberries,"('Organic Grape Tomatoes', 'Organic Raspberries')",2765,0.09041484883225871,34.21606236851875
-Banana,"('Michigan Organic Kale', 'Large Lemon')",2763,0.09034944930326612,31.259192216314062
-Bag of Organic Bananas,"('Organic Lacinato (Dinosaur) Kale', 'Organic Hass Avocado')",2755,0.09008785118729574,36.26431486112939
-Banana,"('Honeycrisp Apple', 'Seedless Red Grapes')",2740,0.08959735471985131,43.554283897631535
-Organic Hass Avocado,"('Organic Cucumber', 'Organic Raspberries')",2740,0.08959735471985131,31.797609376813273
-Lime Sparkling Water,"('Peach Pear Flavored Sparkling Water', 'Sparkling Water Grapefruit')",2734,0.08940115613287353,40.64218819681879
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",2734,0.08940115613287353,64.81744902797534
-Bag of Organic Bananas,"('Seedless Red Grapes', 'Organic Hass Avocado')",2730,0.08927035707488835,34.219102531962896
-Banana,"('Red Vine Tomato', 'Cucumber Kirby')",2713,0.08871446107845131,40.44424567680382
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Zucchini')",2713,0.08871446107845131,33.12980827939919
-Banana,"('Red Peppers', 'Organic Baby Spinach')",2706,0.08848556272697725,32.23347230494342
-Bag of Organic Bananas,"('Organic Garlic', 'Organic Raspberries')",2702,0.08835476366899206,36.503647662793846
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",2702,0.08835476366899206,57.30646871686108
-Almond Milk Blueberry Yogurt,"('Almond Milk Strawberry Yogurt',)",2702,0.08835476366899206,47.28736436821841
-Banana,"('Organic Peeled Whole Baby Carrots', 'Organic Avocado')",2687,0.08786426720154762,40.39386650631389
-Banana,"('Honeycrisp Apple', 'Limes')",2686,0.08783156743705131,38.40983840983841
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Cucumber')",2674,0.08743917026309576,31.16186924600862
-Banana,"('Grape Tomatoes',)",2669,0.0872756714406143,30.70639668660838
-Bag of Organic Bananas,"('Organic Broccoli', 'Organic Hass Avocado')",2668,0.08724297167611798,37.94084186575654
-Banana,"('Seedless Red Grapes', 'Organic Fuji Apple')",2665,0.08714487238262911,46.7872191011236
-Strawberry on the Bottom Nonfat Greek Yogurt,"('Peach on the Bottom Nonfat Greek Yogurt',)",2665,0.08714487238262911,34.27211934156379
-Peach on the Bottom Nonfat Greek Yogurt,"('Strawberry on the Bottom Nonfat Greek Yogurt',)",2665,0.08714487238262911,34.914188392506226
-Banana,"('Organic Grape Tomatoes', 'Cucumber Kirby')",2664,0.08711217261813281,37.58995343586849
-Bag of Organic Bananas,"('Unsweetened Almondmilk', 'Organic Hass Avocado')",2658,0.08691597403115502,36.93718732629239
-Lime Sparkling Water,"('Sparkling Water Berry', 'Sparkling Water Grapefruit')",2658,0.08691597403115502,44.00662251655629
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",2658,0.08691597403115502,63.210463733650414
-Banana,"('Cucumber Kirby', 'Organic Whole Milk')",2648,0.08658897638619206,42.23285486443381
-Organic Strawberries,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries')",2644,0.08645817732820688,31.102223267850842
-Total 0% Raspberry Yogurt,"('Fat Free Blueberry Yogurt',)",2644,0.08645817732820688,36.90675600223339
-Limes,"('Bunched Cilantro', 'Large Lemon')",2639,0.08629467850572539,39.779921615918
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Strawberries')",2634,0.08613117968324392,32.80199252801992
-Banana,"('Broccoli Crown', 'Large Lemon')",2631,0.08603308038975503,38.68548742831936
-Banana,"('Organic Whole Milk', 'Limes')",2630,0.08600038062525873,31.20180329813738
-Bag of Organic Bananas,"('Organic Carrot Bunch', 'Organic Hass Avocado')",2623,0.08577148227378467,42.57425742574257
-Banana,"('Organic Blackberries', 'Strawberries')",2613,0.0854444846288217,34.08557265849204
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Yellow Onion')",2586,0.0845615909874217,32.61445327279606
-Bag of Organic Bananas,"('Asparagus', 'Organic Hass Avocado')",2580,0.08436539240044394,30.492849544971044
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",2580,0.08436539240044394,49.36854190585534
-Limes,"('Jalapeno Peppers', 'Large Lemon')",2574,0.08416919381346616,40.94162557658661
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Yellow Onion')",2572,0.08410379428447357,33.77100840336135
-Limes,"('Jalapeno Peppers', 'Organic Avocado')",2572,0.08410379428447357,39.07626861136433
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",2570,0.08403839475548097,47.583780781336785
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",2570,0.08403839475548097,48.563869992441425
-Limes,"('Organic Cilantro', 'Organic Yellow Onion')",2568,0.08397299522648838,30.247349823321557
-Bag of Organic Bananas,"('100% Whole Wheat Bread', 'Organic Strawberries')",2568,0.08397299522648838,30.073779131045793
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Cucumber')",2565,0.08387489593299949,41.65989930160793
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Raspberries')",2558,0.08364599758152541,37.784342688330874
-Banana,"('Yellow Onions', 'Organic Strawberries')",2558,0.08364599758152541,37.23435225618631
-Bag of Organic Bananas,"('Organic Grade A Free Range Large Brown Eggs', 'Organic Hass Avocado')",2558,0.08364599758152541,34.779061862678454
-Banana,"('Organic Gala Apples', 'Organic Avocado')",2547,0.08328630017206616,35.46365914786968
-Banana,"('Red Mango',)",2547,0.08328630017206616,30.898944559019775
-Organic Garlic,"('Organic Ginger Root', 'Organic Yellow Onion')",2545,0.08322090064307357,37.51474056603774
-Bag of Organic Bananas,"('100% Raw Coconut Water', 'Organic Hass Avocado')",2541,0.08309010158508838,38.23352392416491
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Baby Spinach')",2540,0.08305740182059208,31.51755800967862
-Banana,"('Bunched Cilantro', 'Organic Avocado')",2536,0.0829266027626069,33.79981340797015
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Raspberries')",2532,0.08279580370462172,40.29280712921705
-Banana,"('Sweet Potato Yam',)",2531,0.08276310394012541,40.52193403778418
-Banana,"('Fresh Cauliflower', 'Organic Avocado')",2525,0.08256690535314765,32.425837935019906
-Banana,"('Seedless Red Grapes', 'Cucumber Kirby')",2515,0.08223990770818469,44.18482080112439
-Bag of Organic Bananas,"('Green Bell Pepper', 'Organic Hass Avocado')",2504,0.08188021029872543,32.28884590586718
-Organic Strawberries,"('Organic Kiwi', 'Organic Raspberries')",2491,0.08145511336027358,34.071946382163866
-Banana,"('Organic Garnet Sweet Potato (Yam)', 'Organic Avocado')",2490,0.08142241359577729,35.02602335068224
-Organic Hass Avocado,"('Organic Cucumber', 'Organic Yellow Onion')",2486,0.0812916145377921,31.35326018413419
-Banana,"('Honeycrisp Apple', 'Organic Whole Milk')",2481,0.08112811571531062,40.26290165530672
-Limes,"('Jalapeno Peppers', 'Organic Cilantro')",2481,0.08112811571531062,42.48287671232877
-Almond Milk Peach Yogurt,"('Almond Milk Strawberry Yogurt',)",2477,0.08099731665732543,43.34966748337417
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",2477,0.08099731665732543,52.65731292517006
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Yellow Onion')",2466,0.08063761924786618,39.909370448292606
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Raspberries')",2460,0.0804414206608884,38.02751584479827
-Banana,"('Red Peppers', 'Organic Avocado')",2446,0.07998362395794026,38.01678582530308
-Baby Food Stage 2 Blueberry Pear & Purple Carrot,"('Spinach Peas & Pear Stage 2 Baby Food',)",2440,0.07978742537096248,30.38226870875358
-Limes,"('Jalapeno Peppers', 'Bunched Cilantro')",2436,0.07965662631297729,42.30635637374088
-Organic Strawberries,"('Organic Gala Apples', 'Organic Raspberries')",2431,0.07949312749049581,32.73192406085903
-Banana,"('Organic Fuji Apple', 'Organic Hass Avocado')",2424,0.07926422913902174,33.503800967519005
-Bag of Organic Bananas,"('Organic Reduced Fat 2% Milk', 'Organic Strawberries')",2424,0.07926422913902174,31.435611464142134
-Banana,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",2418,0.07906803055204396,30.17219865235837
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Banana')",2418,0.07906803055204396,41.45379735984913
-Banana,"('Red Vine Tomato', 'Large Lemon')",2416,0.07900263102305137,34.58840372226199
-Total 2% Greek Strained Yogurt with Cherry 5.3 oz,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",2409,0.07877373267157729,30.059895183429
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",2409,0.07877373267157729,48.617558022199795
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",2409,0.07877373267157729,44.602851323828915
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",2405,0.07864293361359212,61.414708886618996
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",2405,0.07864293361359212,41.66666666666667
-Banana,"('Strawberries', 'Organic Hass Avocado')",2405,0.07864293361359212,31.57825630252101
-Banana,"('Carrots', 'Organic Avocado')",2395,0.07831593596862915,32.12608987256875
-Blackberry Cucumber Sparkling Water,"('Curate Melon Pomelo Sparking Water',)",2389,0.07811973738165137,33.92502130076683
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Lemon')",2375,0.07766194067870323,39.996631862579996
-Peach on the Bottom Nonfat Greek Yogurt,"('Blueberry on the Bottom Nonfat Greek Yogurt',)",2371,0.07753114162071804,37.22135007849294
-Blueberry on the Bottom Nonfat Greek Yogurt,"('Peach on the Bottom Nonfat Greek Yogurt',)",2371,0.07753114162071804,30.49125514403292
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Garlic')",2370,0.07749844185622175,32.29322796021256
-Banana,"('Apple Honeycrisp Organic', 'Organic Avocado')",2362,0.07723684374025137,31.992415007449548
-Banana,"('Organic Reduced Fat Milk', 'Organic Strawberries')",2362,0.07723684374025137,33.267605633802816
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",2361,0.07720414397575509,58.96603396603397
-Lime Sparkling Water,"('Pure Sparkling Water', 'Sparkling Water Grapefruit')",2361,0.07720414397575509,37.637494021999046
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Zucchini')",2345,0.07668094774381436,32.22481791947231
-Banana,"('Yellow Onions', 'Strawberries')",2343,0.07661554821482175,46.67330677290837
-Bag of Organic Bananas,"('Fresh Cauliflower', 'Organic Raspberries')",2342,0.07658284845032547,35.728451563691834
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Raspberries')",2341,0.07655014868582917,40.44574982722875
-Fat Free Strawberry Yogurt,"('Fat Free Blueberry Yogurt',)",2340,0.07651744892133287,32.663316582914575
-Spinach Peas & Pear Stage 2 Baby Food,"('Broccoli & Apple Stage 2 Baby Food',)",2339,0.07648474915683656,34.230938094541195
-Bag of Organic Bananas,"('Organic Half & Half', 'Organic Hass Avocado')",2332,0.0762558508053625,33.58294930875576
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Baby Spinach')",2331,0.0762231510408662,48.49178281672561
-Organic Hass Avocado,"('Organic Raspberries', 'Organic Baby Spinach', 'Bag of Organic Bananas')",2331,0.0762231510408662,36.156351791530945
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Baby Spinach')",2322,0.07592885316039955,38.99244332493703
-Organic Strawberries,"('Organic Whole String Cheese', 'Organic Raspberries')",2319,0.07583075386691066,34.254062038404726
-Vanilla Skyr Style Yogurt,"('Mixed Berries Whole Milk Icelandic Style Skyr Yogurt',)",2309,0.07550375622194769,31.998337028824835
-Bag of Organic Bananas,"('Large Alfresco Eggs', 'Organic Hass Avocado')",2308,0.07547105645745139,38.05441055234955
-Bag of Organic Bananas,"('Organic Black Beans', 'Organic Hass Avocado')",2303,0.07530755763496992,35.44167436134195
-Banana,"('Organic Fuji Apple', 'Limes')",2300,0.07520945834148102,40.60734463276836
-Organic Strawberries,"('Organic Blueberries', 'Organic Whole Milk')",2299,0.07517675857698473,33.611111111111114
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",2298,0.07514405881248844,54.42918048318332
-Sparkling Lemon Water,"('Pure Sparkling Water', 'Sparkling Water Grapefruit')",2296,0.07507865928349584,36.60130718954248
-Banana,"('Large Lemon', 'Organic Avocado', 'Organic Baby Spinach')",2296,0.07507865928349584,39.2277464548095
-Organic Avocado,"('Large Lemon', 'Organic Baby Spinach', 'Banana')",2296,0.07507865928349584,31.708327579063667
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",2296,0.07507865928349584,58.496815286624205
-Banana,"('Boneless Skinless Chicken Breasts', 'Organic Strawberries')",2293,0.07498055999000695,37.47956848643347
-Strawberry Rhubarb Yogurt,"('Mixed Berries Whole Milk Icelandic Style Skyr Yogurt',)",2292,0.07494786022551066,31.762749445676274
-Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,"('Strawberry Rhubarb Yogurt',)",2292,0.07494786022551066,34.907097167225096
-Banana,"('Strawberry on the Bottom Nonfat Greek Yogurt',)",2291,0.07491516046101436,30.01441110965544
-Banana,"('No Salt Added Black Beans', 'Organic Baby Spinach')",2291,0.07491516046101436,38.53658536585366
-Organic Strawberries,"(""Organic D'Anjou Pears"", 'Organic Raspberries')",2288,0.07481706116752547,33.416094639988316
-Sparkling Lemon Water,"('Sparkling Water Berry', 'Sparkling Water Grapefruit')",2287,0.07478436140302917,37.86423841059602
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",2287,0.07478436140302917,60.59883412824589
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",2285,0.07471896187403658,43.17838246409675
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",2285,0.07471896187403658,46.115035317860745
-Total 2% Greek Strained Yogurt with Cherry 5.3 oz,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",2285,0.07471896187403658,36.37376631645973
-Banana,"('Organic Baby Carrots', 'Cucumber Kirby')",2283,0.07465356234504399,38.701474826241736
-Bag of Organic Bananas,"('Original Hummus', 'Organic Raspberries')",2281,0.07458816281605139,32.36838370937988
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Raspberries')",2276,0.07442466399356992,37.00813008130081
-Banana,"('Limes', 'Large Lemon', 'Organic Avocado')",2269,0.07419576564209585,36.626311541565784
-Large Lemon,"('Limes', 'Organic Avocado', 'Banana')",2269,0.07419576564209585,31.21474755812354
-Bag of Organic Bananas,"('Organic Reduced Fat 2% Milk', 'Organic Hass Avocado')",2264,0.07403226681961436,35.1334574798262
-Organic Strawberries,"('Organic Bartlett Pear', 'Organic Hass Avocado')",2261,0.07393416752612549,31.49025069637883
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt',)",2260,0.07390146776162919,48.044217687074834
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt',)",2260,0.07390146776162919,47.932131495228
-Kiwi Sandia Sparkling Water,"('Curate Melon Pomelo Sparking Water',)",2255,0.0737379689391477,32.02215279750071
-Bag of Organic Bananas,"('100% Whole Wheat Bread', 'Organic Hass Avocado')",2255,0.0737379689391477,37.52079866888519
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Lemon')",2253,0.07367256941015511,41.78412462908012
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",2250,0.07357447011666622,38.981288981288984
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",2250,0.07357447011666622,60.53268765133172
-Banana,"('Red Peppers', 'Cucumber Kirby')",2245,0.07341097129418474,37.80097659538642
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Apple Honeycrisp Organic')",2245,0.07341097129418474,39.88275004441286
-Organic Strawberries,"('Original Hummus', 'Organic Raspberries')",2236,0.07311667341371807,31.72981410529303
-Banana,"('Golden Delicious Apple',)",2236,0.07311667341371807,43.26625386996904
-Banana,"('Organic Whole String Cheese', 'Organic Avocado')",2235,0.07308397364922177,39.34166519978877
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Zucchini')",2233,0.07301857412022919,40.49691693870149
-Bag of Organic Bananas,"('Frozen Organic Wild Blueberries', 'Organic Hass Avocado')",2230,0.0729204748267403,40.671165420390295
-Bag of Organic Bananas,"('Organic Peeled Whole Baby Carrots', 'Organic Hass Avocado')",2229,0.072887775062244,32.56391526661797
-Banana,"('Bosc Pear',)",2228,0.0728550752977477,39.08086300649009
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Hass Avocado', 'Organic Strawberries')",2227,0.07282237553325141,44.327229299363054
-Organic Hass Avocado,"('Organic Lemon', 'Organic Strawberries', 'Bag of Organic Bananas')",2227,0.07282237553325141,40.97516099356026
-Banana,"('Boneless Skinless Chicken Breasts', 'Cucumber Kirby')",2219,0.07256077741728105,42.09827357237716
-Banana,"('Bartlett Pears', 'Organic Avocado')",2217,0.07249537788828844,51.35510771369006
-Banana,"('Organic Blueberries', 'Large Lemon')",2212,0.07233187906580696,33.15844700944386
-Organic Greek Nonfat Yogurt With Mixed Berries,"('Organic Nonfat Greek Yogurt With Peaches',)",2208,0.07220108000782179,36.41761504205839
-Organic Nonfat Greek Yogurt With Peaches,"('Organic Greek Nonfat Yogurt With Mixed Berries',)",2208,0.07220108000782179,32.051095950065324
-Bag of Organic Bananas,"('Organic Blackberries', 'Organic Hass Avocado')",2206,0.07213568047882919,33.20288982540639
-Banana,"('No Salt Added Black Beans', 'Organic Avocado')",2202,0.072004881420844,39.71145175834085
-Organic Hass Avocado,"('Organic Lemon', 'Organic Zucchini')",2195,0.07177598306936994,30.16352892675553
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Cucumber')",2190,0.07161248424688846,37.70012050266827
-Bag of Organic Bananas,"('Organic Whole Strawberries', 'Organic Baby Spinach')",2190,0.07161248424688846,31.125639567936325
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Zucchini')",2185,0.07144898542440697,35.24193548387097
-Bag of Organic Bananas,"('Organic Ginger Root', 'Organic Strawberries')",2183,0.07138358589541438,30.476057517799802
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Yellow Onion')",2180,0.07128548660192549,30.992323002558997
-Banana,"('Red Vine Tomato', 'Organic Strawberries')",2180,0.07128548660192549,35.3723835794256
-Bag of Organic Bananas,"('Frozen Organic Wild Blueberries', 'Organic Baby Spinach')",2173,0.07105658825045141,32.245140228520555
-Banana,"('Organic Baby Carrots', 'Large Lemon')",2171,0.07099118872145883,32.34023536421868
-Banana,"('Seedless Red Grapes', 'Limes')",2150,0.0703044936670366,36.22577927548441
-Nonfat Icelandic Style Strawberry Yogurt,"('Vanilla Skyr Nonfat Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",2149,0.07027179390254032,32.301217495866524
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",2149,0.07027179390254032,55.13083632632119
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",2149,0.07027179390254032,47.13753016012283
-Banana,"('Cherry Pomegranate Greek Yogurt',)",2142,0.07004289555106624,31.270072992700733
-Banana,"('Yellow Onions', 'Cucumber Kirby')",2138,0.06991209649308106,41.70893484198206
-Banana,"('Bunched Cilantro', 'Large Lemon')",2136,0.06984669696408846,32.197769068435335
-Banana,"('Apple Honeycrisp Organic', 'Large Lemon')",2133,0.06974859767059957,30.169731258840173
-Banana,"('Red Onion', 'Organic Avocado')",2128,0.06958509884811809,33.28120112605568
-Banana,"('Small Hass Avocado', 'Organic Baby Spinach')",2125,0.06948699955462921,33.88614256099506
-Bag of Organic Bananas,"('Organic Roasted Turkey Breast', 'Organic Hass Avocado')",2118,0.06925810120315513,38.41131664853101
-Bag of Organic Bananas,"('Organic Cilantro', 'Organic Raspberries')",2115,0.06916000190966626,38.426598837209305
-Banana,"('Seedless Red Grapes', 'Organic Whole Milk')",2114,0.06912730214516995,36.707761764195176
-Non Fat Raspberry Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",2113,0.06909460238067365,46.347883307742926
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",2113,0.06909460238067365,55.29965977492803
-Bag of Organic Bananas,"('Organic Baby Carrots', 'Organic Raspberries')",2112,0.06906190261617735,35.14727908137794
-Banana,"('Organic Blackberries', 'Organic Avocado')",2110,0.06899650308718477,36.600173460537725
-Banana,"('100% Whole Wheat Bread', 'Strawberries')",2109,0.06896380332268846,44.625476089716464
-Banana,"('Garnet Sweet Potato (Yam)',)",2109,0.06896380332268846,31.38392857142857
-Bag of Organic Bananas,"('Organic Large Brown Grade AA Cage Free Eggs', 'Organic Hass Avocado')",2106,0.06886570402919959,36.086360520904734
-Bag of Organic Bananas,"('Organic Baby Broccoli', 'Organic Hass Avocado')",2103,0.0687676047357107,35.89349718381977
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Whole Milk')",2100,0.0686695054422218,30.760216786289735
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Baby Spinach', 'Organic Strawberries')",2099,0.06863680567772551,39.71617786187323
-Organic Strawberries,"('Organic Raspberries', 'Organic Baby Spinach', 'Bag of Organic Bananas')",2099,0.06863680567772551,32.557778811850476
-Organic Strawberries,"('Organic Blackberries', 'Organic Hass Avocado')",2096,0.06853870638423662,31.547260686333534
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Large Extra Fancy Fuji Apple')",2095,0.06850600661974032,42.53807106598985
-Banana,"('Whole Wheat English Muffins',)",2089,0.06830980803276254,32.044792146034666
-Sparkling Lemon Water,"('Peach Pear Flavored Sparkling Water', 'Sparkling Water Grapefruit')",2085,0.06817900897477736,30.994499777017985
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",2085,0.06817900897477736,63.62526701251144
-Banana,"('Broccoli Crown', 'Cucumber Kirby')",2080,0.06801551015229589,46.55326768128917
-Organic Hass Avocado,"('Organic Small Bunch Celery', 'Organic Lemon')",2079,0.06798281038779959,31.994459833795013
-Organic Strawberries,"('Seedless Red Grapes', 'Organic Raspberries')",2078,0.06795011062330329,34.375516956162116
-Bag of Organic Bananas,"('Organic Russet Potato', 'Organic Hass Avocado')",2065,0.06752501368485145,38.78662659654395
-Bag of Organic Bananas,"('Organic Whole Strawberries', 'Organic Hass Avocado')",2062,0.06742691439136254,42.280090219397174
-Banana,"('Red Peppers', 'Limes')",2057,0.06726341556888107,31.039686132488303
-Banana,"('Bartlett Pears', 'Strawberries')",2053,0.06713261651089589,47.304147465437794
-Banana,"('Organic Red Bell Pepper', 'Organic Avocado')",2052,0.06709991674639959,31.82382133995037
-Banana,"('Red Onion', 'Large Lemon')",2051,0.0670672169819033,32.99018819366254
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Lemon')",2050,0.067034517217407,31.54816866728224
-Banana,"('Organic Garnet Sweet Potato (Yam)', 'Large Lemon')",2049,0.06700181745291071,31.703543246170508
-Bag of Organic Bananas,"('Organic Roasted Turkey Breast', 'Organic Strawberries')",2044,0.06683831863042923,32.45474753890124
-Organic Avocado,"('Broccoli Crown', 'Large Lemon')",2044,0.06683831863042923,30.054403764152333
-Banana,"('Organic Fuji Apple', 'Organic Whole Milk')",2043,0.06680561886593292,38.93653516295026
-Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,"('Blueberry Whole Milk Yogurt Pouch',)",2036,0.06657672051445886,41.40736221273134
-Blueberry Whole Milk Yogurt Pouch,"('Organic Whole Milk Strawberry Beet Berry Yogurt Pouch',)",2036,0.06657672051445886,32.45655985971624
-Banana,"('Sparkling Water Grapefruit', 'Organic Avocado')",2036,0.06657672051445886,32.91835084882781
-Banana,"('Red Peppers', 'Organic Strawberries')",2034,0.06651132098546626,31.845937059652417
-Banana,"('Boneless Skinless Chicken Breasts', 'Large Lemon')",2034,0.06651132098546626,35.3554667130193
-Banana,"('Michigan Organic Kale', 'Cucumber Kirby')",2034,0.06651132098546626,35.936395759717314
-Organic Strawberries,"('Organic Red Bell Pepper', 'Organic Raspberries')",2033,0.06647862122096997,33.05691056910569
-Organic Zucchini,"('Yellow Straightneck Squash',)",2032,0.06644592145647367,31.396786155747836
-Bag of Organic Bananas,"('Seedless Red Grapes', 'Organic Raspberries')",2029,0.06634782216298478,33.56492969396195
-Banana,"('Red Vine Tomato', 'Limes')",2028,0.06631512239848848,30.750568612585294
-Banana,"('Peanut Butter Creamy With Salt',)",2028,0.06631512239848848,32.5
-Banana,"('YoKids Strawberry Banana/Strawberry Yogurt',)",2024,0.0661843233405033,30.074294205052006
-Strawberries,"('Medium Scarlet Raspberries',)",2022,0.06611892381151072,40.23880597014926
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Cucumber')",2021,0.06608622404701442,33.06609947643979
-Banana,"('Broccoli Crown', 'Organic Strawberries')",2011,0.06575922640205145,38.747591522158
-Banana,"('Organic Kiwi', 'Organic Avocado')",2009,0.06569382687305886,34.84217828650711
-Banana,"('Blueberries', 'Organic Baby Spinach')",2008,0.06566112710856256,36.082659478885894
-Organic Hass Avocado,"('Apple Honeycrisp Organic', 'Organic Lemon')",2007,0.06562842734406628,33.799259009767596
-Organic Hass Avocado,"('Organic Cucumber', 'Organic Strawberries', 'Bag of Organic Bananas')",2006,0.06559572757956997,35.68125222340804
-Organic Hass Avocado,"('Organic Tomato Cluster', 'Organic Raspberries')",2006,0.06559572757956997,34.657912923289565
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Hass Avocado', 'Organic Strawberries')",2006,0.06559572757956997,44.37071444370714
-Banana,"('Cucumber Kirby', 'Organic Garlic')",2004,0.06553032805057737,33.822784810126585
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Cucumber')",2003,0.06549762828608109,32.44250080984774
-Apple Pie Fruit & Nut Food Bar,"('Cherry Pie Fruit & Nut Bar',)",2002,0.0654649285215848,36.13718411552346
-Bag of Organic Bananas,"('Grated Parmesan', 'Organic Hass Avocado')",1998,0.06533412946359961,33.31665832916458
-"Yogurt, Lowfat, Strawberry","('Lowfat Blueberry Yogurt',)",1995,0.06523603017011072,46.18055555555556
-Bag of Organic Bananas,"('Organic Bosc Pear', 'Organic Hass Avocado')",1995,0.06523603017011072,47.54528122020972
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Whole Milk')",1992,0.06513793087662183,33.99897593445981
-Banana,"('Boneless Skinless Chicken Breasts', 'Limes')",1989,0.06503983158313294,35.613249776186215
-Banana,"('Organic Avocado', 'Organic Baby Spinach', 'Organic Strawberries')",1988,0.06500713181863665,38.26020015396459
-Banana,"('Organic Grape Tomatoes', 'Strawberries')",1986,0.06494173228964405,37.64215314632297
-Banana,"('Organic Zucchini', 'Strawberries')",1980,0.06474553370266628,35.84359160028964
-Peach Pear Flavored Sparkling Water,"('Sparkling Water Berry', 'Sparkling Water Grapefruit')",1980,0.06474553370266628,32.78145695364238
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Peach Pear Flavored Sparkling Water')",1980,0.06474553370266628,57.34144222415291
-"Yogurt, Lowfat, Strawberry","('Organic Raspberry Lowfat Yogurt',)",1973,0.0645166353511922,37.45965445224986
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Baby Spinach')",1970,0.06441853605770331,32.03252032520325
-Bag of Organic Bananas,"('Grade A Large Brown Eggs',)",1966,0.06428773699971813,30.887666928515316
-Raspberries,"('Blackberries', 'Strawberries')",1959,0.06405883864824405,35.650591446769795
-Organic Greek Lowfat Yogurt With Strawberries,"('Organic Greek Lowfat Yogurt With Blueberries',)",1959,0.06405883864824405,41.026178010471206
-Organic Greek Lowfat Yogurt With Blueberries,"('Organic Greek Lowfat Yogurt With Strawberries',)",1959,0.06405883864824405,31.07057890563045
-Strawberries,"('Blackberries', 'Raspberries')",1959,0.06405883864824405,33.259762308998305
-Organic Strawberries,"('Organic Baby Carrots', 'Organic Raspberries')",1956,0.06396073935475517,32.55117324013979
-Limes,"('Jalapeno Peppers', 'Organic Garlic')",1954,0.06389533982576256,37.219047619047615
-Banana,"('Blueberries', 'Organic Strawberries')",1952,0.06382994029676999,32.376845247968156
-Organic Hass Avocado,"('Organic Lemon', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1949,0.0637318410032811,42.20441749675184
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Hass Avocado', 'Organic Baby Spinach')",1949,0.0637318410032811,44.105001131477714
-Banana,"('Cucumber Kirby', 'Organic Zucchini')",1948,0.0636991412387848,31.587481757742825
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Banana')",1945,0.06360104194529591,48.57642357642358
-Non Fat Raspberry Yogurt,"('Icelandic Style Skyr Blueberry Non-fat Yogurt', 'Banana')",1945,0.06360104194529591,38.107366771159874
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Large Extra Fancy Fuji Apple')",1943,0.06353564241630331,46.785456296653024
-Banana,"('Half & Half', 'Organic Avocado')",1939,0.06340484335831813,38.35806132542038
-Bag of Organic Bananas,"('Asparagus', 'Organic Raspberries')",1935,0.06327404430033294,34.442862228551085
-Sparkling Lemon Water,"('Sparkling Water Berry', 'Lime Sparkling Water')",1935,0.06327404430033294,46.0166468489893
-Lime Sparkling Water,"('Sparkling Water Berry', 'Sparkling Lemon Water')",1935,0.06327404430033294,51.27186009538951
-Organic Strawberries,"('Organic Tomato Cluster', 'Organic Raspberries')",1928,0.06304514594885888,33.310297166551486
-"Organic Pears, Peas and Broccoli Puree Stage 1","('Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food',)",1925,0.06294704665536999,34.50439146800502
-Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,"('Organic Pears, Peas and Broccoli Puree Stage 1',)",1925,0.06294704665536999,38.27798767150527
-Bag of Organic Bananas,"('Uncured Genoa Salami', 'Organic Hass Avocado')",1925,0.06294704665536999,34.690935303658314
-Organic Strawberries,"('Organic Grape Tomatoes', 'Organic Blueberries')",1924,0.06291434689087369,33.37959750173491
-Banana,"('Clementines, Bag', 'Organic Strawberries')",1921,0.0628162475973848,31.626605202502468
-Banana,"('Blueberries', 'Organic Avocado')",1917,0.06268544853939961,42.590535436569645
-Bag of Organic Bananas,"('Organic Large Brown Grade AA Cage Free Eggs', 'Organic Strawberries')",1915,0.06262004901040702,32.937736498108016
-Banana,"('Original Hummus', 'Cucumber Kirby')",1914,0.06258734924591074,37.93103448275862
-Banana,"('Original Hummus', 'Limes')",1914,0.06258734924591074,31.942590120160215
-Banana,"('Organic Gala Apples', 'Large Lemon')",1909,0.06242385042342925,32.84018579046964
-Bag of Organic Bananas,"('Organic Reduced Fat 2% Milk', 'Organic Raspberries')",1907,0.06235845089443666,34.20627802690583
-Banana,"('Bartlett Pears', 'Large Lemon')",1903,0.06222765183645148,49.249482401656316
-Banana,"('Roma Tomato', 'Organic Avocado')",1902,0.062194952071955176,34.43157132512672
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Garlic')",1900,0.06212955254296258,32.25806451612903
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Whole Milk')",1899,0.06209685277846629,31.814374267046407
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Raspberries')",1897,0.06203145324947369,40.927723840345195
-Bag of Organic Bananas,"('Large Alfresco Eggs', 'Organic Strawberries')",1892,0.06186795442699221,33.74955404923297
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Non Fat Raspberry Yogurt')",1890,0.06180255489799962,60.095389507154216
-Non Fat Raspberry Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",1890,0.06180255489799962,48.152866242038215
-Banana,"('Organic Reduced Fat Milk', 'Organic Avocado')",1888,0.061737155369007035,44.63356973995272
-Organic Hass Avocado,"('Organic Tomato Cluster', 'Organic Lemon')",1888,0.061737155369007035,36.30769230769231
-Limes,"('Bunched Cilantro', 'Organic Garlic')",1886,0.06167175584001444,40.025466893039045
-Banana,"('Grape White/Green Seedless', 'Organic Baby Spinach')",1882,0.061540956782029255,34.137493197895886
-Banana,"('Red Vine Tomato', 'Strawberries')",1879,0.06144285748854037,43.15571887919155
-Bag of Organic Bananas,"('Organic Red Onion', 'Organic Raspberries')",1879,0.06144285748854037,36.641965678627145
-Lime Sparkling Water,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",1876,0.06134475819505148,57.24748245346354
-Sparkling Lemon Water,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",1876,0.06134475819505148,44.47605500237079
-Banana,"('Organic Tomato Cluster', 'Organic Avocado')",1874,0.06127935866605889,30.211188134773497
-Banana,"('Original Hummus', 'Organic Whole Milk')",1872,0.0612139591370663,31.09634551495017
-Chocolate Peanut Butter,"('Coconut Chia Bar',)",1870,0.0611485596080737,40.223704022370406
-Coconut Chia Bar,"('Chocolate Peanut Butter',)",1870,0.0611485596080737,40.197764402407564
-Banana,"('Organic Baby Carrots', 'Organic Whole Milk')",1868,0.061083160079081114,30.653101411224153
-Banana,"('Medium Scarlet Raspberries',)",1867,0.06105046031458482,37.15422885572139
-Banana,"('Green Bell Pepper', 'Organic Avocado')",1865,0.06098506078559222,30.330134981297775
-Organic Hass Avocado,"('Organic Large Extra Fancy Fuji Apple', 'Organic Cucumber')",1864,0.06095236102109593,30.274484326782524
-Bag of Organic Bananas,"('Unsweetened Almondmilk', 'Organic Strawberries')",1860,0.06082156196311075,30.2783656194042
-Bag of Organic Bananas,"('Frozen Organic Wild Blueberries', 'Organic Raspberries')",1859,0.06078886219861444,33.53779541764387
-Organic Strawberries,"('Organic Large Extra Fancy Fuji Apple', 'Organic Cucumber')",1858,0.06075616243411815,30.17703426993666
-Organic Strawberries,"('Organic Reduced Fat 2% Milk', 'Organic Raspberries')",1858,0.06075616243411815,33.327354260089685
-Limes,"('Bunched Cilantro', 'Organic Baby Spinach')",1858,0.06075616243411815,33.30942990319111
-Banana,"('Grape White/Green Seedless', 'Organic Avocado')",1857,0.06072346266962186,39.07828282828283
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Yellow Onion')",1857,0.06072346266962186,34.55526609601786
-Bag of Organic Bananas,"('Organic Carrot Bunch', 'Organic Strawberries')",1852,0.06055996384714037,36.37077769049489
-Banana,"('Small Hass Avocado', 'Organic Strawberries')",1850,0.06049456431814778,32.90058687533345
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Cucumber')",1849,0.06046186455365149,36.79601990049751
-Bag of Organic Bananas,"('Organic Russet Potato', 'Organic Strawberries')",1847,0.06039646502465889,33.741322616002925
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Banana')",1847,0.06039646502465889,31.66466655237442
-Banana,"('Original Hummus', 'Large Lemon')",1847,0.06039646502465889,34.0398083302617
-Peach on the Bottom Nonfat Greek Yogurt,"('Raspberry on the Bottom Nonfat Greek Yogurt',)",1846,0.06036376526016259,36.74363057324841
-Bag of Organic Bananas,"('Cantaloupe', 'Organic Strawberries')",1845,0.0603310654956663,32.120473537604454
-Organic Strawberries,"('Cantaloupe', 'Bag of Organic Bananas')",1845,0.0603310654956663,34.863945578231295
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",1844,0.060298365731170006,47.08886618998979
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",1844,0.060298365731170006,49.60990045735809
-Organic Hass Avocado,"('Organic Cucumber', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1843,0.06026566596667371,36.108934169278996
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Hass Avocado', 'Organic Baby Spinach')",1843,0.06026566596667371,43.87050702213758
-Organic Hass Avocado,"('Organic Lemon', 'Organic Raspberries', 'Bag of Organic Bananas')",1843,0.06026566596667371,45.249202062361896
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Raspberries', 'Organic Hass Avocado')",1843,0.06026566596667371,50.53468604332328
-Banana,"('Mandarins Bag',)",1842,0.060232966202177406,33.953917050691246
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Zucchini')",1842,0.060232966202177406,39.41793280547828
-Bag of Organic Bananas,"('Organic Yellow Onion', 'Organic Hass Avocado', 'Organic Baby Spinach')",1839,0.06013486690868852,40.32010524007893
-Limes,"('Jalapeno Peppers', 'Organic Baby Spinach')",1839,0.06013486690868852,31.24893797790994
-Organic Hass Avocado,"('Organic Yellow Onion', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1839,0.06013486690868852,33.38779956427015
-Banana,"('Limes', 'Organic Avocado', 'Organic Baby Spinach')",1838,0.060102167144192226,38.78455370331294
-Organic Avocado,"('Limes', 'Organic Baby Spinach', 'Banana')",1838,0.060102167144192226,30.106470106470105
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Gala Apples')",1838,0.060102167144192226,37.81114996914215
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Lemon')",1836,0.06003676761519963,41.40730717185386
-Bag of Organic Bananas,"('100% Raw Coconut Water', 'Organic Strawberries')",1835,0.060004067850703335,34.63571158927897
-Bag of Organic Bananas,"('Spring Water', 'Organic Hass Avocado')",1834,0.059971368086207046,34.59724580267874
-Banana,"('Organic Extra Firm Tofu', 'Organic Baby Spinach')",1833,0.05993866832171075,31.322624743677373
-Sparkling Water Grapefruit,"('All Natural Apricot Sparkling Water',)",1833,0.05993866832171075,33.47333820306793
-Organic Strawberries,"('100% Whole Wheat Bread', 'Organic Hass Avocado')",1832,0.05990596855721445,30.482529118136437
-Sparkling Lemon Water,"('Pure Sparkling Water', 'Lime Sparkling Water')",1829,0.05980786926372556,45.67932067932068
-Lime Sparkling Water,"('Pure Sparkling Water', 'Sparkling Lemon Water')",1829,0.05980786926372556,46.59872611464968
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Lemon')",1829,0.05980786926372556,37.79706550940277
-Apple Pie Fruit & Nut Food Bar,"('Blueberry Muffin Bar',)",1826,0.05970976997023668,31.762045573143155
-Banana,"('Yellow Onions', 'Organic Zucchini')",1823,0.05961167067674778,30.63350697361788
-Yotoddler Organic Pear Spinach Mango Yogurt,"('Blueberry Whole Milk Yogurt Pouch',)",1821,0.059546271147755195,37.03477730323368
-Bag of Organic Bananas,"('Organic Lacinato (Dinosaur) Kale', 'Organic Strawberries')",1820,0.0595135713832589,30.419521978940328
-Banana,"('Organic Large Extra Fancy Fuji Apple', 'Organic Avocado')",1819,0.059480871618762594,30.200896563174496
-Banana,"('Organic Baby Arugula', 'Cucumber Kirby')",1818,0.05944817185426631,35.404089581304774
-Bag of Organic Bananas,"('Organic Carrot Bunch', 'Organic Raspberries')",1814,0.059317372796281125,44.66880078798325
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Zucchini')",1813,0.05928467303178483,30.891122848866924
-Almond Milk Strawberry Yogurt,"('Vanilla Almond Milk Yogurt',)",1811,0.05921927350279224,33.30881000551775
-Vanilla Almond Milk Yogurt,"('Almond Milk Strawberry Yogurt',)",1811,0.05921927350279224,31.69408470423521
-Organic Hass Avocado,"('Organic Yellow Onion', 'Organic Strawberries', 'Bag of Organic Bananas')",1804,0.05899037515131816,34.03131484625542
-Bag of Organic Bananas,"('Organic Yellow Onion', 'Organic Hass Avocado', 'Organic Strawberries')",1804,0.05899037515131816,41.91449814126394
-Organic Strawberries,"('Organic Yellow Peaches', 'Bag of Organic Bananas')",1803,0.05895767538682187,39.42707194401925
-Banana,"('Organic Unsweetened Almond Milk', 'Organic Avocado')",1803,0.05895767538682187,35.07782101167315
-Banana,"('Red Raspberries', 'Strawberries')",1803,0.05895767538682187,39.91587336727917
-Organic Strawberries,"('Organic Green Seedless Grapes', 'Bag of Organic Bananas')",1800,0.05885957609333297,34.6553715825953
-Banana,"('Yellow Onions', 'Honeycrisp Apple')",1800,0.05885957609333297,45.848191543555785
-Banana,"('Organic Baby Carrots', 'Honeycrisp Apple')",1796,0.05872877703534779,37.55750731911334
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Garlic')",1794,0.0586633775063552,37.25083056478405
-Banana,"('Red Peppers', 'Large Lemon')",1792,0.0585979779773626,32.48142106217147
-Bag of Organic Bananas,"('Organic Navel Orange', 'Apple Honeycrisp Organic')",1789,0.05849987868387371,44.59122632103689
-Organic Hass Avocado,"('Organic Large Extra Fancy Fuji Apple', 'Organic Lemon')",1788,0.058467178919377416,33.160237388724035
-Banana,"('No Salt Added Black Beans', 'Limes')",1786,0.05840177939038483,36.62838392124693
-Banana,"('Organic Peeled Whole Baby Carrots', 'Cucumber Kirby')",1786,0.05840177939038483,44.728274480340595
-Bag of Organic Bananas,"('Organic Black Beans', 'Organic Strawberries')",1785,0.05836907962588853,30.2491103202847
-Banana,"('Non-Fat Greek Yogurt With Strawberries on the Bottom',)",1785,0.05836907962588853,38.45325290822921
-Bag of Organic Bananas,"('Organic Milk', 'Organic Hass Avocado')",1784,0.05833637986139224,41.2676382142031
-Banana,"('Clementines, Bag', 'Strawberries')",1784,0.05833637986139224,45.233265720081135
-Bag of Organic Bananas,"('100% Whole Wheat Bread', 'Organic Raspberries')",1782,0.05827098033239964,39.11325724319579
-Banana,"('Asparagus', 'Cucumber Kirby')",1782,0.05827098033239964,36.17539585870889
-Banana,"('Orange Bell Pepper', 'Organic Avocado')",1782,0.05827098033239964,34.64903752673537
-Banana,"('Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",1781,0.058238280567903346,30.855855855855857
-Bag of Organic Bananas,"('Organic Large Green Asparagus', 'Organic Hass Avocado')",1781,0.058238280567903346,37.46318889356331
-Organic Hass Avocado,"('Organic Large Green Asparagus', 'Bag of Organic Bananas')",1781,0.058238280567903346,35.155941571259376
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Raspberries')",1776,0.058074781745421876,37.67501060670344
-Banana,"('Sparkling Water Grapefruit', 'Large Lemon')",1773,0.05797668245193298,32.03830863751355
-Banana,"('Carrots', 'Cucumber Kirby')",1771,0.05791128292294039,33.63083934675276
-Banana,"('Red Delicious Apple',)",1769,0.05784588339394779,41.8896519062278
-Organic Hass Avocado,"('Organic Garlic', 'Organic Yellow Onion', 'Bag of Organic Bananas')",1767,0.057780483864955205,32.32119992683373
-Bag of Organic Bananas,"('Organic Garlic', 'Organic Yellow Onion', 'Organic Hass Avocado')",1767,0.057780483864955205,37.68394113883558
-Organic Yellow Onion,"('Organic Garlic', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1767,0.057780483864955205,30.127877237851663
-Banana,"('Bunched Cilantro', 'Organic Baby Spinach')",1763,0.05764968480697002,31.60631050555755
-Banana,"('Organic Reduced Fat Milk', 'Organic Baby Spinach')",1763,0.05764968480697002,36.69858451290591
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Lemon')",1759,0.05751888574898484,33.82692307692308
-Bag of Organic Bananas,"('Organic Fuji Apples',)",1758,0.057486185984488535,32.82913165266106
-Bag of Organic Bananas,"('Organic Peeled Whole Baby Carrots', 'Organic Raspberries')",1758,0.057486185984488535,35.928877988963826
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Hass Avocado', 'Organic Strawberries')",1754,0.057355386926503354,48.412917471708525
-Organic Hass Avocado,"('Apple Honeycrisp Organic', 'Organic Strawberries', 'Bag of Organic Bananas')",1754,0.057355386926503354,31.87352353261857
-Nonfat Icelandic Style Strawberry Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",1754,0.057355386926503354,34.41239945065725
-Non Fat Raspberry Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",1754,0.057355386926503354,44.997434581836835
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",1754,0.057355386926503354,45.90421355666056
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Grape Tomatoes')",1753,0.057322687162007065,33.112958065734794
-Organic Hass Avocado,"('Organic Cilantro', 'Organic Lemon')",1747,0.057126488575029284,32.303994082840234
-Strawberry on the Bottom Nonfat Greek Yogurt,"('Raspberry on the Bottom Nonfat Greek Yogurt',)",1746,0.05709378881053298,34.753184713375795
-Banana,"('Organic Fuji Apple', 'Organic Raspberries')",1744,0.057028389281540394,34.37808003153952
-Bag of Organic Bananas,"('Organic Whole Strawberries', 'Organic Raspberries')",1742,0.0569629897525478,33.66834170854271
-Banana,"('Organic Granny Smith Apple', 'Organic Avocado')",1739,0.05686489045905891,30.806023029229408
-Limes,"('Jalapeno Peppers', 'Organic Hass Avocado')",1737,0.056799490930066324,34.21311798306086
-Organic Hass Avocado,"('Organic Hothouse Cucumbers', 'Bag of Organic Bananas')",1736,0.05676679116557003,31.765782250686186
-Bag of Organic Bananas,"('Organic Hothouse Cucumbers', 'Organic Hass Avocado')",1736,0.05676679116557003,36.12151477320016
-Banana,"('Feta Cheese Crumbles', 'Organic Avocado')",1734,0.05670139163657744,36.10995418575593
-Organic Strawberries,"('Organic Yellow Peaches', 'Organic Hass Avocado')",1732,0.05663599210758484,41.35625596943648
-"Yogurt, Lowfat, Strawberry","('Organic Peach Lowfat Yogurt',)",1731,0.05660329234308854,40.83510261854211
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Cucumber')",1731,0.05660329234308854,33.269267730155676
-Banana,"('Small Macintosh Apple',)",1731,0.05660329234308854,34.62
-Bag of Organic Bananas,"('Organic Cilantro', 'Organic Cucumber')",1730,0.05657059257859225,32.45169761770775
-Bag of Organic Bananas,"('Organic Baby Arugula', 'Organic Raspberries')",1730,0.05657059257859225,32.30022404779687
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Zucchini')",1730,0.05657059257859225,39.73357831878732
-Banana,"('Organic Baby Carrots', 'Strawberries')",1730,0.05657059257859225,32.0192485656117
-Banana,"('Limes', 'Large Lemon', 'Organic Baby Spinach')",1724,0.05637439399161447,34.51451451451452
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Blueberries')",1724,0.05637439399161447,35.407681248716365
-Bag of Organic Bananas,"('Organic Red Onion', 'Organic Cucumber')",1724,0.05637439399161447,31.609827649431608
-Bag of Organic Bananas,"('Organic Large Brown Grade AA Cage Free Eggs', 'Organic Raspberries')",1719,0.05621089516913299,36.51231945624469
-Banana,"('Granny Smith Apples', 'Organic Fuji Apple')",1719,0.05621089516913299,53.022825416409624
-Organic Strawberries,"('Organic Roasted Turkey Breast', 'Organic Hass Avocado')",1719,0.05621089516913299,31.17519042437432
-Organic Strawberries,"('Organic Cucumber', 'Organic Blueberries')",1719,0.05621089516913299,35.304990757855826
-Organic Strawberries,"('Organic Black Plum',)",1717,0.0561454956401404,32.17163200299794
-Banana,"('Broccoli Crown', 'Strawberries')",1717,0.0561454956401404,46.9896004378763
-Limes,"('Organic Jalapeno Pepper', 'Organic Cilantro')",1717,0.0561454956401404,40.84205518553758
-Organic Cilantro,"('Organic Jalapeno Pepper', 'Limes')",1717,0.0561454956401404,31.638105767459002
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Blueberries')",1715,0.0560800961111478,34.87899125483018
-Bag of Organic Bananas,"('Fresh Cauliflower', 'Organic Cucumber')",1708,0.05585119775967373,33.75494071146245
-Banana,"('Red Peppers', 'Strawberries')",1708,0.05585119775967373,41.76039119804401
-Banana,"('Half & Half', 'Organic Fuji Apple')",1707,0.05581849799517744,45.71505088377075
-Banana,"('Organic Peeled Whole Baby Carrots', 'Original Hummus')",1702,0.05565499917269596,34.300685207577594
-Organic Hass Avocado,"('Organic Red Onion', 'Organic Lemon')",1702,0.05565499917269596,30.420017873100985
-Banana,"('Grated Parmesan', 'Organic Avocado')",1700,0.055589599643703365,34.22589087980673
-Banana,"('Bartlett Pears', 'Honeycrisp Apple')",1700,0.055589599643703365,49.361207897793264
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Zucchini')",1698,0.05552420011471078,33.25499412455934
-Organic Strawberries,"('Organic Cherries',)",1697,0.055491500350214475,30.249554367201426
-Organic Strawberries,"('Organic Blueberries', 'Limes')",1697,0.055491500350214475,30.046033994334277
-Peach on the Bottom Nonfat Greek Yogurt,"('Non Fat Black Cherry on the Bottom Greek Yogurt',)",1697,0.055491500350214475,36.41630901287554
-YoKids Squeeze! Organic Strawberry Flavor Yogurt,"('YoKids Squeeze Organic Blueberry Blue Yogurt',)",1694,0.05539340105672559,48.79032258064516
-Banana,"('Roma Tomato', 'Cucumber Kirby')",1693,0.055360701292229295,37.102783256629415
-Organic Hass Avocado,"('Organic Lemon', 'Organic Grape Tomatoes')",1693,0.055360701292229295,31.97959954665659
-Banana,"('Yellow Onions', 'Organic Whole Milk')",1692,0.05532800152773299,37.34274994482455
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Large Extra Fancy Fuji Apple')",1691,0.0552953017632367,38.484296768320434
-Banana,"('Blueberries Pint',)",1691,0.0552953017632367,37.39495798319328
-Organic Hass Avocado,"('Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries', 'Bag of Organic Bananas')",1689,0.05522990223424411,30.65892176438555
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Hass Avocado', 'Organic Strawberries')",1689,0.05522990223424411,47.24475524475524
-Vanilla Skyr Nonfat Yogurt,"('Icelandic Style Skyr Blueberry Non-fat Yogurt', 'Banana')",1688,0.05519720246974781,33.07210031347962
-Banana,"('Red Onion', 'Cucumber Kirby')",1688,0.05519720246974781,35.19599666388657
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Vanilla Skyr Nonfat Yogurt', 'Banana')",1688,0.05519720246974781,38.276643990929706
-Limes,"('Organic Cilantro', 'Organic Lemon')",1687,0.05516450270525152,31.194526627218934
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Raspberries')",1687,0.05516450270525152,41.257031058938615
-Banana,"('100% Whole Wheat Bread', 'Organic Avocado')",1686,0.05513180294075522,35.758218451749734
-Bag of Organic Bananas,"('Unsweetened Almondmilk', 'Organic Raspberries')",1685,0.05509910317625892,35.4438367690366
-Blueberry on the Bottom Nonfat Greek Yogurt,"('Raspberry on the Bottom Nonfat Greek Yogurt',)",1684,0.05506640341176263,33.51910828025478
-Bag of Organic Bananas,"('Organic Baby Carrots', 'Organic Cucumber')",1684,0.05506640341176263,35.25963149078727
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Blueberries')",1682,0.05500100388277004,36.071198799056404
-Banana,"('Bartlett Pears', 'Organic Baby Spinach')",1681,0.054968304118273734,42.289308176100626
-Bag of Organic Bananas,"('Organic Red Onion', 'Organic Lemon')",1679,0.05490290458928115,30.008936550491512
-Bag of Organic Bananas,"('Organic Cilantro', 'Organic Lemon')",1676,0.054804805295792264,30.99112426035503
-Organic Hass Avocado,"('Organic Gala Apples', 'Organic Lemon')",1675,0.05477210553129597,34.61458979127919
-Bag of Organic Bananas,"('Organic Milk', 'Organic Strawberries')",1674,0.05473940576679966,37.21654068474878
-Bag of Organic Bananas,"('Organic Bell Pepper', 'Organic Hass Avocado')",1673,0.05470670600230337,36.833993835314836
-Organic Hass Avocado,"('Organic Bell Pepper', 'Bag of Organic Bananas')",1673,0.05470670600230337,30.89566020313943
-Bag of Organic Bananas,"('Organic Sticks Low Moisture Part Skim Mozzarella String Cheese', 'Organic Hass Avocado')",1672,0.05467400623780708,35.0597609561753
-Banana,"('Baby Spinach Salad',)",1671,0.05464130647331078,30.04314994606257
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Kiwi')",1670,0.05460860670881448,39.71462544589774
-Organic Hass Avocado,"('Organic Red Bell Pepper', 'Organic Lemon')",1667,0.05451050741532559,33.10824230387289
-Bag of Organic Bananas,"('Organic Baby Carrots', 'Apple Honeycrisp Organic')",1663,0.05437970835734041,32.92417343100376
-Organic Hass Avocado,"('Organic Navel Orange', 'Organic Raspberries')",1663,0.05437970835734041,31.82166092613854
-Organic Strawberries,"('Organic Bartlett Pear', 'Organic Raspberries')",1663,0.05437970835734041,35.87918015102481
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Zucchini')",1659,0.054248909299355226,30.865116279069767
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Whole Milk')",1659,0.054248909299355226,32.75419545903257
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Lemon')",1658,0.05421620953485893,32.92949354518371
-Organic Strawberries,"('Organic Blueberries', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1658,0.05421620953485893,34.73706264403939
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Hass Avocado', 'Organic Strawberries')",1658,0.05421620953485893,41.66876099522493
-Banana,"('Orange Bell Pepper', 'Large Lemon')",1657,0.05418350977036264,32.95544948289578
-Banana,"('Orange Bell Pepper', 'Organic Baby Spinach')",1656,0.05415081000586634,30.740671988119544
-Bag of Organic Bananas,"('Carrots', 'Organic Raspberries')",1653,0.05405271071237745,33.25286662643332
-Banana,"('Cucumber Kirby', 'Organic Avocado', 'Organic Baby Spinach')",1652,0.054020010947881156,45.711123408965136
-Banana,"('Red Peppers', 'Organic Fuji Apple')",1652,0.054020010947881156,44.70906630581867
-Bag of Organic Bananas,"('Organic Whole Strawberries', 'Organic Strawberries')",1649,0.05392191165439227,31.994567326348466
-Banana,"('Bolthouse Baby Carrots',)",1649,0.05392191165439227,34.95866016535934
-Banana,"('Original Hummus', 'Organic Fuji Apple')",1649,0.05392191165439227,42.731277533039645
-Organic Strawberries,"('Organic Large Brown Grade AA Cage Free Eggs', 'Organic Raspberries')",1649,0.05392191165439227,35.025488530161425
-Blueberry on the Bottom Nonfat Greek Yogurt,"('Non Fat Black Cherry on the Bottom Greek Yogurt',)",1648,0.05388921188989597,35.36480686695279
-Bag of Organic Bananas,"('100% Raw Coconut Water', 'Organic Raspberries')",1645,0.053791112596407085,39.213349225268175
-Banana,"('Sparkling Water Grapefruit', 'Organic Fuji Apple')",1642,0.05369301330291819,44.92476060191519
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Hass Avocado', 'Organic Strawberries')",1638,0.053562214244933,46.98795180722892
-Organic Hass Avocado,"('Organic Zucchini', 'Organic Strawberries', 'Bag of Organic Bananas')",1638,0.053562214244933,32.38434163701068
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Cucumber')",1637,0.05352951448043672,41.08935742971887
-Banana,"('Organic Baby Carrots', 'Seedless Red Grapes')",1634,0.05343141518694782,32.52388535031847
-Baby Food Stage 2 Blueberry Pear & Purple Carrot,"('Peach,  Apricot & Banana Stage 2 Baby Food',)",1634,0.05343141518694782,32.058073376495976
-Strawberries,"('Hass Avocados', 'Raspberries')",1633,0.05339871542245153,32.24723538704581
-Banana,"(""Organic D'Anjou Pears"", 'Organic Avocado')",1633,0.05339871542245153,34.47329533459996
-Banana,"('Green Beans', 'Organic Avocado')",1632,0.053366015657955235,38.8663967611336
-Bag of Organic Bananas,"('Organic Half & Half', 'Organic Raspberries')",1631,0.05333331589345893,35.63469521520647
-Frozen Organic Wild Blueberries,"('Organic Whole Strawberries', 'Organic Raspberries')",1631,0.05333331589345893,31.522999613451873
-Banana,"('Bartlett Pears', 'Organic Strawberries')",1629,0.053267916364466344,43.35906308224647
-Bag of Organic Bananas,"('Organic Baby Broccoli', 'Organic Strawberries')",1628,0.05323521659997005,31.39220979560355
-Banana,"('Original Hummus', 'Honeycrisp Apple')",1623,0.053071717777488564,40.1832136667492
-Organic Avocado,"('Limes', 'Large Lemon', 'Organic Baby Spinach')",1619,0.05294091871950338,32.41241241241241
-Large Lemon,"('Limes', 'Organic Avocado', 'Organic Baby Spinach')",1619,0.05294091871950338,34.163325596117325
-Banana,"('Roma Tomato', 'Large Lemon')",1619,0.05294091871950338,34.9751566213005
-Organic Hass Avocado,"('Apple Honeycrisp Organic', 'Organic Raspberries', 'Bag of Organic Bananas')",1618,0.05290821895500709,37.865668148841564
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Blueberries')",1618,0.05290821895500709,34.13502109704641
-Banana,"('Small Hass Avocado', 'Limes')",1617,0.05287551919051079,30.094919039642658
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Banana')",1617,0.05287551919051079,30.326331582895723
-Banana,"('Boneless Skinless Chicken Breasts', 'Strawberries')",1613,0.052744720132525603,42.169934640522875
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Cucumber')",1611,0.05267932060353301,38.13920454545455
-Banana,"('Granny Smith Apples', 'Large Lemon')",1611,0.05267932060353301,41.90946930280957
-Large Lemon,"('Broccoli Crown', 'Limes')",1610,0.05264662083903672,37.36365746112787
-Organic Strawberries,"('Organic Yellow Peaches', 'Banana')",1607,0.05254852154554784,36.630955094597674
-Bag of Organic Bananas,"('Organic Italian Parsley Bunch', 'Organic Raspberries')",1604,0.05245042225205894,34.930313588850176
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Hass Avocado', 'Organic Baby Spinach')",1603,0.05241772248756265,40.27638190954774
-Banana,"('Frozen Peaches',)",1601,0.05235232295857005,30.45463191934563
-Banana,"('Organic Garlic', 'Strawberries')",1599,0.05228692342957746,34.587929915639194
-Banana,"('Raspberries', 'Organic Avocado')",1598,0.052254223665081166,38.62702441382645
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Yellow Onion')",1598,0.052254223665081166,38.73000484730974
-Banana,"('Broccoli Crown', 'Limes')",1596,0.052188824136088566,37.03875609190067
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Yellow Onion')",1595,0.05215612437159228,41.874507744814906
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Lemon')",1594,0.05212342460709598,34.31646932185145
-Banana,"('Mango Chunks', 'Organic Baby Spinach')",1594,0.05212342460709598,39.11656441717791
-Banana,"('Broccoli Crown', 'Honeycrisp Apple')",1593,0.05209072484259968,47.5096928124068
-Bag of Organic Bananas,"('Michigan Organic Kale', 'Organic Raspberries')",1593,0.05209072484259968,33.88640714741544
-Banana,"('Small Hass Avocado', 'Large Lemon')",1593,0.05209072484259968,33.01554404145078
-Organic Strawberries,"('Organic Large Green Asparagus', 'Bag of Organic Bananas')",1592,0.052058025078103386,31.425187524674296
-Organic Hass Avocado,"('Organic Garlic', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1592,0.052058025078103386,32.22019834041692
-Bag of Organic Bananas,"('Organic Large Green Asparagus', 'Organic Strawberries')",1592,0.052058025078103386,33.48054679284963
-Bag of Organic Bananas,"('Organic Garlic', 'Organic Hass Avocado', 'Organic Baby Spinach')",1592,0.052058025078103386,38.07701506816551
-Organic Strawberries,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Baby Spinach')",1591,0.052025325313607096,33.09756604951113
-Organic Hass Avocado,"('Organic Raspberries', 'Organic Baby Spinach', 'Organic Strawberries')",1591,0.052025325313607096,30.104068117313147
-Banana,"('Blueberries', 'Cucumber Kirby')",1589,0.051959925784614495,46.2995337995338
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Cucumber')",1589,0.051959925784614495,38.605442176870746
-Banana,"('Small Hass Avocado', 'Organic Fuji Apple')",1588,0.0519272260201182,45.73732718894009
-Banana,"('Blueberries', 'Large Lemon')",1587,0.05189452625562191,41.38200782268579
-Bag of Organic Bananas,"('Shredded Parmesan', 'Organic Hass Avocado')",1586,0.05186182649112561,31.68831168831169
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Raspberries', 'Organic Strawberries')",1585,0.051829126726629315,36.851894908160894
-Organic Strawberries,"('Organic Blueberries', 'Organic Raspberries', 'Bag of Organic Bananas')",1585,0.051829126726629315,35.97367226509306
-Banana,"('Extra Virgin Olive Oil', 'Organic Avocado')",1585,0.051829126726629315,33.72340425531915
-Banana,"('Original Hummus', 'Strawberries')",1584,0.05179642696213301,41.73913043478261
-Organic Strawberries,"('Organic Whole Milk', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1583,0.05176372719763672,30.41306436119116
-Bag of Organic Bananas,"('Organic Whole Milk', 'Organic Hass Avocado', 'Organic Strawberries')",1583,0.05176372719763672,38.34786821705426
-Bag of Organic Bananas,"('Limes', 'Organic Hass Avocado', 'Organic Strawberries')",1580,0.05166562790414784,37.27294173154046
-Banana,"('Cucumber Kirby', 'Large Lemon', 'Organic Avocado')",1580,0.05166562790414784,45.57254110181713
-Organic Hass Avocado,"('Limes', 'Organic Strawberries', 'Bag of Organic Bananas')",1580,0.05166562790414784,35.267857142857146
-Bag of Organic Bananas,"('Organic Russet Potato', 'Organic Baby Spinach')",1579,0.05163292813965154,31.630608974358974
-Bag of Organic Bananas,"('Frozen Organic Wild Blueberries', 'Organic Strawberries')",1579,0.05163292813965154,33.524416135881104
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Grape Tomatoes')",1578,0.05160022837515524,35.76609247506799
-Banana,"('Asparagus', 'Strawberries')",1578,0.05160022837515524,36.78321678321678
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Apple Honeycrisp Organic')",1575,0.051502129081666355,34.56221198156682
-Organic Strawberries,"('Organic Large Extra Fancy Fuji Apple', 'Organic Blueberries')",1575,0.051502129081666355,33.77653870898563
-Banana,"('Red Onion', 'Organic Baby Spinach')",1575,0.051502129081666355,34.53947368421053
-Bag of Organic Bananas,"('Organic Roma Tomato', 'Organic Hass Avocado')",1574,0.05146942931717006,35.244066278549035
-Banana,"('Organic Half & Half', 'Organic Avocado')",1570,0.05133863025918487,31.55144694533762
-Bag of Organic Bananas,"('Organic Broccoli Florets', 'Organic Hass Avocado')",1567,0.05124053096569599,37.48803827751196
-Banana,"('Organic Black Beans', 'Organic Avocado')",1563,0.0511097319077108,31.24750099960016
-Vanilla Almond Milk Yogurt,"('Almond Milk Blueberry Yogurt',)",1561,0.0510443323787182,33.10710498409332
-Vanilla Almond Milk Yogurt,"('Almond Milk Peach Yogurt',)",1561,0.0510443323787182,33.18452380952381
-Bag of Organic Bananas,"('Sparkling Natural Mineral Water', 'Organic Hass Avocado')",1561,0.0510443323787182,33.65674859853385
-Banana,"('Clementines, Bag', 'Organic Avocado')",1560,0.05101163261422192,43.30927262631871
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Apple Honeycrisp Organic')",1559,0.050978932849725614,32.317578772802655
-Banana,"('Organic Baby Carrots', 'Limes')",1557,0.05091353332073302,30.098588826599652
-Organic Hass Avocado,"('Organic Garlic', 'Organic Strawberries', 'Bag of Organic Bananas')",1557,0.05091353332073302,33.3048128342246
-Bag of Organic Bananas,"('Organic Garlic', 'Organic Hass Avocado', 'Organic Strawberries')",1557,0.05091353332073302,41.17958212113197
-Bag of Organic Bananas,"('Organic Bosc Pear', 'Organic Strawberries')",1555,0.050848133791740434,39.871794871794876
-Bag of Organic Bananas,"('Organic Carrot Bunch', 'Organic Baby Spinach')",1554,0.05081543402724413,31.229903536977492
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Grape Tomatoes')",1554,0.05081543402724413,31.636807817589574
-Banana,"('Orange Bell Pepper', 'Cucumber Kirby')",1552,0.050750034498251544,36.39774859287054
-Organic Hass Avocado,"('Michigan Organic Kale', 'Organic Lemon')",1552,0.050750034498251544,31.64118246687054
-Banana,"('Organic Blueberries', 'Cucumber Kirby')",1547,0.05058653567577006,41.89006227998917
-Banana,"('Organic Fuji Apple', 'Organic Zucchini')",1546,0.05055383591127376,36.42789820923657
-Banana,"('Bartlett Pears', 'Cucumber Kirby')",1544,0.05048843638228118,49.297573435504475
-Banana,"('Honeycrisp Apple', 'Organic Raspberries')",1543,0.05045573661778488,31.228496255818662
-Bag of Organic Bananas,"('Sparkling Water Grapefruit', 'Organic Raspberries')",1542,0.050423036853288576,31.239870340356564
-Organic Strawberries,"('Organic Red Onion', 'Organic Raspberries')",1542,0.050423036853288576,30.070202808112324
-Banana,"('Organic Baby Carrots', 'Organic Fuji Apple')",1541,0.05039033708879229,40.563306133192945
-Banana,"('Organic Peeled Whole Baby Carrots', 'Large Lemon')",1540,0.05035763732429599,37.19806763285024
-Organic Hass Avocado,"('Organic Baby Arugula', 'Organic Lemon')",1538,0.050292237795303396,30.58870326173429
-Banana,"('Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Organic Strawberries')",1535,0.050194138501814506,32.78513455788124
-Bag of Organic Bananas,"('100% Whole Wheat Bread', 'Organic Baby Spinach')",1532,0.05009603920832562,30.69525145261471
-Banana,"('Blueberries', 'Organic Fuji Apple')",1531,0.050063339443829326,48.11439346323067
-Banana,"('Fresh Cauliflower', 'Cucumber Kirby')",1531,0.050063339443829326,36.09997642065551
-Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,"('Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food',)",1531,0.050063339443829326,47.29687982700031
-Banana,"('Organic Extra Firm Tofu', 'Organic Avocado')",1529,0.04999793991483674,38.3881496359528
-Banana,"('Organic Peeled Whole Baby Carrots', 'Limes')",1529,0.04999793991483674,35.23041474654378
-Organic Strawberries,"('Organic Red Bell Pepper', 'Organic Blueberries')",1528,0.049965240150340436,35.49361207897793
-Organic Hass Avocado,"('Organic Lemon', 'Organic Blueberries')",1527,0.04993254038584414,31.055521659548507
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Large Extra Fancy Fuji Apple')",1526,0.04989984062134785,39.14828116983068
-Peach Pear Flavored Sparkling Water,"('Sparkling Water Berry', 'Lime Sparkling Water')",1524,0.049834441092355256,36.24256837098692
-Sparkling Water Berry,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",1524,0.049834441092355256,36.13086770981508
-Lime Sparkling Water,"('Sparkling Water Berry', 'Peach Pear Flavored Sparkling Water')",1524,0.049834441092355256,44.13553431798436
-Organic Baby Spinach,"('Pineapple Chunks', 'Bag of Organic Bananas')",1521,0.049736341798866365,31.940361192776145
-Banana,"('Honeycrisp Apple', 'Organic Blueberries')",1521,0.049736341798866365,39.48598130841122
-Organic Hass Avocado,"('Fresh Cauliflower', 'Organic Lemon')",1520,0.04970364203437007,31.14115959844294
-Banana,"('Shredded Parmesan', 'Organic Avocado')",1520,0.04970364203437007,35.48085901027078
-Bag of Organic Bananas,"('Fresh Cauliflower', 'Organic Lemon')",1519,0.04967094226987377,31.120671993443967
-Organic Strawberries,"('Organic Peeled Whole Baby Carrots', 'Organic Raspberries')",1516,0.04957284297638488,30.983036991620683
-Banana,"('YoKids Squeezers Organic Low-Fat Yogurt, Strawberry', 'Organic Strawberries')",1516,0.04957284297638488,30.682048168386967
-Banana,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",1516,0.04957284297638488,30.595358224016145
-Limes,"('Jalapeno Peppers', 'Organic Red Onion')",1515,0.049540143211888585,38.31562974203339
-Bag of Organic Bananas,"('Organic Bread with 21 Whole Grains', 'Organic Hass Avocado')",1514,0.049507443447392295,36.78328474246841
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Lemon')",1514,0.049507443447392295,43.33142530051517
-Vanilla Skyr Nonfat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",1514,0.049507443447392295,38.57324840764331
-Organic Strawberries,"('Apple Honeycrisp Organic', 'Organic Blueberries')",1514,0.049507443447392295,31.940928270042196
-Organic Strawberries,"('Organic Lemon', 'Organic Blueberries')",1513,0.049474743682896,30.770795200325402
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Baby Carrots')",1513,0.049474743682896,36.812652068126525
-Banana,"('Hass Avocado Bag',)",1512,0.049442043918399695,31.85169580787866
-Bag of Organic Bananas,"('Organic Red Radish, Bunch', 'Organic Hass Avocado')",1512,0.049442043918399695,30.86974275214373
-Banana,"('Yellow Onions', 'Organic Fuji Apple')",1511,0.0494093441539034,44.532861774241084
-Baby Food Stage 2 Blueberry Pear & Purple Carrot,"('Baby Food Stage 2 Pumpkin Banana',)",1507,0.04927854509591821,33.804396590399286
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Limes')",1505,0.049213145566925624,31.018136850783186
-Banana,"('Red Vine Tomato', 'Organic Fuji Apple')",1504,0.04918044580242933,46.17746392385631
-Banana,"('Low-Fat Strawberry Banana on the Bottom Greek Yogurt',)",1501,0.049082346508940444,36.988664366683096
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Large Extra Fancy Fuji Apple')",1500,0.04904964674444414,41.18616144975288
-Banana,"('Ground Turkey Breast', 'Organic Avocado')",1500,0.04904964674444414,36.452004860267316
-Banana,"('Grape White/Green Seedless', 'Strawberries')",1499,0.04901694697994786,37.52190237797247
-Bag of Organic Bananas,"('100% Raw Coconut Water', 'Organic Baby Spinach')",1498,0.048984247215451554,32.96654929577465
-Bag of Organic Bananas,"('Organic Lacinato (Dinosaur) Kale', 'Organic Raspberries')",1498,0.048984247215451554,35.62425683709869
-Bag of Organic Bananas,"('Fresh Cauliflower', 'Apple Honeycrisp Organic')",1497,0.04895154745095526,34.79776847977685
-Limes,"('Organic Cilantro', 'Yellow Onions')",1497,0.04895154745095526,35.91650671785029
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Whole Milk')",1494,0.048853448157466374,32.87128712871287
-Banana,"('Unsweetened Original Almond Breeze Almond Milk', 'Organic Baby Spinach')",1494,0.048853448157466374,34.26605504587156
-Banana,"('Red Onion', 'Organic Strawberries')",1494,0.048853448157466374,36.02604292259465
-Limes,"('Bunched Cilantro', 'Yellow Onions')",1492,0.04878804862847378,33.92451114142792
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Apple Honeycrisp Organic')",1492,0.04878804862847378,34.44136657433056
-Organic Baby Spinach,"('Organic Ginger Root', 'Organic Cucumber')",1491,0.04875534886397748,30.453431372549016
-Banana,"('Organic Blackberries', 'Organic Fuji Apple')",1491,0.04875534886397748,45.27786213179471
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Yellow Onion')",1490,0.04872264909948119,30.944963655244027
-Banana,"('Cucumber Kirby', 'Organic Raspberries')",1486,0.048591850041496,32.53064798598949
-Vitamin Water Zero Squeezed Lemonade,"('Vitamin Water Zero Rise Orange',)",1486,0.048591850041496,34.27121771217712
-Strawberry on the Bottom Nonfat Greek Yogurt,"('Non Fat Black Cherry on the Bottom Greek Yogurt',)",1485,0.0485591502769997,31.86695278969957
-Organic Strawberries,"('Red Plum',)",1484,0.048526450512503407,30.497328401150842
-Bag of Organic Bananas,"('Organic Navel Orange', ""Organic D'Anjou Pears"")",1482,0.04846105098351082,46.3125
-Bag of Organic Bananas,"('Organic Broccoli', 'Organic Raspberries')",1482,0.04846105098351082,40.021604104779904
-Bag of Organic Bananas,"('Organic Bell Pepper', 'Organic Strawberries')",1481,0.048428351219014516,31.009212730318257
-Banana,"('Orange Bell Pepper', 'Organic Strawberries')",1480,0.048395651454518226,31.18415507796039
-Banana,"('Asparagus', 'Organic Whole Milk')",1480,0.048395651454518226,32.685512367491164
-Organic Hass Avocado,"('Organic Navel Orange', 'Organic Lemon')",1480,0.048395651454518226,33.37843933243121
-Banana,"('Artisan Sausage Pineapple Uncured Bacon Hardwood Smoked with Vermont Maple Syrup',)",1478,0.04833025192552563,30.90757005437056
-Bag of Organic Bananas,"('Milk, Organic, Vitamin D', 'Organic Strawberries')",1477,0.048297552161029336,38.71559633027523
-Limes,"('Red Onion', 'Bunched Cilantro')",1476,0.04826485239653304,34.59104757440825
-Organic Hass Avocado,"('Organic Lacinato (Dinosaur) Kale', 'Organic Lemon')",1476,0.04826485239653304,31.504802561366063
-Peach Pear Flavored Sparkling Water,"('Sparkling Lemon Water', 'Lime Sparkling Water', 'Sparkling Water Grapefruit')",1476,0.04826485239653304,33.28822733423545
-Banana,"('Honeycrisp Apple', 'Organic Grape Tomatoes')",1475,0.04823215263203674,38.56209150326798
-Organic Strawberries,"('100% Whole Wheat Bread', 'Organic Raspberries')",1474,0.048199452867540446,32.35294117647059
-Organic Strawberries,"('Organic Sticks Low Moisture Part Skim Mozzarella String Cheese', 'Organic Hass Avocado')",1472,0.04813405333854785,30.86600964562801
-Organic Hass Avocado,"('Organic Blueberries', 'Organic Raspberries', 'Bag of Organic Bananas')",1472,0.04813405333854785,33.40898774398548
-Organic Raspberries,"('Organic Blueberries', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1472,0.04813405333854785,30.840142468049446
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Gala Apples')",1471,0.04810135357405156,42.22158438576349
-Banana,"('Michigan Organic Kale', 'Strawberries')",1470,0.04806865380955526,40.16393442622951
-Bag of Organic Bananas,"('Organic Italian Parsley Bunch', 'Organic Cucumber')",1470,0.04806865380955526,30.378177309361437
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Yellow Onion')",1469,0.04803595404505897,32.812150993969176
-Banana,"('Seedless Red Grapes', 'Organic Grape Tomatoes')",1469,0.04803595404505897,34.976190476190474
-Banana,"('Honeycrisp Apple', 'Organic Garlic')",1466,0.04793785475157008,32.36917641863546
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Apple Honeycrisp Organic')",1466,0.04793785475157008,33.159918570459176
-Banana,"('Brownberry 100% 12 Grain Bread',)",1466,0.04793785475157008,32.75245755138517
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Baby Spinach', 'Organic Strawberries')",1466,0.04793785475157008,38.50801155765694
-Banana,"('Organic Gala Apples', 'Strawberries')",1466,0.04793785475157008,38.266771078047505
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Lemon')",1466,0.04793785475157008,39.75054229934924
-Limes,"('Organic Red Bell Pepper', 'Organic Cilantro')",1465,0.04790515498707378,31.41754235470727
-Bag of Organic Bananas,"('Organic Lacinato (Dinosaur) Kale', 'Organic Lemon')",1465,0.04790515498707378,31.270010672358588
-Banana,"('Feta Cheese Crumbles', 'Cucumber Kirby')",1464,0.047872455222577485,35.908756438557766
-Organic Hass Avocado,"('Organic Cucumber', 'Organic Raspberries', 'Bag of Organic Bananas')",1464,0.047872455222577485,41.948424068767906
-Banana,"('Vanilla Almond Breeze Almond Milk', 'Organic Baby Spinach')",1462,0.04780705569358489,33.984193398419336
-Banana,"('Yellow Bell Pepper', 'Organic Avocado')",1461,0.0477743559290886,35.905627918407475
-Greek Whole Milk Blended Blueberry Yogurt,"('Organic Greek Whole Milk Blended Strawberry Yogurt',)",1458,0.047676256635599705,34.72255298880686
-Organic Strawberries,"('Apple Honeycrisp Organic', 'Organic Raspberries', 'Bag of Organic Bananas')",1457,0.047643556871103415,34.097823543178094
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Raspberries', 'Organic Strawberries')",1457,0.047643556871103415,45.73132454488387
-Organic Strawberries,"('Organic Large Green Asparagus', 'Organic Hass Avocado')",1455,0.04757815734211082,30.605805637358014
-Organic Hass Avocado,"('Organic Large Green Asparagus', 'Organic Strawberries')",1455,0.04757815734211082,30.5993690851735
-Banana,"('Cucumber Kirby', 'Organic Yellow Onion')",1451,0.047447358284125635,31.305285868392662
-Sparkling Water Berry,"('Sparkling Lemon Water', 'Lime Sparkling Water', 'Sparkling Water Grapefruit')",1451,0.047447358284125635,32.724402345511955
-Baby Food Stage 2 Blueberry Pear & Purple Carrot,"('Apple and Carrot Stage 2 Baby Food',)",1449,0.04738195875513305,35.204081632653065
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Small Bunch Celery')",1448,0.04734925899063675,30.730050933786078
-Banana,"('Green Beans', 'Large Lemon')",1444,0.047218459932651564,33.449154505443595
-Banana,"('Grape White/Green Seedless', 'Large Lemon')",1442,0.04715306040365897,37.62066266631881
-Organic Strawberries,"('Organic Lemon', 'Organic Raspberries', 'Bag of Organic Bananas')",1442,0.04715306040365897,35.40387920451755
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Raspberries', 'Organic Strawberries')",1442,0.04715306040365897,44.93611717045808
-Bag of Organic Bananas,"('Organic Large Grade AA Brown Eggs', 'Organic Hass Avocado')",1441,0.047120360639162674,35.739087301587304
-Banana,"('Fresh Cauliflower', 'Strawberries')",1440,0.047087660874666384,36.45569620253165
-Banana,"('Organic Half & Half', 'Large Lemon')",1439,0.04705496111017008,30.76758605943981
-Banana,"('Bunched Cilantro', 'Cucumber Kirby')",1439,0.04705496111017008,35.304219823356235
-Banana,"('Sparkling Water Grapefruit', 'Honeycrisp Apple')",1438,0.04702226134567379,39.73473335175463
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Bag of Organic Bananas')",1438,0.04702226134567379,46.932114882506525
-Banana,"('Half & Half', 'Large Lemon')",1437,0.04698956158117749,31.293554006968645
-Organic Strawberries,"('Organic Baby Carrots', 'Organic Blueberries')",1437,0.04698956158117749,30.731394354148843
-"Juice Beverage, Cold Pressed, Kale Apple Ginger Romaine Spinach Cucumber Celery Parsley Lemon","('Beet Apple Carrot Lemon Ginger Organic Cold Pressed Juice Beverage',)",1436,0.0469568618166812,34.419942473633746
-Banana,"('Bunched Cilantro', 'Yellow Onions')",1436,0.0469568618166812,32.65120509322419
-Organic Baby Spinach,"('Organic Ginger Root', 'Organic Avocado')",1435,0.0469241620521849,30.338266384778013
-Organic Hass Avocado,"('Organic Large Brown Grade AA Cage Free Eggs', 'Organic Raspberries')",1434,0.046891462287688604,30.458793542905692
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Yellow Onion')",1433,0.04685876252319231,37.249805042890564
-Banana,"('Michigan Organic Kale', 'Yellow Onions')",1432,0.04682606275869601,36.271529888551164
-Organic Hass Avocado,"('Organic Granny Smith Apple', 'Organic Lemon')",1432,0.04682606275869601,30.828848223896664
-Banana,"('100% Whole Wheat Bread', 'Large Lemon')",1431,0.046793362994199714,38.405797101449274
-Banana,"('Organic Blackberries', 'Large Lemon')",1431,0.046793362994199714,31.53371529308065
-Banana,"('Apple Honeycrisp Organic', 'Strawberries')",1426,0.04662986417171824,32.781609195402304
-Banana,"('Organic Gala Apples', 'Cucumber Kirby')",1425,0.04659716440722194,41.1968777103209
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Yellow Onion')",1424,0.04656446464272564,33.93708293612965
-Bag of Organic Bananas,"('Organic Kiwi', 'Apple Honeycrisp Organic')",1423,0.04653176487822935,38.324804740102344
-Banana,"('Organic Red Onion', 'Cucumber Kirby')",1421,0.04646636534923676,30.532874946282767
-Bag of Organic Bananas,"('Grape White/Green Seedless', 'Organic Hass Avocado')",1421,0.04646636534923676,33.67298578199052
-Limes,"('Jalapeno Peppers', 'Organic Yellow Onion')",1421,0.04646636534923676,31.33406835722161
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Large Extra Fancy Fuji Apple')",1417,0.04633556629125157,40.43949771689498
-Organic Hass Avocado,"('Organic Garnet Sweet Potato (Yam)', 'Organic Lemon')",1417,0.04633556629125157,37.636122177954846
-Organic Hass Avocado,"('Limes', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1416,0.046302866526755276,32.75503122831367
-Bag of Organic Bananas,"('Limes', 'Organic Hass Avocado', 'Organic Baby Spinach')",1416,0.046302866526755276,34.81681829358249
-Banana,"('Raspberries', 'Large Lemon')",1416,0.046302866526755276,37.93195821055451
-Bag of Organic Bananas,"('Whipped Cream Cheese', 'Organic Hass Avocado')",1415,0.04627016676225898,34.49536811311555
-Banana,"('Large Lemon', 'Organic Avocado', 'Organic Strawberries')",1414,0.04623746699776268,42.208955223880594
-Bag of Organic Bananas,"('Organic Roma Tomato', 'Organic Strawberries')",1413,0.046204767233266386,31.386050644158153
-Organic Strawberries,"('Half & Half', 'Organic Raspberries')",1413,0.046204767233266386,31.802835921674543
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Grape Tomatoes')",1410,0.046106667939777496,31.871609403254975
-Banana,"('Unsweetened Almondmilk', 'Organic Avocado')",1410,0.046106667939777496,32.79069767441861
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Cucumber')",1409,0.0460739681752812,43.088685015290515
-Banana,"('Green Bell Pepper', 'Cucumber Kirby')",1409,0.0460739681752812,34.34909800097514
-Organic Hass Avocado,"('Organic Large Extra Fancy Fuji Apple', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1408,0.0460412684107849,34.577603143418465
-Banana,"('Organic Fuji Apple', 'Organic Grape Tomatoes')",1408,0.0460412684107849,40.69364161849711
-Banana,"('Red Peppers', 'Yellow Onions')",1408,0.0460412684107849,34.034324389654344
-Total 2% Greek Strained Yogurt with Cherry 5.3 oz,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",1406,0.04597586888179231,37.66407714974551
-Banana,"('Organic Kiwi', 'Large Lemon')",1406,0.04597586888179231,32.01275045537341
-Banana,"('Boneless Skinless Chicken Breasts', 'Organic Whole Milk')",1405,0.04594316911729602,38.20010875475802
-Limes,"('Bunched Cilantro', 'Organic Hass Avocado')",1403,0.045877769588303426,36.54597551445689
-Bag of Organic Bananas,"('Organic Ginger Root', 'Organic Raspberries')",1402,0.04584506982380713,35.31486146095718
-Organic Garlic,"('Organic Ginger Root', 'Organic Italian Parsley Bunch')",1401,0.04581237005931083,30.683311432325887
-Banana,"('100% Whole Wheat Bread', 'Organic Fuji Apple')",1400,0.04577967029481454,43.45127250155183
-Banana,"('Grape White/Green Seedless', 'Cucumber Kirby')",1399,0.04574697053031824,41.79862563489692
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Large Extra Fancy Fuji Apple')",1399,0.04574697053031824,35.24817334341144
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Apple Honeycrisp Organic')",1399,0.04574697053031824,34.33128834355828
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Garlic')",1398,0.04571427076582195,36.69291338582677
-Grapefruit Sparkling Water,"('Coconut Sparkling Water',)",1398,0.04571427076582195,34.24791768740813
-Organic Hass Avocado,"('Organic Kiwi', 'Organic Strawberries', 'Bag of Organic Bananas')",1397,0.045681571001325645,33.89131489568171
-Banana,"('Organic Whole String Cheese', 'Large Lemon')",1397,0.045681571001325645,36.12619601758469
-Organic Strawberries,"('Organic Kiwi', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1397,0.045681571001325645,33.94071914480078
-Banana,"('Russet Potato', 'Organic Avocado')",1395,0.04561617147233306,39.78893325727324
-Banana,"('Honeycrisp Apple', 'Organic Zucchini')",1392,0.04551807217884417,33.071988595866
-Banana,"('Broccoli Crown', 'Organic Whole Milk')",1391,0.04548537241434787,41.23925289060184
-Organic Hass Avocado,"('Organic Zucchini', 'Organic Raspberries', 'Bag of Organic Bananas')",1390,0.045452672649851575,38.39779005524862
-Organic Strawberries,"('Uncured Genoa Salami', 'Organic Raspberries')",1389,0.04541997288535528,34.22868408082799
-Banana,"('Organic Blackberries', 'Cucumber Kirby')",1389,0.04541997288535528,42.18038262982083
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Fresh Cauliflower')",1388,0.04538727312085898,35.96786732314071
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Cucumber')",1384,0.0452564740628738,37.395298567954605
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Garlic')",1383,0.0452237742983775,31.33212505663797
-Bag of Organic Bananas,"('Organic White Onions', 'Organic Hass Avocado')",1382,0.04519107453388121,34.241823587710606
-Banana,"('Organic Peeled Whole Baby Carrots', 'Organic Whole Milk')",1381,0.04515837476938491,33.99803052683407
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Yellow Onion')",1380,0.045125675004888614,34.778225806451616
-Bag of Organic Bananas,"('Organic Bosc Pear', 'Organic Raspberries')",1380,0.045125675004888614,44.145873320537426
-Organic Hass Avocado,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries', 'Bag of Organic Bananas')",1378,0.04506027547589602,35.997910135841174
-Organic Strawberries,"('Organic Kiwi', 'Organic Cucumber')",1378,0.04506027547589602,33.47910592808552
-Banana,"('Organic Fat Free Milk', 'Organic Strawberries')",1377,0.04502757571139973,30.350451840423187
-Pure Sparkling Water,"('Sparkling Lemon Water', 'Lime Sparkling Water', 'Sparkling Water Grapefruit')",1377,0.04502757571139973,31.055480378890394
-Organic Strawberries,"('Organic Gala Apples', 'Organic Blueberries')",1376,0.04499487594690343,31.63945734651644
-Coconut  Chocolate Bar,"('Chocolate Sea Salt',)",1376,0.04499487594690343,31.785631785631786
-Organic Hass Avocado,"('100% Raw Coconut Water', 'Organic Raspberries')",1376,0.04499487594690343,32.80095351609059
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Garlic')",1375,0.04496217618240714,30.541981341625945
-Organic Hass Avocado,"('Organic Garnet Sweet Potato (Yam)', 'Organic Cucumber')",1375,0.04496217618240714,32.55208333333333
-Organic Hass Avocado,"('Organic Lemon', 'Limes', 'Bag of Organic Bananas')",1372,0.04486407688891825,43.75
-Bag of Organic Bananas,"('Organic Lemon', 'Limes', 'Organic Hass Avocado')",1372,0.04486407688891825,39.64172204565155
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Apple Honeycrisp Organic')",1371,0.04483137712442195,36.71665773968934
-Total 2% All Natural Greek Strained Yogurt with Honey,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",1371,0.04483137712442195,36.72649343691401
-Bag of Organic Bananas,"('Organic Large Grade AA Brown Eggs', 'Organic Strawberries')",1370,0.044798677359925654,34.430761497863784
-Banana,"('Cara Cara Navel Orange',)",1369,0.04476597759542936,31.348752003663844
-Organic Strawberries,"('Organic Kiwi', 'Organic Blueberries')",1369,0.04476597759542936,37.1909807117631
-Banana,"('Organic Peeled Whole Baby Carrots', 'Strawberries')",1369,0.04476597759542936,42.84820031298904
-Organic Raw Kombucha Gingerade,"('Kombucha, Organic Raw, Citrus',)",1368,0.04473327783093306,30.624580255204837
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Lemon')",1368,0.04473327783093306,37.54116355653128
-Total 2% Greek Strained Yogurt with Cherry 5.3 oz,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",1367,0.044700578066436764,34.90806945863126
-Limes,"('Organic Jalapeno Pepper', 'Organic Garlic')",1366,0.04466787830194047,35.169927909371786
-Organic Raspberry Lowfat Yogurt,"('Lowfat Blueberry Yogurt',)",1365,0.04463517853744418,31.59722222222222
-Bag of Organic Bananas,"('Organic Yellow Onion', 'Organic Baby Spinach', 'Organic Strawberries')",1364,0.04460247877294787,37.18647764449291
-Organic Strawberries,"('YoKids Squeezers Organic Low-Fat Yogurt, Strawberry', 'Bag of Organic Bananas')",1364,0.04460247877294787,34.323100150981375
-Banana,"('Cut & Peeled Baby Carrots',)",1361,0.04450437947945899,32.56759990428332
-Organic Strawberries,"('Organic Whole String Cheese', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1360,0.04447167971496269,34.17085427135678
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Hass Avocado', 'Organic Strawberries')",1360,0.04447167971496269,42.394014962593516
-Organic Hass Avocado,"('Organic Whole String Cheese', 'Organic Strawberries', 'Bag of Organic Bananas')",1360,0.04447167971496269,33.43166175024582
-Peach Pear Flavored Sparkling Water,"('Sparkling Water Berry', 'Sparkling Lemon Water')",1359,0.0444389799504664,36.00953895071542
-Sparkling Lemon Water,"('Sparkling Water Berry', 'Peach Pear Flavored Sparkling Water')",1359,0.0444389799504664,39.35708079930495
-Banana,"('Feta Cheese Crumbles', 'Large Lemon')",1359,0.0444389799504664,32.203791469194314
-Sparkling Water Berry,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",1359,0.0444389799504664,41.47085749160818
-Bag of Organic Bananas,"('Organic Milk', 'Organic Raspberries')",1358,0.0444062801859701,39.101641232363946
-Limes,"('Jalapeno Peppers', 'Organic Strawberries')",1358,0.0444062801859701,31.833098921706515
-Banana,"('Orange Bell Pepper', 'Strawberries')",1358,0.0444062801859701,41.41506556877096
-Banana,"('Cucumber Kirby', 'Large Lemon', 'Organic Baby Spinach')",1357,0.0443735804214738,43.21656050955414
-Organic Yellow Onion,"('Organic Carrot Bunch', 'Organic Garlic')",1356,0.044340880656977506,32.03401842664777
-Bag of Organic Bananas,"('Organic Sticks Low Moisture Part Skim Mozzarella String Cheese', 'Organic Raspberries')",1356,0.044340880656977506,38.511786424311275
-Bag of Organic Bananas,"('Organic Broccoli Crowns', 'Organic Strawberries')",1356,0.044340880656977506,36.51050080775444
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Zucchini')",1356,0.044340880656977506,35.04781597311967
-Organic Hass Avocado,"('Organic Lemon', 'Organic Yellow Onion', 'Bag of Organic Bananas')",1354,0.04427548112798491,40.943453280919265
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Yellow Onion', 'Organic Hass Avocado')",1354,0.04427548112798491,40.943453280919265
-Organic Hass Avocado,"('Organic Tomato Cluster', 'Organic Strawberries', 'Bag of Organic Bananas')",1351,0.04417738183449603,36.474082073434126
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Hass Avocado', 'Organic Strawberries')",1351,0.04417738183449603,42.875277689622344
-Bag of Organic Bananas,"('Uncured Genoa Salami', 'Organic Raspberries')",1347,0.04404658277651084,33.19369147363233
-Bag of Organic Bananas,"('Organic Frozen Peas', 'Organic Hass Avocado')",1346,0.04401388301201455,41.56886967263743
-Bag of Organic Bananas,"('100% Recycled Paper Towels', 'Organic Hass Avocado')",1346,0.04401388301201455,35.12526096033403
-Banana,"('Organic Lowfat French Vanilla Yogurt',)",1346,0.04401388301201455,31.775259678942398
-Banana,"('Yellow Bell Pepper', 'Organic Baby Spinach')",1345,0.04398118324751825,30.69374714742127
-Organic Hass Avocado,"('Organic Gala Apples', 'Organic Strawberries', 'Bag of Organic Bananas')",1344,0.04394848348302196,30.62200956937799
-Banana,"('Hearty Grains 100% Whole Wheat English Muffins',)",1344,0.04394848348302196,30.0
-Banana,"('Michigan Organic Kale', 'Organic Fuji Apple')",1344,0.04394848348302196,41.126070991432066
-Organic Avocado,"('Broccoli Crown', 'Limes')",1342,0.043883083954029366,31.144116964492923
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Lemon')",1340,0.04381768442503677,35.59096945551129
-Organic Hass Avocado,"('Organic Grape Tomatoes', 'Organic Strawberries', 'Bag of Organic Bananas')",1339,0.043784984660540475,31.314312441534142
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Hass Avocado', 'Organic Strawberries')",1339,0.043784984660540475,39.46360153256705
-Banana,"('Red Bell Pepper',)",1338,0.04375228489604418,38.581314878892734
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Grape Tomatoes')",1338,0.04375228489604418,31.116279069767444
-Limes,"('Organic Cilantro', 'Carrots')",1337,0.04371958513154788,30.91329479768786
-Banana,"('Jalapeno Peppers', 'Yellow Onions')",1336,0.043686885367051585,31.420507996237063
-Banana,"('Family Size Naturally Flavored Whole Grain Oats Cereal',)",1335,0.04365418560255529,33.6272040302267
-Banana,"('Yellow Onions', 'Organic Grape Tomatoes')",1335,0.04365418560255529,34.98427672955975
-Bag of Organic Bananas,"('Organic Roasted Turkey Breast', 'Organic Raspberries')",1335,0.04365418560255529,39.95809637832984
-Banana,"('Organic Whole String Cheese', 'Strawberries')",1334,0.04362148583805899,42.81129653401797
-Banana,"('Organic Yellow Onion', 'Strawberries')",1334,0.04362148583805899,30.15370705244123
-Limes,"('Jalapeno Peppers', 'Yellow Onions')",1334,0.04362148583805899,31.373471307619944
-Banana,"('Limes', 'Organic Avocado', 'Organic Strawberries')",1334,0.04362148583805899,40.49787492410443
-Banana,"('Organic Tomato Cluster', 'Cucumber Kirby')",1334,0.04362148583805899,30.716094865300487
-Banana,"('Organic Baby Arugula', 'Strawberries')",1334,0.04362148583805899,36.16156139875305
-Banana,"('Unsalted Butter', 'Organic Baby Spinach')",1333,0.043588786073562695,31.905217807563428
-Bag of Organic Bananas,"('Organic Broccoli', 'Organic Yellow Onion')",1333,0.043588786073562695,32.31515151515151
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Garlic')",1332,0.043556086309066405,37.42624332677719
-Total 2% Greek Strained Yogurt with Cherry 5.3 oz,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",1332,0.043556086309066405,35.83535108958838
-Organic Baby Spinach,"('Organic Garnet Sweet Potato (Yam)', 'Organic Cucumber')",1331,0.0435233865445701,31.510416666666668
-Organic Hass Avocado,"('Organic Small Bunch Celery', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1330,0.04349068678007381,34.31372549019608
-Banana,"('Unsalted Butter', 'Organic Avocado')",1330,0.04349068678007381,37.32809430255403
-Banana,"('Yellow Onions', 'Fresh Cauliflower')",1330,0.04349068678007381,33.125778331257784
-Organic Baby Spinach,"('Organic Small Bunch Celery', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1330,0.04349068678007381,30.104119511090992
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Hass Avocado', 'Organic Baby Spinach')",1330,0.04349068678007381,42.930923176242736
-Nonfat Icelandic Style Strawberry Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",1328,0.04342528725108122,33.8343949044586
-Banana,"('Garlic', 'Organic Baby Spinach')",1328,0.04342528725108122,31.225017634610865
-Banana,"(""Organic D'Anjou Pears"", 'Large Lemon')",1327,0.04339258748658492,31.883709754925516
-Organic Strawberries,"('Organic Yellow Peaches', 'Organic Baby Spinach')",1325,0.043327187957592335,39.41106484235574
-Fat Free Strawberry Yogurt,"('Total 0% Peach Yogurt',)",1324,0.04329448819309603,35.92944369063772
-Banana,"('Large Yellow Flesh Nectarine', 'Organic Strawberries')",1324,0.04329448819309603,36.9935736239173
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Cucumber')",1323,0.04326178842859974,35.45966228893058
-Bag of Organic Bananas,"('Organic Yellow Peaches', 'Organic Hass Avocado')",1322,0.04322908866410344,31.566380133715377
-Banana,"('Boneless Skinless Chicken Breasts', 'Yellow Onions')",1321,0.04319638889960715,35.207889125799575
-Banana,"('Roma Tomato', 'Organic Baby Spinach')",1321,0.04319638889960715,34.617400419287215
-Banana,"('Small Hass Avocado', 'Strawberries')",1321,0.04319638889960715,40.078883495145625
-Banana,"('Turkey',)",1320,0.04316368913511085,42.58064516129032
-Organic Hass Avocado,"('Organic Garnet Sweet Potato (Yam)', 'Organic Raspberries')",1319,0.043130989370614554,32.257275617510395
-Banana,"('Clementines, Bag', 'Organic Baby Spinach')",1319,0.043130989370614554,33.417785659994934
-Banana,"('Organic Blackberries', 'Seedless Red Grapes')",1318,0.04309828960611826,38.68506017023775
-Banana,"('Large Lemon', 'Organic Baby Spinach', 'Organic Strawberries')",1318,0.04309828960611826,37.28429985855728
-Banana,"('Carrots', 'Strawberries')",1317,0.04306558984162196,35.38420204191295
-Banana,"('Original Hummus', 'Organic Grape Tomatoes')",1314,0.04296749054813307,30.068649885583525
-Banana,"('Large Brown Grade AA Eggs',)",1311,0.04286939125464419,30.452961672473865
-Organic Hass Avocado,"('Apple Honeycrisp Organic', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1311,0.04286939125464419,34.15841584158416
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Blueberries')",1310,0.042836691490147884,30.121867095884113
-Banana,"('Organic Whole String Cheese', 'Original Hummus')",1309,0.042803991725651594,30.216989843028625
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Blackberry Yogurt',)",1309,0.042803991725651594,37.788683602771364
-Organic Blended Raspberry Whole Milk Greek Yogurt,"('Organic Greek Whole Milk Blended Strawberry Yogurt',)",1309,0.042803991725651594,31.17408906882591
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Cilantro')",1308,0.0427712919611553,30.145194745333026
-Banana,"('Organic Garlic', 'Organic Avocado', 'Organic Baby Spinach')",1307,0.042738592196659,36.114948880906326
-Organic Baby Spinach,"('Organic Garlic', 'Organic Avocado', 'Banana')",1307,0.042738592196659,30.774664469036967
-Banana,"('Bunched Cilantro', 'Organic Strawberries')",1305,0.04267319266766641,32.87981859410431
-Banana,"('Green Beans', 'Organic Baby Spinach')",1305,0.04267319266766641,32.90468986384266
-Banana,"('Whipped Cream Cheese', 'Organic Baby Spinach')",1305,0.04267319266766641,30.278422273781903
-Organic Hass Avocado,"(""Organic D'Anjou Pears"", 'Organic Lemon')",1303,0.04260779313867381,37.29250143102462
-Organic Strawberries,"('Organic Lemon', 'Organic Raspberries', 'Organic Hass Avocado')",1301,0.04254239360968122,35.673156018645464
-Organic Hass Avocado,"('Organic Lemon', 'Organic Raspberries', 'Organic Strawberries')",1301,0.04254239360968122,40.54222499220941
-Bag of Organic Bananas,"('Organic Grade A Free Range Large Brown Eggs', 'Organic Raspberries')",1301,0.04254239360968122,35.673156018645464
-Peach on the Bottom Nonfat Greek Yogurt,"('Low-Fat Mango on the Bottom Greek Yogurt',)",1300,0.04250969384518493,36.32299525006985
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Baby Spinach', 'Organic Strawberries')",1298,0.04244429431619234,33.230926779313876
-Bag of Organic Bananas,"('Organic Carrot Bunch', 'Organic Zucchini')",1298,0.04244429431619234,32.45811452863216
-Organic Strawberries,"('Organic Blueberries', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1298,0.04244429431619234,32.104872619342075
-Banana,"('Bunched Cilantro', 'Strawberries')",1297,0.04241159455169604,40.142370783039304
-Organic Yellow Onion,"('Organic Thyme', 'Organic Garlic')",1297,0.04241159455169604,32.18362282878412
-Organic Garlic,"('Organic Thyme', 'Organic Yellow Onion')",1297,0.04241159455169604,34.44887118193891
-Banana,"('Yellow Onions', 'Seedless Red Grapes')",1296,0.04237889478719974,41.33971291866029
-Bag of Organic Bananas,"('Organic Coconut Milk', 'Organic Hass Avocado')",1294,0.04231349525820715,34.58043826830572
-Bag of Organic Bananas,"('Organic Roasted Turkey Breast', 'Organic Baby Spinach')",1294,0.04231349525820715,31.22586872586873
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Blueberries')",1293,0.04228079549371085,30.034843205574912
-Bag of Organic Bananas,"('Organic Garlic', 'Organic Yellow Onion', 'Organic Strawberries')",1289,0.042149996435725666,36.1672278338945
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Baby Spinach', 'Organic Strawberries')",1289,0.042149996435725666,35.716264893322254
-Large Lemon,"('Cucumber Kirby', 'Limes', 'Banana')",1289,0.042149996435725666,33.04280953601641
-Banana,"('Cucumber Kirby', 'Limes', 'Large Lemon')",1289,0.042149996435725666,39.06060606060606
-Banana,"('Original Hummus', 'Seedless Red Grapes')",1288,0.042117296671229376,36.789488717509286
-Banana,"('Blueberry Pint',)",1287,0.04208459690673308,37.38019169329074
-Bag of Organic Bananas,"('Organic Green Seedless Grapes', 'Organic Hass Avocado')",1286,0.04205189714223678,37.06051873198847
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Zucchini')",1285,0.042019197377740486,39.28462243962091
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Baby Spinach', 'Organic Strawberries')",1285,0.042019197377740486,40.962703219636595
-Organic Hass Avocado,"(""Organic D'Anjou Pears"", 'Organic Strawberries', 'Bag of Organic Bananas')",1283,0.04195379784874789,32.48923778171689
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Large Extra Fancy Fuji Apple')",1283,0.04195379784874789,40.38401007239534
-Bag of Organic Bananas,"('Organic Garbanzo Beans', 'Organic Hass Avocado')",1283,0.04195379784874789,31.899552461461962
-Organic Strawberries,"(""Organic D'Anjou Pears"", 'Organic Hass Avocado', 'Bag of Organic Bananas')",1283,0.04195379784874789,30.848761721567687
-Banana,"('Sparkling Water Grapefruit', 'Strawberries')",1282,0.041921098084251596,40.89314194577353
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Granny Smith Apple')",1282,0.041921098084251596,39.96259351620948
-Limes,"('Bunched Cilantro', 'Cucumber Kirby')",1282,0.041921098084251596,31.45240431795878
-Banana,"('Half & Half', 'Strawberries')",1281,0.0418883983197553,39.01918976545842
-Banana,"('No Salt Added Black Beans', 'Large Lemon')",1278,0.041790299026266416,38.79781420765027
-Banana,"('Red Vine Tomato', 'Organic Garlic')",1277,0.04175759926177011,30.75626204238921
-Curate Melon Pomelo Sparking Water,"('Kiwi Sandia Sparkling Water', 'Blackberry Cucumber Sparkling Water')",1277,0.04175759926177011,40.41139240506329
-Bag of Organic Bananas,"('Organic Broccoli', 'Organic Zucchini')",1277,0.04175759926177011,34.16265382557518
-Banana,"('Organic Garlic', 'Large Lemon', 'Organic Avocado')",1276,0.04172489949727382,35.994358251057825
-Large Lemon,"('Organic Garlic', 'Organic Avocado', 'Banana')",1276,0.04172489949727382,30.044737461737697
-Organic Avocado,"('Organic Garlic', 'Large Lemon', 'Banana')",1276,0.04172489949727382,31.844272523084605
-Banana,"('Granny Smith Apples', 'Strawberries')",1275,0.041692199732777525,37.91257805530776
-Organic Hass Avocado,"('Organic Yellow Onion', 'Organic Raspberries', 'Bag of Organic Bananas')",1274,0.04165949996828123,38.30426939266386
-Organic Garlic,"('Organic Ginger Root', 'Organic Red Onion')",1273,0.04162680020378493,32.25234355206486
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Garlic')",1273,0.04162680020378493,31.401085347804635
-Banana,"('Organic Garnet Sweet Potato (Yam)', 'Organic Whole Milk')",1272,0.041594100439288635,30.408797513746116
-Banana,"('Red Vine Tomato', 'Organic Whole Milk')",1272,0.041594100439288635,37.62200532386868
-Unsweetened Watermelon Water,"('Unsweetened Blackberry Water',)",1271,0.041561400674792345,40.815671162491974
-Organic Strawberries,"('Organic Green Seedless Grapes', 'Organic Hass Avocado')",1271,0.041561400674792345,36.628242074927954
-Banana,"('Seedless Red Grapes', 'Organic Zucchini')",1271,0.041561400674792345,30.745041122399613
-Unsweetened Blackberry Water,"('Unsweetened Watermelon Water',)",1271,0.041561400674792345,30.871994170512508
-Bag of Organic Bananas,"('Italian Sparkling Mineral Water', 'Organic Hass Avocado')",1270,0.04152870091029604,32.75728656177457
-Banana,"('Blueberries', 'Limes')",1270,0.04152870091029604,36.46281940855584
-Organic Hass Avocado,"('Organic Small Bunch Celery', 'Organic Strawberries', 'Bag of Organic Bananas')",1269,0.04149600114579975,37.13784021071115
-Organic Strawberries,"('Whipped Cream Cheese', 'Organic Hass Avocado')",1269,0.04149600114579975,30.936128717698686
-Bag of Organic Bananas,"('Lime Sparkling Water', 'Organic Hass Avocado')",1268,0.04146330138130345,30.212056230640933
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Small Bunch Celery')",1268,0.04146330138130345,30.204859456884233
-Banana,"('Asparagus', 'Honeycrisp Apple')",1267,0.04143060161680716,38.68702290076336
-Banana,"('Lime Sparkling Water', 'Organic Avocado')",1267,0.04143060161680716,33.65205843293493
-Organic Hass Avocado,"('Organic Kiwi', 'Organic Lemon')",1266,0.04139790185231086,34.32754880694143
-Banana,"('Yellow Bell Pepper', 'Cucumber Kirby')",1266,0.04139790185231086,37.29013254786451
-Banana,"('Organic Romaine', 'Organic Avocado')",1264,0.04133250232331827,33.90557939914164
-Bag of Organic Bananas,"('Seedless Red Grapes', 'Apple Honeycrisp Organic')",1264,0.04133250232331827,30.590513068731852
-Apple Pie Fruit & Nut Food Bar,"('Lemon Fruit & Nut Food Bar',)",1264,0.04133250232331827,31.878940731399748
-Organic Baby Spinach,"('Organic Garnet Sweet Potato (Yam)', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1264,0.04133250232331827,32.048681541582155
-Organic Hass Avocado,"('Organic Garnet Sweet Potato (Yam)', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1264,0.04133250232331827,36.1763022323984
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Large Extra Fancy Fuji Apple')",1264,0.04133250232331827,37.59666864961332
-Organic Strawberries,"('Organic Red Bell Pepper', 'Organic Hass Avocado', 'Bag of Organic Bananas')",1264,0.04133250232331827,30.927330560313187
-Organic Hass Avocado,"('Organic Red Bell Pepper', 'Organic Strawberries', 'Bag of Organic Bananas')",1264,0.04133250232331827,35.92950540079591
-Banana,"('Organic Fuji Apple', 'Organic Garlic')",1263,0.04129980255882197,33.89694041867955
-Organic Strawberries,"(""Organic D'Anjou Pears"", 'Organic Kiwi')",1262,0.041267102794325675,30.011890606420927
-Banana,"('Organic Garbanzo Beans', 'Organic Avocado')",1262,0.041267102794325675,33.457051961823964
-Organic Strawberries,"('Organic Cucumber', 'Organic Raspberries', 'Bag of Organic Bananas')",1261,0.04123440302982938,36.13180515759312
-Banana,"('Original Strawberry Low Fat Yogurt',)",1260,0.04120170326533308,30.252100840336134
-Banana,"('Small Hass Avocado', 'Cucumber Kirby')",1260,0.04120170326533308,39.17910447761194
-Banana,"('Asparagus', 'Organic Fuji Apple')",1260,0.04120170326533308,40.2555910543131
-Banana,"('Limes', 'Large Lemon', 'Organic Strawberries')",1260,0.04120170326533308,36.885245901639344
-Bag of Organic Bananas,"('Organic Garlic', 'Organic Baby Spinach', 'Organic Strawberries')",1259,0.041169003500836784,33.64510956707643
-Banana,"('Unsalted Butter', 'Organic Strawberries')",1257,0.0411036039718442,30.259990370727007
-Banana,"('No Salt Added Black Beans', 'Organic Strawberries')",1256,0.041070904207347894,39.43485086342229
-Bag of Organic Bananas,"('Organic Sour Cream', 'Organic Hass Avocado')",1256,0.041070904207347894,32.229920451629454
-Bag of Organic Bananas,"('Organic Large Green Asparagus', 'Organic Baby Spinach')",1254,0.0410055046783553,32.65625
-Bag of Organic Bananas,"('Organic Lacinato (Dinosaur) Kale', 'Organic Cucumber')",1253,0.04097280491385901,33.601501743094666
-"Organic Pears, Peas and Broccoli Puree Stage 1","('Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food',)",1253,0.04097280491385901,38.708680877355576
-Organic Hass Avocado,"('Organic Cucumber', 'Organic Baby Spinach', 'Organic Strawberries')",1253,0.04097280491385901,32.913054898870506
-Banana,"('Organic Whole String Cheese', 'Honeycrisp Apple')",1252,0.040940105149362714,39.72081218274111
-Organic Strawberries,"('Organic AppleApple', 'Banana')",1252,0.040940105149362714,30.18322082931533
-Limes,"('Organic Black Beans', 'Organic Cilantro')",1252,0.040940105149362714,35.56818181818181
-Banana,"('Red Raspberries', 'Organic Baby Spinach')",1251,0.04090740538486642,37.94358507734304
-Bag of Organic Bananas,"('Organic Bosc Pear', 'Organic Baby Spinach')",1251,0.04090740538486642,36.63250366032211
-Bag of Organic Bananas,"('Organic Cilantro', 'Apple Honeycrisp Organic')",1251,0.04090740538486642,34.02230078868643
-Bag of Organic Bananas,"('Clementines', 'Hass Avocados')",1249,0.040842005855873824,30.931154036651808
-Organic Hass Avocado,"('Organic Lemon', 'Organic Baby Spinach', 'Organic Strawberries')",1249,0.040842005855873824,39.81510997768569
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Small Bunch Celery')",1249,0.040842005855873824,31.821656050955415
-Organic Strawberries,"('Seedless Red Grapes', 'Organic Blueberries')",1248,0.040809306091377534,31.207801950487625
-Banana,"('Organic Extra Firm Tofu', 'Limes')",1247,0.04077660632688123,34.658143413007224
-Bag of Organic Bananas,"('Organic Shredded Mozzarella', 'Organic Strawberries')",1246,0.04074390656238494,32.42258652094718
-Banana,"('Limes', 'Organic Baby Spinach', 'Organic Strawberries')",1246,0.04074390656238494,32.179752066115704
-Banana,"('Whipped Cream Cheese', 'Organic Avocado')",1246,0.04074390656238494,39.8975344220301
-Crunchy Oats 'n Honey Granola Bars,"('Sweet & Salty Nut Granola Bars Peanut',)",1245,0.040711206797888644,30.855018587360593
-Bag of Organic Bananas,"('Cantaloupe', 'Organic Hass Avocado')",1245,0.040711206797888644,40.46148846278843
-Banana,"('Organic Whole Milk', 'Organic Baby Spinach', 'Organic Strawberries')",1243,0.04064580726889605,31.16850551654965
-Banana,"('Broccoli Crown', 'Organic Garlic')",1243,0.04064580726889605,34.21414808698046
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Zucchini')",1243,0.04064580726889605,30.525540275049117
-Banana,"('Red Vine Tomato', 'Yellow Onions')",1243,0.04064580726889605,35.78008059873345
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Gala Apples')",1242,0.040613107504399754,35.11450381679389
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Blackberry Yogurt',)",1239,0.04051500821091086,35.76789838337183
-Organic Strawberries,"('Organic AppleApple', 'Bag of Organic Bananas')",1239,0.04051500821091086,31.115017579105974
-Organic Strawberries,"('Organic Large Extra Fancy Fuji Apple', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1239,0.04051500821091086,30.42730844793713
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Granny Smith Apple')",1238,0.040482308446414574,35.605406960023004
-Banana,"('Red Vine Tomato', 'Organic Zucchini')",1237,0.04044960868191827,31.791313287072732
-Limes,"('Bunched Cilantro', 'Organic Strawberries')",1237,0.04044960868191827,31.166540690350214
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Large Extra Fancy Fuji Apple')",1237,0.04044960868191827,35.10215664018161
-Banana,"('Comice Pear',)",1237,0.04044960868191827,30.528134254689043
-Banana,"('Small Hass Avocado', 'Organic Raspberries')",1236,0.04041690891742198,31.164901664145233
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Grape Tomatoes')",1236,0.04041690891742198,36.4709353791679
-Organic Baby Spinach,"('Organic Baby Arugula', 'Organic Cucumber')",1234,0.04035150938842939,30.060901339829478
-Bag of Organic Bananas,"('Large Alfresco Eggs', 'Organic Raspberries')",1233,0.04031880962393309,39.34269304403318
-Vanilla Skyr Nonfat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Non Fat Raspberry Yogurt')",1233,0.04031880962393309,39.20508744038156
-Bag of Organic Bananas,"('Green Bell Pepper', 'Organic Raspberries')",1232,0.04028610985943679,33.688815969373806
-Organic Strawberries,"(""Organic D'Anjou Pears"", 'Organic Blueberries')",1232,0.04028610985943679,34.40379782183747
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Zucchini')",1232,0.04028610985943679,36.525348354580494
-Strawberries,"('Clementines', 'Raspberries')",1231,0.040253410094940496,35.14130745075649
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Garlic')",1231,0.040253410094940496,36.582466567607725
-Organic Strawberries,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries', 'Bag of Organic Bananas')",1231,0.040253410094940496,32.15778474399164
-Raspberries,"('Clementines', 'Strawberries')",1231,0.040253410094940496,31.188244236128703
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Blueberries')",1230,0.0402207103304442,33.41483292583537
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Apple Honeycrisp Organic')",1230,0.0402207103304442,37.35195870027331
-Banana,"('Blueberries', 'Organic Blackberries')",1228,0.040155310801451606,32.30728755590634
-Banana,"('Organic Unsweetened Almond Milk', 'Large Lemon')",1227,0.04012261103695531,31.99478487614081
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Blueberries')",1227,0.04012261103695531,34.26417201898911
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Garlic', 'Organic Hass Avocado')",1226,0.04008991127245901,38.77292852624921
-Banana,"('Garlic', 'Organic Avocado')",1226,0.04008991127245901,34.14090782511835
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Small Bunch Celery')",1226,0.04008991127245901,32.41671073506082
-Limes,"('Organic Cilantro', 'Cucumber Kirby')",1226,0.04008991127245901,32.10264467137994
-Organic Hass Avocado,"('Organic Lemon', 'Organic Garlic', 'Bag of Organic Bananas')",1226,0.04008991127245901,39.98695368558382
-Bag of Organic Bananas,"('Organic Broccoli', 'Organic Cucumber')",1226,0.04008991127245901,37.59582950015333
-Vanilla Skyr Nonfat Yogurt,"('Non Fat Raspberry Yogurt', 'Banana')",1224,0.040024511743466426,30.569430569430565
-Banana,"('Golden Sweet Potato',)",1223,0.03999181197897013,34.46041138348831
-Banana,"('Organic Peeled Whole Baby Carrots', 'Organic Grape Tomatoes')",1223,0.03999181197897013,30.682388359257402
-Organic Strawberries,"('Organic Whole String Cheese', 'Organic Cucumber')",1223,0.03999181197897013,32.779415706244976
-Organic Ginger Root,"('Turmeric Root',)",1221,0.039926412449977536,35.41183294663573
-Organic Strawberries,"('Organic Seedless Watermelon',)",1221,0.039926412449977536,33.65490628445424
-Bag of Organic Bananas,"('Organic Large Brown Grade AA Cage Free Eggs', 'Organic Baby Spinach')",1220,0.03989371268548124,31.035359959297885
-Organic Strawberries,"('Organic Blackberries', 'Organic Whole Milk')",1219,0.03986101292098494,31.160531697341515
-Bag of Organic Bananas,"('Organic Baby Broccoli', 'Organic Raspberries')",1219,0.03986101292098494,37.96325132357521
-Banana,"('Sparkling Water Grapefruit', 'Original Hummus')",1216,0.03976291362749605,30.407601900475118
-Limes,"('Organic Jalapeno Pepper', 'Organic Hass Avocado')",1216,0.03976291362749605,32.22045574986752
-Bag of Organic Bananas,"('Organic Unsalted Butter', 'Organic Strawberries')",1216,0.03976291362749605,32.80280550310224
-Banana,"('Red Peppers', 'Organic Grape Tomatoes')",1215,0.03973021386299976,31.258039619243633
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Hass Avocado', 'Organic Baby Spinach')",1215,0.03973021386299976,37.68610421836228
-Organic Hass Avocado,"('Organic Grape Tomatoes', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1215,0.03973021386299976,31.209863858207036
-Organic Hass Avocado,"(""Organic D'Anjou Pears"", 'Organic Cucumber')",1215,0.03973021386299976,30.49698795180723
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Lemon')",1214,0.03969751409850346,37.97309978104473
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Gala Apples')",1214,0.03969751409850346,32.512051419389394
-Bag of Organic Bananas,"('Organic Half & Half', 'Apple Honeycrisp Organic')",1214,0.03969751409850346,32.73119439201941
-Banana,"('Total 0% Greek Yogurt', 'Organic Baby Spinach')",1209,0.03953401527602198,34.104372355430186
-Organic Hass Avocado,"('Organic Unsweetened Almond Milk', 'Organic Lemon')",1209,0.03953401527602198,33.177826564215145
-Banana,"('Red Raspberries', 'Organic Strawberries')",1208,0.039501315511525685,31.352193096288605
-Bag of Organic Bananas,"('Organic Red Onion', 'Apple Honeycrisp Organic')",1208,0.039501315511525685,32.62219821766136
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Kiwi')",1207,0.03946861574702939,38.46398980242193
-Banana,"('Organic Grade A Free Range Large Brown Eggs', 'Organic Avocado')",1206,0.03943591598253309,32.53304558942541
-Organic Strawberries,"('Organic Zucchini', 'Organic Raspberries', 'Bag of Organic Bananas')",1203,0.03933781668904421,33.232044198895025
-Bag of Organic Bananas,"('Organic Navel Orange', 'Limes')",1201,0.039272417160051615,32.18113612004287
-Bag of Organic Bananas,"('Sparkling Natural Mineral Water', 'Organic Raspberries')",1201,0.039272417160051615,36.46023072252581
-Banana,"('Asparagus', 'Yellow Onions')",1200,0.03923971739555532,32.2407307898979
-Banana,"('Organic Whole String Cheese', 'Organic Baby Carrots')",1199,0.03920701763105902,30.439197765930437
-Banana,"('Organic Garlic', 'Large Lemon', 'Organic Baby Spinach')",1198,0.039174317866562725,32.91208791208791
-Banana,"('Organic Fuji Apple', 'Organic Blueberries')",1198,0.039174317866562725,38.84565499351492
-Banana,"('Berry Medley', 'Organic Baby Spinach')",1197,0.03914161810206643,36.933045356371494
-Organic Strawberries,"('Organic Raspberries', 'Organic Baby Spinach', 'Banana')",1196,0.03910891833757014,32.44709712425393
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Limes')",1196,0.03910891833757014,30.35532994923858
-Banana,"('Organic Cilantro', 'Cucumber Kirby')",1194,0.039043518808577544,31.264728986645718
-Organic Strawberries,"('Organic Kiwi', 'Organic Lemon')",1192,0.03897811927958495,32.32104121475054
-Organic Strawberries,"('Organic Whole String Cheese', 'Organic Large Extra Fancy Fuji Apple')",1192,0.03897811927958495,30.579784504874297
-Bag of Organic Bananas,"('Lightly Salted Baked Snap Pea Crisps', 'Organic Hass Avocado')",1189,0.03888001998609606,36.494782074892576
-Total 0% Raspberry Yogurt,"('Total 0% Peach Yogurt',)",1186,0.03878192069260717,32.18453188602442
-Banana,"('Snacks String Cheese Natural Mozzarella Cheese',)",1185,0.038749220928110874,30.415811088295687
-Banana,"('Sharp Cheddar Cheese', 'Organic Avocado')",1185,0.038749220928110874,38.71283894152238
-Banana,"('Carrots', 'Organic Fuji Apple')",1184,0.038716521163614584,35.673395601084664
-Organic Lemon Lowfat Yogurt,"('Lowfat Key Lime Yogurt',)",1182,0.03865112163462199,30.207002300025554
-Organic Hass Avocado,"('Organic Whole String Cheese', 'Organic Lemon')",1182,0.03865112163462199,36.97216140131373
-Banana,"('Organic Blackberries', 'Organic Whole Milk')",1181,0.03861842187012569,30.18916155419223
-Bag of Organic Bananas,"('Organic Carrot Bunch', 'Organic Lemon')",1180,0.0385857221056294,35.63877982482634
-Organic Strawberries,"('Organic Bartlett Pear', 'Organic Whole Milk')",1179,0.0385530223411331,31.00184065211675
-Bag of Organic Bananas,"('Sparkling Natural Mineral Water', 'Organic Strawberries')",1178,0.038520322576636803,30.918635170603675
-Bag of Organic Bananas,"('Carrots', 'Apple Honeycrisp Organic')",1175,0.03842222328314791,30.22119341563786
-Bag of Organic Bananas,"('Organic Frozen Peas', 'Organic Strawberries')",1174,0.038389523518651616,32.59300388672959
-Banana,"('Organic Whole String Cheese', 'Seedless Red Grapes')",1174,0.038389523518651616,36.03437691835482
-Banana,"('Mango Chunks', 'Pineapple Chunks')",1173,0.03835682375415533,33.83328526103259
-Banana,"('Original Cream Cheese',)",1172,0.03832412398965902,30.956154252509243
-Organic Baby Spinach,"('Organic Garnet Sweet Potato (Yam)', 'Organic Grape Tomatoes')",1172,0.03832412398965902,32.45638327333148
-Banana,"('Green Onions', 'Large Lemon')",1171,0.03829142422516273,32.52777777777778
-Banana,"('Organic Gala Apples', 'Seedless Red Grapes')",1169,0.03822602469617014,32.98532731376975
-Organic Whole Milk,"('Whole Milk Plain Yogurt', 'Banana')",1169,0.03822602469617014,31.603135982698028
-Banana,"('Vanilla Almond Breeze Almond Milk', 'Organic Avocado')",1169,0.03822602469617014,37.81947589776771
-Organic Strawberries,"('Original Hummus', 'Organic Blueberries')",1168,0.03819332493167384,33.05972261534107
-Organic Baby Spinach,"('Organic Garnet Sweet Potato (Yam)', 'Organic Small Bunch Celery')",1168,0.03819332493167384,30.883130618720255
-Bag of Organic Bananas,"('Pure Irish Butter', 'Organic Hass Avocado')",1168,0.03819332493167384,33.65994236311239
-Bag of Organic Bananas,"('Organic Frozen Peas', 'Organic Baby Spinach')",1168,0.03819332493167384,33.45746204525924
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Banana')",1167,0.038160625167177546,31.798365122615802
-Banana,"('Yellow Bell Pepper', 'Large Lemon')",1166,0.03812792540268125,31.445523193096008
-Bag of Organic Bananas,"('Grated Parmesan', 'Organic Raspberries')",1166,0.03812792540268125,33.20991170606665
-Organic Strawberries,"('Organic Kiwi', 'Organic Yellow Onion')",1166,0.03812792540268125,30.309331946971668
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Seedless Red Grapes')",1165,0.03809522563818495,34.93253373313343
-Bag of Organic Bananas,"('Organic Large Grade AA Brown Eggs', 'Organic Raspberries')",1165,0.03809522563818495,36.716041601008506
-Organic Strawberries,"('Green Bell Pepper', 'Organic Raspberries')",1164,0.038062525873688656,31.829368334700575
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Blackberry Yogurt',)",1164,0.038062525873688656,33.6027713625866
-Organic Hass Avocado,"('Organic Original Hommus', 'Bag of Organic Bananas')",1163,0.038029826109192366,33.28563251287922
-Limes,"('Organic Garlic', 'Large Lemon', 'Organic Avocado')",1163,0.038029826109192366,32.80677009873061
-Organic Avocado,"('Organic Garlic', 'Limes', 'Large Lemon')",1163,0.038029826109192366,30.41317991631799
-Large Lemon,"('Organic Garlic', 'Limes', 'Organic Avocado')",1163,0.038029826109192366,35.10413522487172
-Bag of Organic Bananas,"('Organic Broccoli', 'Organic Whole Milk')",1162,0.03799712634469606,30.55482513804891
-Organic Strawberries,"('Cantaloupe', 'Organic Hass Avocado')",1161,0.03796442658019977,37.73155671108222
-Banana,"('Broccoli Crown', 'Asparagus')",1161,0.03796442658019977,35.73407202216066
-Bag of Organic Bananas,"('Organic Half & Half', 'Organic Large Extra Fancy Fuji Apple')",1161,0.03796442658019977,36.76377454084864
-Bag of Organic Bananas,"('Organic Whole Milk', 'Organic Raspberries', 'Organic Strawberries')",1161,0.03796442658019977,36.15696044845843
-Banana,"('Yellow Bell Pepper', 'Organic Strawberries')",1161,0.03796442658019977,32.90816326530612
-Organic Strawberries,"('Organic Whole Milk', 'Organic Raspberries', 'Bag of Organic Bananas')",1161,0.03796442658019977,33.75
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Zucchini')",1159,0.03789902705120718,34.088235294117645
-Banana,"('Russet Potato', 'Large Lemon')",1159,0.03789902705120718,32.93549303779483
-Organic Strawberries,"('Organic Large Green Asparagus', 'Organic Baby Spinach')",1157,0.037833627522214586,30.130208333333336
-Banana,"('Sharp Cheddar Cheese', 'Organic Baby Spinach')",1157,0.037833627522214586,30.673382820784727
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Apple Honeycrisp Organic')",1156,0.03780092775771829,37.26627981947131
-Organic Strawberries,"('Organic Sticks Low Moisture Part Skim Mozzarella String Cheese', 'Organic Baby Spinach')",1156,0.03780092775771829,31.217931406967324
-Banana,"('Organic Kiwi', 'Strawberries')",1156,0.03780092775771829,36.640253565768624
-Organic Strawberries,"('Organic Kiwi', 'Organic Grape Tomatoes')",1155,0.03776822799322199,32.46205733558179
-Organic Hass Avocado,"('Organic Gala Apples', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1154,0.037735528228725695,34.22301304863583
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Whole Milk')",1154,0.037735528228725695,30.34446489613463
-Limes,"('Red Onion', 'Jalapeno Peppers')",1148,0.03753932964174792,33.75477800646868
-Banana,"('Michigan Organic Kale', 'Honeycrisp Apple')",1148,0.03753932964174792,34.840667678300456
-Banana,"('Organic Baby Arugula', 'Honeycrisp Apple')",1147,0.037506629877251625,35.565891472868216
-Organic Hass Avocado,"('Organic Tomato Cluster', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1147,0.037506629877251625,36.680524464342824
-Organic Strawberries,"('Organic Roasted Turkey Breast', 'Organic Raspberries')",1146,0.03747393011275533,34.301107452858425
-Banana,"('Grape White/Green Seedless', 'Organic Whole Milk')",1146,0.03747393011275533,32.97841726618705
-Organic Hass Avocado,"('Organic Cilantro', 'Limes', 'Bag of Organic Bananas')",1146,0.03747393011275533,33.885274985215844
-Bag of Organic Bananas,"('Organic Cilantro', 'Limes', 'Organic Hass Avocado')",1146,0.03747393011275533,32.73350471293916
-Banana,"('Organic Garlic', 'Limes', 'Organic Baby Spinach')",1146,0.03747393011275533,30.83131557707829
-Organic Baby Spinach,"('Organic Garlic', 'Limes', 'Banana')",1146,0.03747393011275533,31.302922698716195
-Organic Hass Avocado,"('Organic Whole Milk', 'Organic Raspberries', 'Bag of Organic Bananas')",1144,0.037408530583762735,33.25581395348837
-Clementines,"('Apples', 'Bag of Organic Bananas')",1144,0.037408530583762735,36.855670103092784
-Bag of Organic Bananas,"('Organic Bread with 21 Whole Grains', 'Organic Strawberries')",1144,0.037408530583762735,31.333881128457957
-Organic Strawberries,"('Organic Green Seedless Grapes', 'Banana')",1144,0.037408530583762735,32.74184315970235
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Small Bunch Celery')",1143,0.03737583081926644,33.5978835978836
-Bag of Organic Bananas,"('Large Alfresco Eggs', 'Organic Yellow Onion')",1142,0.03734313105477015,30.6248323947439
-Bag of Organic Bananas,"('Organic Butternut Squash', 'Organic Hass Avocado')",1142,0.03734313105477015,36.96989316931046
-Organic Hass Avocado,"('Organic Unsweetened Almond Milk', 'Organic Cucumber')",1141,0.037310431290273845,30.8295055390435
-Banana,"('Apple Honeycrisp Organic', 'Cucumber Kirby')",1139,0.03724503176128125,34.78924862553451
-Banana,"('Seedless Red Grapes', 'Organic Garlic')",1137,0.037179632232288665,30.58918482647296
-Organic Strawberries,"('Organic Milk', 'Organic Raspberries')",1137,0.037179632232288665,32.73826662827526
-Banana,"('Organic Half & Half', 'Strawberries')",1135,0.03711423270329607,30.494357872111767
-Limes,"('Bunched Cilantro', 'Bag of Organic Bananas')",1132,0.03701613340980718,30.186666666666667
-Bag of Organic Bananas,"('Organic Creamy Peanut Butter', 'Organic Strawberries')",1132,0.03701613340980718,33.14787701317716
-Bag of Organic Bananas,"('Organic American Cheese Singles', 'Organic Strawberries')",1129,0.03691803411631829,30.21948608137045
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Grape Tomatoes')",1129,0.03691803411631829,31.731309724564362
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Gala Apples')",1127,0.0368526345873257,33.14705882352941
-Bag of Organic Bananas,"('Carrots', 'Organic Large Extra Fancy Fuji Apple')",1126,0.03681993482282941,34.048986997278504
-Bag of Organic Bananas,"('Total Greek Strained Yogurt', 'Organic Hass Avocado')",1126,0.03681993482282941,32.95288264559555
-Organic Hass Avocado,"('Organic Whole String Cheese', 'Organic Cucumber')",1126,0.03681993482282941,30.179576521039937
-Banana,"('Organic Granny Smith Apple', 'Cucumber Kirby')",1123,0.03672183552934052,35.38122243226213
-Banana,"('Garlic', 'Organic Strawberries')",1123,0.03672183552934052,31.84009072866459
-Organic Strawberries,"('Organic Honey Sweet Whole Wheat Bread', 'Bag of Organic Bananas')",1122,0.03668913576484422,30.072366657732513
-Bag of Organic Bananas,"('Unsweetened Vanilla Almond Milk', 'Organic Hass Avocado')",1121,0.03665643600034793,36.53846153846153
-Organic Strawberries,"('Organic Broccoli', 'Organic Raspberries')",1120,0.03662373623585163,30.245746691871457
-Organic Strawberries,"('Organic Kiwi', 'Organic Large Extra Fancy Fuji Apple')",1118,0.03655833670685903,30.697419000549147
-Banana,"('Russet Potato', 'Organic Baby Spinach')",1117,0.036525636942362744,33.027794204612654
-Bag of Organic Bananas,"('Unsweetened Almondmilk', 'Organic Lemon')",1117,0.036525636942362744,34.37980917205294
-Organic Strawberries,"('Red Peppers', 'Organic Raspberries')",1117,0.036525636942362744,31.473654550577628
-Bag of Organic Bananas,"('Organic Celery Hearts', 'Organic Hass Avocado')",1116,0.03649293717786645,32.77533039647577
-Organic Strawberries,"('Grated Parmesan', 'Organic Raspberries')",1116,0.03649293717786645,31.78581600683566
-Organic Hass Avocado,"('Organic Yellow Onion', 'Organic Baby Spinach', 'Organic Strawberries')",1116,0.03649293717786645,30.425299890948747
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Fresh Cauliflower')",1115,0.03646023741337015,30.49781181619256
-Organic Strawberries,"('Organic Raspberries', 'Organic Hass Avocado', 'Banana')",1114,0.03642753764887385,32.94883170659568
-Limes,"('No Salt Added Black Beans', 'Large Lemon')",1113,0.03639483788437756,33.78870673952641
-Bag of Organic Bananas,"('Watermelon Chunks', 'Organic Hass Avocado')",1113,0.03639483788437756,33.09545049063337
-Limes,"('Bunched Cilantro', 'Organic Yellow Onion')",1112,0.03636213811988126,35.24564183835182
-Banana,"('Mini Watermelon',)",1112,0.03636213811988126,32.11088651458273
-Banana,"('Roma Tomato', 'Yellow Onions')",1111,0.03632943835538496,36.1771409964181
-Banana,"('Total 0% Greek Yogurt', 'Organic Strawberries')",1109,0.03626403882639238,34.28129829984544
-Banana,"('Garlic', 'Cucumber Kirby')",1108,0.03623133906189607,35.14113542657786
-Banana,"('Organic Romaine Lettuce', 'Organic Avocado')",1107,0.03619863929739978,30.580110497237566
-Banana,"('Asparagus', 'Seedless Red Grapes')",1105,0.03613323976840719,33.413970365890535
-No Salt Added Black Beans,"('Dark Red Kidney Beans No Salt Added',)",1105,0.03613323976840719,31.100478468899524
-Banana,"('Organic Whole Strawberries', 'Organic Avocado')",1104,0.03610054000391089,34.958834705509815
-Banana,"('Jalapeno Peppers', 'Cucumber Kirby')",1101,0.036002440710422,33.86650261458013
-Bag of Organic Bananas,"('Organic White Onions', 'Organic Strawberries')",1100,0.035969740945925706,33.516148689823275
-Large Lemon,"('Organic Garlic', 'Limes', 'Banana')",1100,0.035969740945925706,30.04643540016389
-Banana,"('Carrots', 'Honeycrisp Apple')",1098,0.03590434141693311,34.680985470625394
-Organic Hass Avocado,"('Organic Garlic', 'Organic Yellow Onion', 'Organic Strawberries')",1098,0.03590434141693311,30.808080808080806
-Bag of Organic Bananas,"('100% Recycled Paper Towels', 'Organic Strawberries')",1096,0.035838941887940526,31.749710312862113
-Banana,"('Sharp Cheddar Cheese', 'Organic Strawberries')",1095,0.03580624212344423,30.14037985136251
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Granny Smith Apple')",1095,0.03580624212344423,33.995653523750384
-Banana,"('Fresh Cauliflower', 'Honeycrisp Apple')",1093,0.035740842594451636,35.63743071405282
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Grape Tomatoes')",1093,0.035740842594451636,30.26862364995846
-Banana,"('Small Hass Avocado', 'Yellow Onions')",1093,0.035740842594451636,35.59101269944643
-Organic Hass Avocado,"('Organic Zucchini', 'Organic Yellow Onion', 'Bag of Organic Bananas')",1093,0.035740842594451636,32.911773562180066
-Organic Strawberries,"('Organic Tomato Cluster', 'Organic Blueberries')",1092,0.03570814282995534,34.38287153652393
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Grape Tomatoes')",1092,0.03570814282995534,30.3164908384231
-Banana,"('Shredded Parmesan', 'Large Lemon')",1091,0.03567544306545904,30.246742445245356
-Organic Hass Avocado,"('Organic Broccoli', 'Organic Cucumber')",1091,0.03567544306545904,33.455995093529594
-Organic Strawberries,"('Organic Beef Hot Dogs', 'Banana')",1090,0.035642743300962745,30.18554417058986
-Banana,"('Green Beans', 'Organic Strawberries')",1090,0.035642743300962745,33.03030303030303
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Apple Honeycrisp Organic')",1089,0.03561004353646645,35.18578352180937
-Bag of Organic Bananas,"('Organic Gala Apples', 'Fresh Cauliflower')",1088,0.03557734377197016,31.655513529240615
-Banana,"('Total 0% Nonfat Greek Yogurt', 'Organic Baby Spinach')",1087,0.035544644007473855,33.91575663026521
-Bag of Organic Bananas,"('Organic Whole Strawberries', 'Organic Blueberries')",1086,0.035511944242977565,32.789855072463766
-Banana,"('Total Greek Strained Yogurt', 'Organic Whole Milk')",1084,0.03544654471398497,31.14047687446136
-Bag of Organic Bananas,"('Organic Extra Firm Tofu', 'Organic Hass Avocado')",1084,0.03544654471398497,32.80871670702179
-Limes,"('Organic Jalapeno Pepper', 'Organic Baby Spinach')",1082,0.03538114518499238,31.154621364814282
-Banana,"('Organic Garlic', 'Limes', 'Organic Avocado')",1081,0.03534844542049608,32.62903712647148
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Blueberries')",1081,0.03534844542049608,33.54017995656221
-Banana,"('Organic Granny Smith Apple', 'Organic Fuji Apple')",1081,0.03534844542049608,34.88222007099064
-Bag of Organic Bananas,"('Organic Spring Mix', 'Organic Hass Avocado')",1080,0.035315745655999785,30.108725954836913
-Limes,"('Organic Garnet Sweet Potato (Yam)', 'Organic Cilantro')",1080,0.035315745655999785,33.02752293577982
-Organic Baby Spinach,"('Organic Garlic', 'Large Lemon', 'Organic Avocado')",1079,0.03528304589150349,30.43723554301834
-Bag of Organic Bananas,"('Organic Romaine Lettuce', 'Organic Cucumber')",1079,0.03528304589150349,30.723234624145785
-Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,"('Stage 1 Apples & Strawberries Organic Pureed Baby Food',)",1078,0.03525034612700719,33.49906774394034
-Banana,"('Organic Grape Tomatoes', 'Organic Avocado', 'Organic Baby Spinach')",1078,0.03525034612700719,34.42989460236346
-Bag of Organic Bananas,"('Seedless Red Grapes', 'Organic Cucumber')",1076,0.035184946598014605,33.964646464646464
-Banana,"('Boneless Skinless Chicken Breasts', 'Asparagus')",1074,0.03511954706902201,34.58937198067633
-Banana,"('Whipped Cream Cheese', 'Organic Whole Milk')",1073,0.03508684730452571,30.208333333333332
-Organic Hass Avocado,"('Organic Carrot Bunch', 'Organic Lemon')",1073,0.03508684730452571,32.407127755964964
-Limes,"('Asparagus', 'Organic Cilantro')",1073,0.03508684730452571,31.383445451886516
-Nonfat Icelandic Style Strawberry Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Non Fat Raspberry Yogurt')",1071,0.03502144777553312,34.054054054054056
-Bag of Organic Bananas,"('Organic Reduced Fat Milk', 'Organic Hass Avocado')",1071,0.03502144777553312,32.18149038461539
-Banana,"('Unsweetened Original Almond Breeze Almond Milk', 'Organic Strawberries')",1070,0.034988748011036824,34.77413064673383
-Bag of Organic Bananas,"('Grape White/Green Seedless', 'Organic Raspberries')",1068,0.03492334848204423,33.500627352572145
-Organic Strawberries,"('Organic Whole String Cheese', 'Organic Grape Tomatoes')",1068,0.03492334848204423,30.75151166138785
-Banana,"('Organic Red Onion', 'Strawberries')",1067,0.03489064871754794,33.60629921259842
-Organic Strawberries,"('Cantaloupe', 'Organic Baby Spinach')",1067,0.03489064871754794,32.6499388004896
-Banana,"('Organic Broccoli Florets', 'Organic Avocado')",1066,0.03485794895305164,30.773672055427255
-Organic Garlic,"('Organic Jalapeno Pepper', 'Organic Yellow Onion')",1065,0.03482524918855535,31.886227544910177
-Limes,"('Jalapeno Peppers', 'Cucumber Kirby')",1064,0.034792549424059044,32.72839126422639
-Banana,"('Red Raspberries', 'Organic Blackberries')",1064,0.034792549424059044,32.350258437214954
-Organic Strawberries,"('Organic Peeled Whole Baby Carrots', 'Organic Cucumber')",1063,0.034759849659562754,30.079230333899265
-Organic Hass Avocado,"('Organic Romaine Lettuce', 'Organic Cucumber')",1063,0.034759849659562754,30.26765375854214
-Banana,"('Bing Cherries', 'Organic Strawberries')",1060,0.034661750366073864,31.0122878876536
-Bag of Organic Bananas,"('Organic Whole String Cheese', 'Organic Grape Tomatoes')",1059,0.03462905060157757,30.49236970918514
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Blueberries')",1059,0.03462905060157757,33.40694006309148
-Organic Hass Avocado,"('Organic Cilantro', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1058,0.03459635083708127,33.375394321766564
-Organic Avocado,"('No Salt Added Black Beans', 'Large Lemon')",1057,0.034563651072584974,32.08864602307225
-Total 2% Greek Strained Yogurt with Cherry 5.3 oz,"('Blackberry Yogurt',)",1056,0.03453095130808868,30.484988452655887
-Banana,"('Organic Fat Free Milk', 'Organic Baby Spinach')",1056,0.03453095130808868,32.323232323232325
-Organic Strawberries,"('Grape White/Green Seedless', 'Organic Raspberries')",1056,0.03453095130808868,33.12421580928482
-Banana,"('Organic Garbanzo Beans', 'Large Lemon')",1056,0.03453095130808868,30.085470085470085
-Organic Strawberries,"('Organic Large Extra Fancy Fuji Apple', 'Seedless Red Grapes')",1055,0.03449825154359239,31.63418290854573
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Baby Spinach', 'Organic Strawberries')",1055,0.03449825154359239,31.047675103001765
-Bag of Organic Bananas,"('Organic Baby Carrots', 'Organic Lemon')",1054,0.03446555177909608,33.96712858524009
-Organic Avocado,"('Bunched Cilantro', 'Limes', 'Banana')",1054,0.03446555177909608,31.38773079213818
-Peanut Butter Bar,"('Almond Butter',)",1053,0.034432852014599793,33.449809402795424
-Limes,"('Organic Jalapeno Pepper', 'Banana')",1053,0.034432852014599793,33.33333333333333
-Organic Hass Avocado,"('Organic Navel Orange', 'Organic Cucumber')",1053,0.034432852014599793,32.20183486238532
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Red Bell Pepper')",1052,0.03440015225010349,32.49922767995057
-Peach on the Bottom Nonfat Greek Yogurt,"('Pineapple on the Bottom Greek Yogurt',)",1051,0.0343674524856072,31.514242878560722
-Raspberry Essence Water,"('Unsweetened Blackberry Water',)",1051,0.0343674524856072,33.75080282594733
-Organic Strawberries,"('Organic Yellow Onion', 'Organic Raspberries', 'Bag of Organic Bananas')",1049,0.034302052956614607,31.53938665063139
-Organic Baby Spinach,"('Mango Chunks', 'Pineapple Chunks')",1049,0.034302052956614607,30.256706085953272
-Banana,"('No Salt Added Black Beans', 'Organic Garlic')",1046,0.03420395366312572,33.65508365508366
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Blueberries')",1046,0.03420395366312572,31.242532855436085
-Banana,"('Shredded Parmesan', 'Organic Whole Milk')",1044,0.03413855413413313,30.544177881802227
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Yellow Onion')",1043,0.034105854369636826,32.71643663739021
-Stage 1 Apples & Strawberries Organic Pureed Baby Food,"('Organic Stage 2 Peaches & Bananas Baby Food',)",1043,0.034105854369636826,30.885401243707435
-Banana,"('Honey Nut Cheerios', 'Organic Strawberries')",1043,0.034105854369636826,30.70356196644098
-Organic Stage 2 Peaches & Bananas Baby Food,"('Stage 1 Apples & Strawberries Organic Pureed Baby Food',)",1043,0.034105854369636826,32.411435674331884
-Banana,"('Roma Tomato', 'Bunched Cilantro')",1039,0.033975055311651646,30.98717566358485
-Organic Hass Avocado,"('Unsweetened Almondmilk', 'Organic Lemon')",1039,0.033975055311651646,31.97907048322561
-Organic Hass Avocado,"('Fresh Cauliflower', 'Organic Strawberries', 'Bag of Organic Bananas')",1038,0.03394235554715535,31.588557516737676
-Organic Hass Avocado,"('Organic Whole Cashews', 'Bag of Organic Bananas')",1037,0.03390965578265905,31.947011706715955
-Banana,"('Mandarin Clementine  Bag',)",1036,0.033876956018162756,31.36542537087496
-Organic Hass Avocado,"('Organic Navel Orange', 'Organic Strawberries', 'Bag of Organic Bananas')",1036,0.033876956018162756,33.6145360155743
-Banana,"('Half & Half', 'Original Hummus')",1035,0.03384425625366646,31.41122913505311
-Organic Hass Avocado,"('Organic Tomato Cluster', 'Apple Honeycrisp Organic')",1034,0.03381155648917017,31.399939265107808
-Banana,"('Organic Whole String Cheese', 'Sparkling Water Grapefruit')",1034,0.03381155648917017,30.537507383343176
-Banana,"('Red Vine Tomato', 'Carrots')",1031,0.03371345719568127,32.68864933417882
-Banana,"('Organic Zucchini', 'Organic Avocado', 'Organic Baby Spinach')",1031,0.03371345719568127,31.771956856702623
-Organic Baby Spinach,"('Organic Zucchini', 'Organic Avocado', 'Banana')",1031,0.03371345719568127,31.684081130915796
-Organic Strawberries,"('Organic Reduced Fat Milk', 'Organic Hass Avocado')",1030,0.03368075743118498,30.94951923076923
-Bag of Organic Bananas,"('Organic Tomato Cluster', 'Organic Blueberries')",1027,0.03358265813769609,32.33627204030227
-Bag of Organic Bananas,"('Clementines, Bag', 'Organic Hass Avocado')",1027,0.03358265813769609,32.6031746031746
-Bag of Organic Bananas,"('Organic Orange Juice With Calcium & Vitamin D',)",1027,0.03358265813769609,32.832480818414325
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Gala Apples')",1025,0.0335172586087035,30.9761257177395
-Large Lemon,"('Shallot', 'Limes')",1025,0.0335172586087035,32.61215399300032
-Banana,"('Organic Baby Arugula', 'Yellow Onions')",1023,0.033451859079710905,32.04887218045113
-Organic Hass Avocado,"('Organic Roasted Turkey Breast', 'Organic Raspberries')",1023,0.033451859079710905,30.619574977551633
-Organic Strawberries,"('Fresh Cauliflower', 'Organic Blueberries')",1022,0.033419159315214615,30.06766696087084
-Organic Garlic,"('Organic Thyme', 'Organic Italian Parsley Bunch')",1022,0.033419159315214615,30.22774327122153
-Organic Hass Avocado,"('Fresh Cauliflower', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1020,0.03335375978622202,30.89972735534686
-Banana,"('Organic Coconut Milk', 'Organic Avocado')",1019,0.033321060021725725,31.993720565149136
-Banana,"('Broccoli Crown', 'Organic Hass Avocado')",1018,0.03328836025722943,33.094928478543565
-Organic Strawberries,"('Organic Kiwi', 'Organic Blackberries')",1018,0.03328836025722943,32.39974538510503
-Bag of Organic Bananas,"('Organic Reduced Fat 2% Milk', 'Organic Lemon')",1017,0.03325566049273313,32.722007722007724
-Organic Strawberries,"('Organic Whole String Cheese', 'Organic Lemon')",1017,0.03325566049273313,31.811072880825776
-Banana,"('Broccoli Crown', 'Organic Zucchini')",1014,0.03315756119924424,32.66752577319588
-Organic Strawberries,"('Seedless Red Grapes', 'Organic Cucumber')",1014,0.03315756119924424,32.00757575757576
-Bag of Organic Bananas,"('Cantaloupe', 'Organic Baby Spinach')",1013,0.03312486143474795,30.997552019583846
-Organic Strawberries,"('Organic Beef Hot Dogs', 'Bag of Organic Bananas')",1012,0.03309216167025165,30.020765351527736
-Organic Strawberries,"('Organic Whole String Cheese', 'Seedless Red Grapes')",1012,0.03309216167025165,31.062001227747082
-Bag of Organic Bananas,"('Organic Black Beans', 'Organic Zucchini')",1010,0.033026762141259054,30.348557692307693
-Bag of Organic Bananas,"('Organic Garnet Sweet Potato (Yam)', 'Organic Gala Apples')",1009,0.032994062376762764,32.288
-Organic Strawberries,"('Organic Granny Smith Apple', 'Organic Blueberries')",1009,0.032994062376762764,30.13739545997611
-Bag of Organic Bananas,"('Organic Russet Potato', 'Organic Zucchini')",1009,0.032994062376762764,31.31595282433271
-Organic Strawberries,"('Organic Red Bell Pepper', 'Organic Large Extra Fancy Fuji Apple')",1009,0.032994062376762764,30.01189767995241
-Limes,"('Organic Jalapeno Pepper', 'Organic Yellow Onion')",1007,0.03292866284777017,30.149700598802394
-Organic Avocado,"('Cucumber Kirby', 'Limes', 'Large Lemon')",1006,0.032895963083273874,30.484848484848488
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Tomato Cluster')",1005,0.03286326331877758,31.874405328258803
-Organic Hass Avocado,"('Organic Unsweetened Almond Milk', 'Organic Baby Spinach', 'Bag of Organic Bananas')",1005,0.03286326331877758,32.78955954323002
-Banana,"('Organic Ginger Root', 'Cucumber Kirby')",1004,0.03283056355428128,31.964342566061767
-Organic Baby Spinach,"('Michigan Organic Kale', 'Organic Avocado', 'Banana')",1004,0.03283056355428128,30.378214826021182
-Bag of Organic Bananas,"('Extra Virgin Olive Oil', 'Organic Raspberries')",1001,0.0327324642607924,31.74754202346971
-Organic Strawberries,"('Organic Cheese Frozen Pizza', 'Bag of Organic Bananas')",1000,0.032699764496296094,30.012004801920767
-Limes,"('Green Onions', 'Bunched Cilantro')",1000,0.032699764496296094,30.275507114744173
-Bag of Organic Bananas,"('Organic Cheese Frozen Pizza', 'Organic Strawberries')",1000,0.032699764496296094,32.425421530479895
-Organic Baby Spinach,"('Organic Whole Strawberries', 'Organic Avocado')",996,0.032568965438310914,31.538948701709945
-Bag of Organic Bananas,"('Organic Garlic', 'Limes', 'Organic Hass Avocado')",996,0.032568965438310914,31.06674984404242
-Organic Yellow Onion,"('Organic Lemon', 'Organic Garlic', 'Bag of Organic Bananas')",994,0.03250356590931833,32.42009132420091
-Organic Garlic,"('Organic Lemon', 'Organic Yellow Onion', 'Bag of Organic Bananas')",994,0.03250356590931833,30.057453885697004
-Bag of Organic Bananas,"('Organic Mint', 'Organic Hass Avocado')",994,0.03250356590931833,32.220421393841164
-Banana,"('Organic Red Radish, Bunch', 'Organic Avocado')",994,0.03250356590931833,30.24954351795496
-Organic Hass Avocado,"('Organic Garnet Sweet Potato (Yam)', 'Organic Large Extra Fancy Fuji Apple')",990,0.03237276685133314,31.1614730878187
-Bag of Organic Bananas,"('Organic Granny Smith Apple', 'Organic Baby Carrots')",989,0.03234006708683684,30.216926367247176
-Banana,"('Organic Bartlett Pear', 'Organic Avocado')",988,0.03230736732234055,31.28562381253958
-Bag of Organic Bananas,"('Organic Italian Parsley Bunch', 'Apple Honeycrisp Organic')",986,0.03224196779334795,31.981835874148558
-Bag of Organic Bananas,"('Michigan Organic Kale', 'Organic Large Extra Fancy Fuji Apple')",986,0.03224196779334795,31.847545219638242
-Bag of Organic Bananas,"('Organic Celery Hearts', 'Organic Strawberries')",986,0.03224196779334795,30.070143336383044
-Banana,"('Yellow Onions', 'Organic Raspberries')",985,0.032209268028851656,30.733229329173167
-Organic Strawberries,"('Organic Baby Arugula', 'Organic Blueberries')",982,0.032111168735362766,30.012224938875303
-Bag of Organic Bananas,"('Organic Snipped Green Beans', 'Organic Baby Spinach')",982,0.032111168735362766,30.440173589584624
-Organic Strawberries,"('Organic Bartlett Pear', 'Organic Kiwi')",982,0.032111168735362766,31.293817718291905
-Bag of Organic Bananas,"('Michigan Organic Kale', 'Apple Honeycrisp Organic')",982,0.032111168735362766,30.308641975308642
-Bag of Organic Bananas,"('Organic Baby Arugula', 'Organic Large Extra Fancy Fuji Apple')",981,0.03207846897086647,31.829980532121997
-Organic Strawberries,"('Clementines, Bag', 'Organic Hass Avocado')",978,0.031980369677377586,31.047619047619047
-Organic Strawberries,"('Organic Small Bunch Celery', 'Organic Blueberries')",977,0.03194766991288128,30.82018927444795
-Bag of Organic Bananas,"('Organic Large Grade AA Brown Eggs', 'Organic Baby Spinach')",974,0.0318495706193924,30.154798761609907
-Organic Hass Avocado,"('Organic Baby Carrots', 'Organic Lemon')",970,0.03171877156140721,31.26007089912988
-Bag of Organic Bananas,"('Organic Bell Pepper', 'Organic Yellow Onion')",970,0.03171877156140721,31.13964686998395
-Organic Avocado,"('Organic Large Brown Eggs', 'Banana')",967,0.03162067226791833,30.64005069708492
-Organic Hass Avocado,"('Organic Navel Orange', ""Organic D'Anjou Pears"")",966,0.03158797250342203,30.1875
-Banana,"('Organic Extra Firm Tofu', 'Organic Garlic')",965,0.031555272738925735,30.393700787401574
-Banana,"('Organic Fuji Apple', 'Organic Lemon')",964,0.03152257297442944,30.838131797824698
-Organic Red Bell Pepper,"('Organic Bell Pepper', 'Green Bell Pepper')",964,0.03152257297442944,30.996784565916396
-Organic Hass Avocado,"('Organic Granny Smith Apple', 'Organic Strawberries', 'Bag of Organic Bananas')",957,0.03129367462295537,31.03112840466926
-Organic Hass Avocado,"('Apple Honeycrisp Organic', 'Organic Raspberries', 'Organic Strawberries')",957,0.03129367462295537,30.0376647834275
-Organic Baby Spinach,"('Organic Unsweetened Almond Milk', 'Michigan Organic Kale')",956,0.031260974858459065,30.51388445579317
-Organic Yellow Onion,"('Organic Lemon', 'Organic Garlic', 'Organic Hass Avocado')",956,0.031260974858459065,30.234029095509175
-Limes,"('No Salt Added Black Beans', 'Organic Garlic')",952,0.031130175800473885,30.630630630630627
-Organic Baby Spinach,"('Organic Baby Kale', 'Bag of Organic Bananas')",949,0.031032076506984998,31.013071895424837
-Organic Hass Avocado,"('Organic Bosc Pear', 'Organic Raspberries')",949,0.031032076506984998,30.35828534868842
-Banana,"('Garlic', 'Carrots')",945,0.03090127744899981,30.07638446849141
-Organic Hass Avocado,"('Organic Chicken & Apple Sausage', 'Bag of Organic Bananas')",945,0.03090127744899981,30.7717355910127
-Banana,"('Organic Red Bell Pepper', 'Yellow Onions')",938,0.03067237909752574,30.41504539559014
-Organic Yellow Onion,"('Organic Leek', 'Organic Garlic')",936,0.03060697956853315,30.174081237911025
-Banana,"('Organic Spring Mix', 'Organic Avocado')",934,0.030541580039540557,30.14848289218851
-Organic Baby Spinach,"('No Salt Added Black Beans', 'Organic Garlic')",934,0.030541580039540557,30.051480051480052
-Bag of Organic Bananas,"('Organic Ginger Root', 'Organic Tomato Cluster')",931,0.030443480746051667,30.39503754489063
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Bag of Organic Bananas')",929,0.030378081217059073,30.319843342036553
-Banana,"('Vanilla Greek Yogurt 0% Fat',)",928,0.03034538145256278,30.18867924528302
+Banana,Organic Avocado,53395,1.7460039252797301,30.28592820315026
+Banana,Organic Fuji Apple,33943,1.1099281062977786,37.96161674905496
+Banana,Cucumber Kirby,32097,1.0495643410376159,33.05731500077244
+Banana,Honeycrisp Apple,28408,0.9289349098107795,35.68978730354159
+Bag of Organic Bananas,Organic Large Extra Fancy Fuji Apple,23364,0.7639972976914621,31.15864717806465
+Bag of Organic Bananas,Organic D'Anjou Pears,14905,0.48738998981729337,30.503028814669285
+Bag of Organic Bananas,Organic Navel Orange,14019,0.458417998473575,32.86370669042149
+Banana,Broccoli Crown,13842,0.4526301401577306,32.96342160411507
+Banana,Bartlett Pears,13682,0.4473981778383232,38.735065964554664
+Banana,"Clementines, Bag",12406,0.4056732783410494,31.252519145505847
+Banana,Granny Smith Apples,11992,0.39213557583958286,33.322218517283545
+Total 2% Lowfat Greek Strained Yogurt With Blueberry,Total 2% with Strawberry Lowfat Greek Strained Yogurt,9331,0.3051215025149389,31.262773478071498
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Total 2% Lowfat Greek Strained Yogurt With Blueberry,9331,0.3051215025149389,44.992526158445436
+Banana,Gala Apples,8771,0.28680963439701307,36.62365860787507
+Banana,No Salt Added Black Beans,8757,0.2863518376940649,31.390472093773525
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Total 2% Lowfat Greek Strained Yogurt with Peach,8014,0.2620559126733169,40.30376181854757
+Banana,Red Raspberries,7865,0.2571836477633688,30.050051579872388
+Organic Strawberries,Organic Yellow Peaches,7230,0.23641929730822078,33.989939354050115
+Non Fat Raspberry Yogurt,Icelandic Style Skyr Blueberry Non-fat Yogurt,7224,0.23622309872124303,37.54092397235358
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Non Fat Raspberry Yogurt,7224,0.23622309872124303,44.15108177484415
+Sparkling Water Grapefruit,Peach Pear Flavored Sparkling Water,6727,0.21997131576658385,31.77910052910053
+Bag of Organic Bananas,Organic Bosc Pear,6684,0.21856522589324312,31.2219730941704
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Vanilla Skyr Nonfat Yogurt,6653,0.21755153319385792,36.69608383894098
+Vanilla Skyr Nonfat Yogurt,Icelandic Style Skyr Blueberry Non-fat Yogurt,6653,0.21755153319385792,34.573611183287426
+Total 2% Lowfat Greek Strained Yogurt with Peach,Total 2% Lowfat Greek Strained Yogurt With Blueberry,6282,0.20541992056573205,30.290756545638654
+Total 2% Lowfat Greek Strained Yogurt With Blueberry,Total 2% Lowfat Greek Strained Yogurt with Peach,6282,0.20541992056573205,31.593240796620396
+Banana,Asparation/Broccolini/Baby Broccoli,6075,0.1986510693149988,36.81371954914556
+Sparkling Water Grapefruit,Sparkling Water Berry,6040,0.19750657755762843,34.77860309782921
+Banana,Mango Chunks,5609,0.1834129790597248,31.757445362926056
+Banana,XL Emerald White Seedless Grapes,5575,0.18230118706685075,35.49824896529768
+Banana,Large Yellow Flesh Nectarine,5209,0.17033307326120636,34.12828408569744
+Vanilla Skyr Nonfat Yogurt,Non Fat Raspberry Yogurt,5097,0.1666706996376212,31.151448478181155
+Organic Zucchini,Organic Yellow Squash,4992,0.16323722436551014,44.55949299294832
+Banana,Frozen Broccoli Florets,4709,0.15398319101305832,30.530342323651453
+Organic Strawberries,Organic Nectarine,4594,0.15022271809598425,35.07405710795541
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Nonfat Icelandic Style Strawberry Yogurt,4559,0.1490782263386139,42.77537999624695
+Banana,Berry Medley,4505,0.14731243905581393,31.772339375132237
+Clementines,Apples,4009,0.13109335586565107,32.820302906262796
+Soda,Zero Calorie Cola,3970,0.1298180650502955,49.94338910554787
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Non Fat Acai & Mixed Berries Yogurt,3925,0.1283465756479622,45.36523347202959
+Vanilla Skyr Nonfat Yogurt,Nonfat Icelandic Style Strawberry Yogurt,3898,0.1274636820065622,36.573465941077124
+Non Fat Raspberry Yogurt,Nonfat Icelandic Style Strawberry Yogurt,3821,0.12494580014034738,35.85100394070182
+Bag of Organic Bananas,Organic Honey Sweet Whole Wheat Bread,3731,0.12200282133568074,31.940758496704046
+Banana,Mandarin Oranges,3710,0.12131612628125853,33.20802005012531
+Grapefruit Sparkling Water,Lemon Sparkling Water,3335,0.10905371459514748,35.30968766543145
+Banana,Medium Navel Orange,3255,0.1064377334354438,32.743184790262546
+Blackberry Cucumber Sparkling Water,Kiwi Sandia Sparkling Water,3160,0.10333125580829568,34.61875547765118
+Non Fat Raspberry Yogurt,Non Fat Acai & Mixed Berries Yogurt,3145,0.10284075934085123,36.34997688395747
+Banana,Whole Strawberries,3043,0.09950538336222903,34.51678765880218
+Total 0% Raspberry Yogurt,Fat Free Strawberry Yogurt,3009,0.09839359136935497,30.69781677208733
+Banana,Black Plum,2988,0.09770689631493275,32.26781857451404
+Blueberry Yoghurt,Raspberry Yoghurt,2916,0.09535251327119941,34.884555568847944
+Banana,Red Plums,2834,0.09267113258250315,31.97202166064982
+Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,Yotoddler Organic Pear Spinach Mango Yogurt,2823,0.09231143517304388,46.11991504656102
+Yotoddler Organic Pear Spinach Mango Yogurt,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,2823,0.09231143517304388,45.00239120038259
+Banana,Pink Lady (Cripps) Apple,2815,0.09204983705707352,36.792576133838715
+Blueberry on the Bottom Nonfat Greek Yogurt,Strawberry on the Bottom Nonfat Greek Yogurt,2767,0.0904802483612513,36.25049128782916
+Strawberry on the Bottom Nonfat Greek Yogurt,Blueberry on the Bottom Nonfat Greek Yogurt,2767,0.0904802483612513,43.437990580847725
+Almond Milk Blueberry Yogurt,Almond Milk Strawberry Yogurt,2702,0.08835476366899206,47.28736436821841
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,2702,0.08835476366899206,57.30646871686108
+Banana,Grape Tomatoes,2669,0.0872756714406143,30.70639668660838
+Strawberry on the Bottom Nonfat Greek Yogurt,Peach on the Bottom Nonfat Greek Yogurt,2665,0.08714487238262911,34.27211934156379
+Peach on the Bottom Nonfat Greek Yogurt,Strawberry on the Bottom Nonfat Greek Yogurt,2665,0.08714487238262911,34.914188392506226
+Total 0% Raspberry Yogurt,Fat Free Blueberry Yogurt,2644,0.08645817732820688,36.90675600223339
+Banana,Red Mango,2547,0.08328630017206616,30.898944559019775
+Banana,Sweet Potato Yam,2531,0.08276310394012541,40.52193403778418
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,2477,0.08099731665732543,52.65731292517006
+Almond Milk Peach Yogurt,Almond Milk Strawberry Yogurt,2477,0.08099731665732543,43.34966748337417
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,Spinach Peas & Pear Stage 2 Baby Food,2440,0.07978742537096248,30.38226870875358
+Blackberry Cucumber Sparkling Water,Curate Melon Pomelo Sparking Water,2389,0.07811973738165137,33.92502130076683
+Blueberry on the Bottom Nonfat Greek Yogurt,Peach on the Bottom Nonfat Greek Yogurt,2371,0.07753114162071804,30.49125514403292
+Peach on the Bottom Nonfat Greek Yogurt,Blueberry on the Bottom Nonfat Greek Yogurt,2371,0.07753114162071804,37.22135007849294
+Fat Free Strawberry Yogurt,Fat Free Blueberry Yogurt,2340,0.07651744892133287,32.663316582914575
+Spinach Peas & Pear Stage 2 Baby Food,Broccoli & Apple Stage 2 Baby Food,2339,0.07648474915683656,34.230938094541195
+Vanilla Skyr Style Yogurt,Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,2309,0.07550375622194769,31.998337028824835
+Strawberry Rhubarb Yogurt,Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,2292,0.07494786022551066,31.762749445676274
+Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,Strawberry Rhubarb Yogurt,2292,0.07494786022551066,34.907097167225096
+Banana,Strawberry on the Bottom Nonfat Greek Yogurt,2291,0.07491516046101436,30.01441110965544
+Almond Milk Peach Yogurt,Almond Milk Blueberry Yogurt,2260,0.07390146776162919,47.932131495228
+Almond Milk Blueberry Yogurt,Almond Milk Peach Yogurt,2260,0.07390146776162919,48.044217687074834
+Kiwi Sandia Sparkling Water,Curate Melon Pomelo Sparking Water,2255,0.0737379689391477,32.02215279750071
+Banana,Golden Delicious Apple,2236,0.07311667341371807,43.26625386996904
+Banana,Bosc Pear,2228,0.0728550752977477,39.08086300649009
+Organic Nonfat Greek Yogurt With Peaches,Organic Greek Nonfat Yogurt With Mixed Berries,2208,0.07220108000782179,32.051095950065324
+Organic Greek Nonfat Yogurt With Mixed Berries,Organic Nonfat Greek Yogurt With Peaches,2208,0.07220108000782179,36.41761504205839
+Banana,Cherry Pomegranate Greek Yogurt,2142,0.07004289555106624,31.270072992700733
+Banana,Garnet Sweet Potato (Yam),2109,0.06896380332268846,31.38392857142857
+Banana,Whole Wheat English Muffins,2089,0.06830980803276254,32.044792146034666
+Blueberry Whole Milk Yogurt Pouch,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,2036,0.06657672051445886,32.45655985971624
+Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,Blueberry Whole Milk Yogurt Pouch,2036,0.06657672051445886,41.40736221273134
+Organic Zucchini,Yellow Straightneck Squash,2032,0.06644592145647367,31.396786155747836
+Banana,Peanut Butter Creamy With Salt,2028,0.06631512239848848,32.5
+Banana,YoKids Strawberry Banana/Strawberry Yogurt,2024,0.0661843233405033,30.074294205052006
+Strawberries,Medium Scarlet Raspberries,2022,0.06611892381151072,40.23880597014926
+Apple Pie Fruit & Nut Food Bar,Cherry Pie Fruit & Nut Bar,2002,0.0654649285215848,36.13718411552346
+"Yogurt, Lowfat, Strawberry",Lowfat Blueberry Yogurt,1995,0.06523603017011072,46.18055555555556
+"Yogurt, Lowfat, Strawberry",Organic Raspberry Lowfat Yogurt,1973,0.0645166353511922,37.45965445224986
+Bag of Organic Bananas,Grade A Large Brown Eggs,1966,0.06428773699971813,30.887666928515316
+Organic Greek Lowfat Yogurt With Strawberries,Organic Greek Lowfat Yogurt With Blueberries,1959,0.06405883864824405,41.026178010471206
+Organic Greek Lowfat Yogurt With Blueberries,Organic Greek Lowfat Yogurt With Strawberries,1959,0.06405883864824405,31.07057890563045
+Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,"Organic Pears, Peas and Broccoli Puree Stage 1",1925,0.06294704665536999,38.27798767150527
+"Organic Pears, Peas and Broccoli Puree Stage 1",Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,1925,0.06294704665536999,34.50439146800502
+Coconut Chia Bar,Chocolate Peanut Butter,1870,0.0611485596080737,40.197764402407564
+Chocolate Peanut Butter,Coconut Chia Bar,1870,0.0611485596080737,40.223704022370406
+Banana,Medium Scarlet Raspberries,1867,0.06105046031458482,37.15422885572139
+Peach on the Bottom Nonfat Greek Yogurt,Raspberry on the Bottom Nonfat Greek Yogurt,1846,0.06036376526016259,36.74363057324841
+Banana,Mandarins Bag,1842,0.060232966202177406,33.953917050691246
+Sparkling Water Grapefruit,All Natural Apricot Sparkling Water,1833,0.05993866832171075,33.47333820306793
+Apple Pie Fruit & Nut Food Bar,Blueberry Muffin Bar,1826,0.05970976997023668,31.762045573143155
+Yotoddler Organic Pear Spinach Mango Yogurt,Blueberry Whole Milk Yogurt Pouch,1821,0.059546271147755195,37.03477730323368
+Vanilla Almond Milk Yogurt,Almond Milk Strawberry Yogurt,1811,0.05921927350279224,31.69408470423521
+Almond Milk Strawberry Yogurt,Vanilla Almond Milk Yogurt,1811,0.05921927350279224,33.30881000551775
+Banana,Non-Fat Greek Yogurt With Strawberries on the Bottom,1785,0.05836907962588853,38.45325290822921
+Banana,Red Delicious Apple,1769,0.05784588339394779,41.8896519062278
+Bag of Organic Bananas,Organic Fuji Apples,1758,0.057486185984488535,32.82913165266106
+Strawberry on the Bottom Nonfat Greek Yogurt,Raspberry on the Bottom Nonfat Greek Yogurt,1746,0.05709378881053298,34.753184713375795
+Banana,Small Macintosh Apple,1731,0.05660329234308854,34.62
+"Yogurt, Lowfat, Strawberry",Organic Peach Lowfat Yogurt,1731,0.05660329234308854,40.83510261854211
+Organic Strawberries,Organic Black Plum,1717,0.0561454956401404,32.17163200299794
+Peach on the Bottom Nonfat Greek Yogurt,Non Fat Black Cherry on the Bottom Greek Yogurt,1697,0.055491500350214475,36.41630901287554
+Organic Strawberries,Organic Cherries,1697,0.055491500350214475,30.249554367201426
+YoKids Squeeze! Organic Strawberry Flavor Yogurt,YoKids Squeeze Organic Blueberry Blue Yogurt,1694,0.05539340105672559,48.79032258064516
+Banana,Blueberries Pint,1691,0.0552953017632367,37.39495798319328
+Blueberry on the Bottom Nonfat Greek Yogurt,Raspberry on the Bottom Nonfat Greek Yogurt,1684,0.05506640341176263,33.51910828025478
+Banana,Baby Spinach Salad,1671,0.05464130647331078,30.04314994606257
+Banana,Bolthouse Baby Carrots,1649,0.05392191165439227,34.95866016535934
+Blueberry on the Bottom Nonfat Greek Yogurt,Non Fat Black Cherry on the Bottom Greek Yogurt,1648,0.05388921188989597,35.36480686695279
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,"Peach,  Apricot & Banana Stage 2 Baby Food",1634,0.05343141518694782,32.058073376495976
+Banana,Frozen Peaches,1601,0.05235232295857005,30.45463191934563
+Vanilla Almond Milk Yogurt,Almond Milk Peach Yogurt,1561,0.0510443323787182,33.18452380952381
+Vanilla Almond Milk Yogurt,Almond Milk Blueberry Yogurt,1561,0.0510443323787182,33.10710498409332
+Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food,1531,0.050063339443829326,47.29687982700031
+Banana,Hass Avocado Bag,1512,0.049442043918399695,31.85169580787866
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,Baby Food Stage 2 Pumpkin Banana,1507,0.04927854509591821,33.804396590399286
+Banana,Low-Fat Strawberry Banana on the Bottom Greek Yogurt,1501,0.049082346508940444,36.988664366683096
+Vitamin Water Zero Squeezed Lemonade,Vitamin Water Zero Rise Orange,1486,0.048591850041496,34.27121771217712
+Strawberry on the Bottom Nonfat Greek Yogurt,Non Fat Black Cherry on the Bottom Greek Yogurt,1485,0.0485591502769997,31.86695278969957
+Organic Strawberries,Red Plum,1484,0.048526450512503407,30.497328401150842
+Banana,Artisan Sausage Pineapple Uncured Bacon Hardwood Smoked with Vermont Maple Syrup,1478,0.04833025192552563,30.90757005437056
+Banana,Brownberry 100% 12 Grain Bread,1466,0.04793785475157008,32.75245755138517
+Greek Whole Milk Blended Blueberry Yogurt,Organic Greek Whole Milk Blended Strawberry Yogurt,1458,0.047676256635599705,34.72255298880686
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,Apple and Carrot Stage 2 Baby Food,1449,0.04738195875513305,35.204081632653065
+"Juice Beverage, Cold Pressed, Kale Apple Ginger Romaine Spinach Cucumber Celery Parsley Lemon",Beet Apple Carrot Lemon Ginger Organic Cold Pressed Juice Beverage,1436,0.0469568618166812,34.419942473633746
+Grapefruit Sparkling Water,Coconut Sparkling Water,1398,0.04571427076582195,34.24791768740813
+Coconut  Chocolate Bar,Chocolate Sea Salt,1376,0.04499487594690343,31.785631785631786
+Banana,Cara Cara Navel Orange,1369,0.04476597759542936,31.348752003663844
+Organic Raw Kombucha Gingerade,"Kombucha, Organic Raw, Citrus",1368,0.04473327783093306,30.624580255204837
+Organic Raspberry Lowfat Yogurt,Lowfat Blueberry Yogurt,1365,0.04463517853744418,31.59722222222222
+Banana,Cut & Peeled Baby Carrots,1361,0.04450437947945899,32.56759990428332
+Banana,Organic Lowfat French Vanilla Yogurt,1346,0.04401388301201455,31.775259678942398
+Banana,Hearty Grains 100% Whole Wheat English Muffins,1344,0.04394848348302196,30.0
+Banana,Red Bell Pepper,1338,0.04375228489604418,38.581314878892734
+Banana,Family Size Naturally Flavored Whole Grain Oats Cereal,1335,0.04365418560255529,33.6272040302267
+Fat Free Strawberry Yogurt,Total 0% Peach Yogurt,1324,0.04329448819309603,35.92944369063772
+Banana,Turkey,1320,0.04316368913511085,42.58064516129032
+Banana,Large Brown Grade AA Eggs,1311,0.04286939125464419,30.452961672473865
+Organic Blended Raspberry Whole Milk Greek Yogurt,Organic Greek Whole Milk Blended Strawberry Yogurt,1309,0.042803991725651594,31.17408906882591
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Blackberry Yogurt,1309,0.042803991725651594,37.788683602771364
+Peach on the Bottom Nonfat Greek Yogurt,Low-Fat Mango on the Bottom Greek Yogurt,1300,0.04250969384518493,36.32299525006985
+Banana,Blueberry Pint,1287,0.04208459690673308,37.38019169329074
+Unsweetened Blackberry Water,Unsweetened Watermelon Water,1271,0.041561400674792345,30.871994170512508
+Unsweetened Watermelon Water,Unsweetened Blackberry Water,1271,0.041561400674792345,40.815671162491974
+Apple Pie Fruit & Nut Food Bar,Lemon Fruit & Nut Food Bar,1264,0.04133250232331827,31.878940731399748
+Banana,Original Strawberry Low Fat Yogurt,1260,0.04120170326533308,30.252100840336134
+"Organic Pears, Peas and Broccoli Puree Stage 1",Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food,1253,0.04097280491385901,38.708680877355576
+Crunchy Oats 'n Honey Granola Bars,Sweet & Salty Nut Granola Bars Peanut,1245,0.040711206797888644,30.855018587360593
+Total 2% Lowfat Greek Strained Yogurt With Blueberry,Blackberry Yogurt,1239,0.04051500821091086,35.76789838337183
+Banana,Comice Pear,1237,0.04044960868191827,30.528134254689043
+Banana,Golden Sweet Potato,1223,0.03999181197897013,34.46041138348831
+Organic Ginger Root,Turmeric Root,1221,0.039926412449977536,35.41183294663573
+Organic Strawberries,Organic Seedless Watermelon,1221,0.039926412449977536,33.65490628445424
+Total 0% Raspberry Yogurt,Total 0% Peach Yogurt,1186,0.03878192069260717,32.18453188602442
+Banana,Snacks String Cheese Natural Mozzarella Cheese,1185,0.038749220928110874,30.415811088295687
+Organic Lemon Lowfat Yogurt,Lowfat Key Lime Yogurt,1182,0.03865112163462199,30.207002300025554
+Banana,Original Cream Cheese,1172,0.03832412398965902,30.956154252509243
+Total 2% Lowfat Greek Strained Yogurt with Peach,Blackberry Yogurt,1164,0.038062525873688656,33.6027713625866
+Banana,Mini Watermelon,1112,0.03636213811988126,32.11088651458273
+No Salt Added Black Beans,Dark Red Kidney Beans No Salt Added,1105,0.03613323976840719,31.100478468899524
+Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,Stage 1 Apples & Strawberries Organic Pureed Baby Food,1078,0.03525034612700719,33.49906774394034
+Total 2% Greek Strained Yogurt with Cherry 5.3 oz,Blackberry Yogurt,1056,0.03453095130808868,30.484988452655887
+Peanut Butter Bar,Almond Butter,1053,0.034432852014599793,33.449809402795424
+Peach on the Bottom Nonfat Greek Yogurt,Pineapple on the Bottom Greek Yogurt,1051,0.0343674524856072,31.514242878560722
+Raspberry Essence Water,Unsweetened Blackberry Water,1051,0.0343674524856072,33.75080282594733
+Organic Stage 2 Peaches & Bananas Baby Food,Stage 1 Apples & Strawberries Organic Pureed Baby Food,1043,0.034105854369636826,32.411435674331884
+Stage 1 Apples & Strawberries Organic Pureed Baby Food,Organic Stage 2 Peaches & Bananas Baby Food,1043,0.034105854369636826,30.885401243707435
+Banana,Mandarin Clementine  Bag,1036,0.033876956018162756,31.36542537087496
+Bag of Organic Bananas,Organic Orange Juice With Calcium & Vitamin D,1027,0.03358265813769609,32.832480818414325
+Banana,Vanilla Greek Yogurt 0% Fat,928,0.03034538145256278,30.18867924528302

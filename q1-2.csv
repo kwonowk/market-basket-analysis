@@ -1,481 +1,73 @@
 consequent,antecedent,support_itemset_absolute,support_itemset_relative_pct,confidence_pct,hour
-Banana,"('Organic Peeled Whole Baby Carrots', 'Organic Avocado')",31.0,0.1529504637852773,57.407407407407405,0.0
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Raspberries')",28.0,0.1381488059996053,53.84615384615385,0.0
-Organic Hass Avocado,"('Organic Zucchini', 'Organic Strawberries', 'Bag of Organic Bananas')",24.0,0.11841326228537595,55.81395348837209,0.0
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Hass Avocado', 'Organic Strawberries')",24.0,0.11841326228537595,72.72727272727273,0.0
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Zucchini')",23.0,0.11347937635681864,53.48837209302325,0.0
-Coconut Chia Bar,"('Chocolate Peanut Butter',)",23.0,0.11347937635681864,52.27272727272727,0.0
-Chocolate Peanut Butter,"('Coconut Chia Bar',)",23.0,0.11347937635681864,53.48837209302325,0.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Apple Honeycrisp Organic')",23.0,0.11347937635681864,63.888888888888886,0.0
-Banana,"('Peanut Butter Creamy With Salt',)",23.0,0.11347937635681864,54.761904761904766,0.0
-Banana,"('100% Whole Wheat Bread', 'Strawberries')",22.0,0.1085454904282613,55.00000000000001,0.0
-Organic Strawberries,"('Organic Blueberries', 'Limes')",22.0,0.1085454904282613,50.0,0.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Baby Spinach')",21.0,0.10361160449970397,50.0,0.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",20.0,0.09867771857114663,51.28205128205128,0.0
-Almond Milk Peach Yogurt,"('Almond Milk Strawberry Yogurt',)",20.0,0.09867771857114663,51.28205128205128,0.0
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Garlic')",20.0,0.09867771857114663,51.28205128205128,0.0
-Blueberry Whole Milk Yogurt Pouch,"('Organic Whole Milk Strawberry Beet Berry Yogurt Pouch',)",19.0,0.0937438326425893,51.35135135135135,0.0
-Bag of Organic Bananas,"('Organic Russet Potato', 'Organic Baby Spinach')",19.0,0.0937438326425893,50.0,0.0
-Banana,"('Organic Fuji Apple', 'Seedless Red Grapes')",19.0,0.0937438326425893,52.77777777777778,0.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Granny Smith Apple')",18.0,0.08880994671403197,51.42857142857142,0.0
-Limes,"('Organic Jalapeno Pepper', 'Organic Cilantro')",18.0,0.08880994671403197,52.94117647058824,0.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Yellow Onion')",25.0,0.22727272727272727,59.523809523809526,1.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry',)",24.0,0.2181818181818182,54.54545454545454,1.0
-Bag of Organic Bananas,"('Fresh Cauliflower', 'Organic Baby Spinach')",23.0,0.20909090909090908,50.0,1.0
-Bag of Organic Bananas,"('Organic Cilantro', 'Organic Hass Avocado')",21.0,0.19090909090909092,52.5,1.0
-Bag of Organic Bananas,"('Organic Small Bunch Celery', 'Organic Strawberries')",21.0,0.19090909090909092,52.5,1.0
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Hass Avocado')",19.0,0.17272727272727273,51.35135135135135,1.0
-Limes,"('Organic Cilantro', 'Organic Avocado')",19.0,0.17272727272727273,51.35135135135135,1.0
-Limes,"('Organic Cilantro', 'Large Lemon')",19.0,0.17272727272727273,52.77777777777778,1.0
-Banana,"('Honeycrisp Apple', 'Organic Strawberries')",18.0,0.16363636363636364,58.06451612903226,1.0
-Bag of Organic Bananas,"('Organic Yellow Onion', 'Organic Raspberries')",17.0,0.15454545454545454,54.83870967741935,1.0
-Bag of Organic Bananas,"('Organic Hass Avocado', 'Organic Strawberries', 'Organic Baby Spinach')",16.0,0.14545454545454545,50.0,1.0
-Limes,"('Jalapeno Peppers', 'Large Lemon')",15.0,0.13636363636363638,51.724137931034484,1.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt',)",15.0,0.13636363636363638,55.55555555555556,1.0
-Organic Strawberries,"('Organic Blackberries', 'Organic Hass Avocado')",15.0,0.13636363636363638,51.724137931034484,1.0
-Banana,"('Organic Blackberries', 'Seedless Red Grapes')",14.0,0.1272727272727273,77.77777777777779,1.0
-Organic Garlic,"('Organic Ginger Root', 'Organic Yellow Onion')",14.0,0.1272727272727273,60.86956521739131,1.0
-Banana,"('Honeycrisp Apple', 'Organic Hass Avocado')",14.0,0.1272727272727273,51.85185185185185,1.0
-Total 0% Raspberry Yogurt,"('Fat Free Blueberry Yogurt',)",13.0,0.1181818181818182,54.166666666666664,1.0
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Yellow Onion')",13.0,0.1181818181818182,59.09090909090909,1.0
-Banana,"('Go Lean Cereal',)",13.0,0.1181818181818182,59.09090909090909,1.0
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Hass Avocado')",21.0,0.3148897885739991,60.0,2.0
-Low Fat Vanilla Yogurt,"('Blueberry Muffin',)",15.0,0.22492127755285649,83.33333333333334,2.0
-Blueberry Muffin,"('Low Fat Vanilla Yogurt',)",15.0,0.22492127755285649,53.57142857142857,2.0
-Organic Whole Milk,"('Whole Milk Plain Yogurt',)",15.0,0.22492127755285649,51.724137931034484,2.0
-Bag of Organic Bananas,"('Organic Italian Parsley Bunch', 'Organic Hass Avocado')",13.0,0.1949317738791423,50.0,2.0
-Organic Reduced Fat 2% Milk,"('Blueberry Muffin',)",13.0,0.1949317738791423,72.22222222222221,2.0
-Olive Bread,"('Blueberry Muffin',)",12.0,0.1799370220422852,66.66666666666666,2.0
-Bag of Organic Bananas,"('Organic Unsweetened Almond Milk', 'Organic Hass Avocado')",12.0,0.1799370220422852,66.66666666666666,2.0
-Banana,"('Blueberry Muffin',)",12.0,0.1799370220422852,66.66666666666666,2.0
-Blueberry Muffin,"('Olive Bread',)",12.0,0.1799370220422852,63.1578947368421,2.0
-Banana,"('Squeeze Tomato Ketchup',)",11.0,0.1649422702054281,57.89473684210527,2.0
-Challah Bread,"('Blueberry Muffin',)",11.0,0.1649422702054281,61.111111111111114,2.0
-Organic Raspberries,"('Blueberry Muffin',)",11.0,0.1649422702054281,61.111111111111114,2.0
-Bag of Organic Bananas,"('Seedless Red Grapes', 'Organic Hass Avocado')",11.0,0.1649422702054281,52.38095238095239,2.0
-Bag of Organic Bananas,"('Unsweetened Coconut Milk Beverage',)",11.0,0.1649422702054281,50.0,2.0
-Blueberry Muffin,"('Challah Bread', 'Low Fat Vanilla Yogurt')",10.0,0.149947518368571,100.0,2.0
-Low Fat Vanilla Yogurt,"('Blueberry Muffin', 'Challah Bread')",10.0,0.149947518368571,90.9090909090909,2.0
-Challah Bread,"('Blueberry Muffin', 'Low Fat Vanilla Yogurt')",10.0,0.149947518368571,66.66666666666666,2.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt',)",10.0,0.149947518368571,71.42857142857143,2.0
-Organic Garlic,"('Organic Italian Parsley Bunch', 'Organic Yellow Onion')",10.0,0.149947518368571,55.55555555555556,2.0
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Strawberries')",16.0,0.3284072249589491,66.66666666666666,3.0
-Banana,"('Carrots', 'Organic Baby Spinach')",14.0,0.28735632183908044,56.00000000000001,3.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt',)",13.0,0.26683087027914615,100.0,3.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt',)",13.0,0.26683087027914615,86.66666666666667,3.0
-Organic Zucchini,"('Organic Yellow Squash',)",11.0,0.22577996715927748,55.00000000000001,3.0
-Almond Milk Peach Yogurt,"('Almond Milk Strawberry Yogurt', 'Almond Milk Blueberry Yogurt')",10.0,0.20525451559934318,100.0,3.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Strawberry Yogurt', 'Almond Milk Peach Yogurt')",10.0,0.20525451559934318,100.0,3.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",10.0,0.20525451559934318,66.66666666666666,3.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Peach Yogurt')",10.0,0.20525451559934318,76.92307692307693,3.0
-Almond Milk Peach Yogurt,"('Almond Milk Strawberry Yogurt',)",10.0,0.20525451559934318,76.92307692307693,3.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",10.0,0.20525451559934318,76.92307692307693,3.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Strawberry Yogurt',)",10.0,0.20525451559934318,76.92307692307693,3.0
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Raspberries')",9.0,0.18472906403940886,52.94117647058824,3.0
-Organic Baby Spinach,"('No Salt Added Black Beans', 'Banana')",9.0,0.18472906403940886,50.0,3.0
-Organic Hass Avocado,"('Organic Navel Orange', 'Organic Cucumber')",9.0,0.18472906403940886,75.0,3.0
-Banana,"('No Salt Added Black Beans', 'Organic Baby Spinach')",9.0,0.18472906403940886,69.23076923076923,3.0
-Large Lemon,"('Organic Cilantro', 'Organic Avocado')",9.0,0.18472906403940886,52.94117647058824,3.0
-Organic Avocado,"('Organic Cilantro', 'Large Lemon')",9.0,0.18472906403940886,56.25,3.0
-Bag of Organic Bananas,"('Large Lemon', 'Organic Hass Avocado')",9.0,0.18472906403940886,50.0,3.0
-Organic Hass Avocado,"('Organic Navel Orange', 'Organic Strawberries')",9.0,0.18472906403940886,52.94117647058824,3.0
-Organic Hass Avocado,"('Organic Red Onion', 'Bag of Organic Bananas')",17.0,0.34630270930943163,62.96296296296296,4.0
-Bag of Organic Bananas,"('Organic Red Onion', 'Organic Hass Avocado')",17.0,0.34630270930943163,62.96296296296296,4.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Baby Spinach')",16.0,0.3259319617029945,51.61290322580645,4.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado')",16.0,0.3259319617029945,57.14285714285714,4.0
-Bag of Organic Bananas,"('Organic Red Bell Pepper', 'Organic Hass Avocado')",13.0,0.26481971888368305,54.166666666666664,4.0
-Banana,"('Cucumber Kirby', 'Organic Strawberries')",13.0,0.26481971888368305,54.166666666666664,4.0
-Bag of Organic Bananas,"('Green Bell Pepper', 'Organic Hass Avocado')",13.0,0.26481971888368305,52.0,4.0
-Organic Hass Avocado,"('Organic Red Bell Pepper', 'Bag of Organic Bananas')",13.0,0.26481971888368305,52.0,4.0
-Banana,"('Organic Avocado', 'Organic Strawberries')",13.0,0.26481971888368305,61.904761904761905,4.0
-Organic Hass Avocado,"('Organic Ginger Root', 'Bag of Organic Bananas')",12.0,0.24444897127724588,54.54545454545454,4.0
-Organic Hass Avocado,"('Organic Grape Tomatoes', 'Bag of Organic Bananas')",12.0,0.24444897127724588,52.17391304347826,4.0
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Hass Avocado')",12.0,0.24444897127724588,57.14285714285714,4.0
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Hass Avocado')",12.0,0.24444897127724588,54.54545454545454,4.0
-Organic Greek Lowfat Yogurt With Blueberries,"('Organic Greek Lowfat Yogurt With Strawberries',)",11.0,0.22407822367080873,55.00000000000001,4.0
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Lemon')",11.0,0.22407822367080873,52.38095238095239,4.0
-Organic Hass Avocado,"('Organic Lemon', 'Limes')",11.0,0.22407822367080873,55.00000000000001,4.0
-Natural Skinless & Boneless Sardines In Water,"('Lactose Free Fat Free Milk',)",11.0,0.22407822367080873,64.70588235294117,4.0
-Lactose Free Fat Free Milk,"('Natural Skinless & Boneless Sardines In Water',)",11.0,0.22407822367080873,73.33333333333333,4.0
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Raspberries')",11.0,0.22407822367080873,55.00000000000001,4.0
-Banana,"('Strawberries', 'Large Lemon')",11.0,0.22407822367080873,52.38095238095239,4.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Hass Avocado')",33.0,0.39090262970859985,50.0,5.0
-Banana,"('Organic Whole Milk', 'Organic Avocado')",20.0,0.23691068467187867,52.63157894736842,5.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Raspberries')",20.0,0.23691068467187867,60.60606060606061,5.0
-Banana,"('Grade A Large White Eggs',)",19.0,0.2250651504382848,51.35135135135135,5.0
-Bag of Organic Bananas,"('Organic Lemon', 'Apple Honeycrisp Organic')",19.0,0.2250651504382848,79.16666666666666,5.0
-Banana,"('Grape Tomatoes',)",19.0,0.2250651504382848,54.285714285714285,5.0
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Raspberries')",18.0,0.21321961620469082,60.0,5.0
-Banana,"('Honeycrisp Apple', 'Organic Avocado')",16.0,0.18952854773750297,64.0,5.0
-Bag of Organic Bananas,"('Organic Grape Tomatoes', 'Organic Raspberries')",16.0,0.18952854773750297,61.53846153846154,5.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Strawberries')",15.0,0.17768301350390903,60.0,5.0
-Banana,"('Strawberries', 'Organic Avocado')",15.0,0.17768301350390903,50.0,5.0
-Banana,"('Seedless Red Grapes', 'Cucumber Kirby')",15.0,0.17768301350390903,71.42857142857143,5.0
-Banana,"('Honeycrisp Apple', 'Strawberries')",14.0,0.16583747927031509,63.63636363636363,5.0
-Banana,"('Organic Baby Carrots', 'Organic Avocado')",14.0,0.16583747927031509,66.66666666666666,5.0
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries')",14.0,0.16583747927031509,58.333333333333336,5.0
-Organic Strawberries,"('Organic Gala Apples', 'Organic Raspberries')",14.0,0.16583747927031509,51.85185185185185,5.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Hass Avocado')",14.0,0.16583747927031509,56.00000000000001,5.0
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Large Extra Fancy Fuji Apple')",14.0,0.16583747927031509,63.63636363636363,5.0
-Organic Baby Spinach,"('Organic English Cucumber',)",13.0,0.15399194503672115,50.0,5.0
-Organic Baby Spinach,"('Organic Zucchini', 'Organic Avocado')",13.0,0.15399194503672115,50.0,5.0
-Banana,"('Honeycrisp Apple', 'Organic Avocado')",59.0,0.21638670872148463,54.12844036697248,6.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt',)",54.0,0.19804885205017236,56.84210526315789,6.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt',)",47.0,0.17237585271033523,60.256410256410255,6.0
-Banana,"('Strawberries', 'Large Lemon')",46.0,0.16870828137607274,52.87356321839081,6.0
-Banana,"('Honeycrisp Apple', 'Organic Baby Spinach')",45.0,0.1650407100418103,51.724137931034484,6.0
-Banana,"('Organic Fuji Apple', 'Strawberries')",43.0,0.15770556737328542,57.333333333333336,6.0
-Banana,"('Honeycrisp Apple', 'Seedless Red Grapes')",40.0,0.14670285337049807,55.55555555555556,6.0
-Banana,"('Seedless Red Grapes', 'Large Lemon')",40.0,0.14670285337049807,55.55555555555556,6.0
-Banana,"('Yellow Onions', 'Organic Avocado')",39.0,0.1430352820362356,52.0,6.0
-Banana,"('Cucumber Kirby', 'Strawberries')",39.0,0.1430352820362356,52.702702702702695,6.0
-Banana,"('Honeycrisp Apple', 'Cucumber Kirby')",38.0,0.13936771070197315,58.46153846153847,6.0
-Banana,"('Honeycrisp Apple', 'Strawberries')",37.0,0.1357001393677107,53.62318840579711,6.0
-Organic Strawberries,"('Grape White/Green Seedless', 'Bag of Organic Bananas')",36.0,0.13203256803344826,52.17391304347826,6.0
-Banana,"('Broccoli Crown', 'Organic Avocado')",35.0,0.1283649966991858,54.6875,6.0
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Large Extra Fancy Fuji Apple')",35.0,0.1283649966991858,52.23880597014925,6.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Banana')",33.0,0.1210298540306609,55.932203389830505,6.0
-Banana,"('Sweet Potato Yam',)",33.0,0.1210298540306609,56.896551724137936,6.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",32.0,0.11736228269639845,72.72727272727273,6.0
-Peach on the Bottom Nonfat Greek Yogurt,"('Non Fat Black Cherry on the Bottom Greek Yogurt',)",31.0,0.11369471136213599,52.54237288135594,6.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",31.0,0.11369471136213599,62.0,6.0
-Banana,"('Honeycrisp Apple', 'Strawberries')",148.0,0.1796967011085344,57.14285714285714,7.0
-Banana,"('Organic Fuji Apple', 'Organic Avocado')",144.0,0.17484003351100644,52.74725274725275,7.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Hass Avocado')",128.0,0.1554133631208946,51.2,7.0
-Banana,"('Organic Fuji Apple', 'Strawberries')",121.0,0.14691419482522067,53.30396475770925,7.0
-Banana,"('Cucumber Kirby', 'Strawberries')",118.0,0.1432716941270747,51.52838427947598,7.0
-Banana,"('Organic Fuji Apple', 'Cucumber Kirby')",110.0,0.13355835893201878,52.13270142180095,7.0
-Banana,"('Red Vine Tomato', 'Cucumber Kirby')",107.0,0.12991585823387283,51.196172248803826,7.0
-Banana,"('Seedless Red Grapes', 'Cucumber Kirby')",97.0,0.11777418924005292,55.11363636363637,7.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",92.0,0.111703354743143,54.437869822485204,7.0
-Strawberry on the Bottom Nonfat Greek Yogurt,"('Blueberry on the Bottom Nonfat Greek Yogurt',)",92.0,0.111703354743143,53.48837209302325,7.0
-Banana,"('Organic Fuji Apple', 'Seedless Red Grapes')",86.0,0.10441835334685107,56.95364238410596,7.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",81.0,0.09834751884994111,58.27338129496403,7.0
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",81.0,0.09834751884994111,61.832061068702295,7.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",80.0,0.09713335195055912,54.054054054054056,7.0
-Banana,"('Yellow Onions', 'Strawberries')",80.0,0.09713335195055912,58.3941605839416,7.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",78.0,0.09470501815179515,50.98039215686274,7.0
-Organic Hass Avocado,"('Organic Lemon', 'Organic Raspberries', 'Bag of Organic Bananas')",73.0,0.0886341836548852,56.15384615384615,7.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Raspberries', 'Organic Hass Avocado')",73.0,0.0886341836548852,54.074074074074076,7.0
-Banana,"('100% Whole Wheat Bread', 'Organic Fuji Apple')",73.0,0.0886341836548852,55.3030303030303,7.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",72.0,0.08742001675550322,50.349650349650354,7.0
-Soda,"('Zero Calorie Cola',)",280.0,0.17527825422858787,52.5328330206379,8.0
-Banana,"('Organic Fuji Apple', 'Strawberries')",276.0,0.17277427916817947,54.54545454545454,8.0
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",265.0,0.1658883477520564,53.86178861788618,8.0
-Banana,"('Honeycrisp Apple', 'Strawberries')",259.0,0.1621323851614438,52.42914979757085,8.0
-Banana,"('Cucumber Kirby', 'Strawberries')",259.0,0.1621323851614438,52.53549695740365,8.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",249.0,0.15587244751042278,58.45070422535211,8.0
-Strawberry on the Bottom Nonfat Greek Yogurt,"('Blueberry on the Bottom Nonfat Greek Yogurt',)",232.0,0.1452305535036871,52.01793721973094,8.0
-Banana,"('Broccoli Crown', 'Organic Avocado')",231.0,0.144604559738585,50.0,8.0
-Banana,"('Organic Fuji Apple', 'Cucumber Kirby')",208.0,0.13020670314123672,53.608247422680414,8.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",189.0,0.1183128216042968,57.62195121951219,8.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",188.0,0.11768682783919472,51.64835164835166,8.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",184.0,0.11518285277878633,59.54692556634305,8.0
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",182.0,0.11393086524858212,57.961783439490446,8.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",175.0,0.10954890889286743,59.32203389830508,8.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",171.0,0.10704493383245904,66.796875,8.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",167.0,0.10454095877205064,63.49809885931559,8.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",163.0,0.10203698371164223,52.41157556270096,8.0
-Total 2% Lowfat Greek Strained Yogurt with Peach,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",158.0,0.09890701488613172,51.1326860841424,8.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",158.0,0.09890701488613172,53.559322033898304,8.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",156.0,0.09765502735592753,57.99256505576208,8.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry',)",1084.0,0.4702840359394184,50.02307337332718,9.0
-Lime Sparkling Water,"('Sparkling Lemon Water', 'Sparkling Water Grapefruit')",622.0,0.26984932689512753,54.03996524761078,9.0
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",622.0,0.26984932689512753,58.90151515151515,9.0
-Soda,"('Zero Calorie Cola',)",531.0,0.2303697629924642,53.420523138833,9.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",492.0,0.21344994989132274,52.45202558635395,9.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",492.0,0.21344994989132274,64.56692913385827,9.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt',)",415.0,0.1800441650506076,50.733496332518335,9.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",396.0,0.17180117918082075,68.15834767641996,9.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",391.0,0.1696319723729821,51.99468085106383,9.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",391.0,0.1696319723729821,68.1184668989547,9.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",391.0,0.1696319723729821,68.95943562610229,9.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",391.0,0.1696319723729821,68.1184668989547,9.0
-Banana,"('Organic Fuji Apple', 'Organic Avocado')",374.0,0.1622566692263307,50.74626865671642,9.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",374.0,0.1622566692263307,67.14542190305207,9.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",354.0,0.15357984199497612,68.8715953307393,9.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",342.0,0.14837374565616337,66.796875,9.0
-Strawberry on the Bottom Nonfat Greek Yogurt,"('Blueberry on the Bottom Nonfat Greek Yogurt',)",335.0,0.14533685612518926,51.380368098159515,9.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",334.0,0.14490301476362152,54.13290113452188,9.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",334.0,0.14490301476362152,51.38461538461539,9.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Strawberries')",329.0,0.1427338079557829,50.0,9.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry',)",1169.0,0.4537444591940505,50.693842150910676,10.0
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",644.0,0.24996700746019546,58.492279745685735,10.0
-Lime Sparkling Water,"('Sparkling Lemon Water', 'Sparkling Water Grapefruit')",644.0,0.24996700746019546,53.936348408710224,10.0
-Soda,"('Zero Calorie Cola',)",601.0,0.23327666379437495,53.422222222222224,10.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",561.0,0.2177507627098908,66.15566037735849,10.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",561.0,0.2177507627098908,55.00000000000001,10.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",421.0,0.1634101089141961,68.45528455284553,10.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",379.0,0.1471079127754877,66.14310645724258,10.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",373.0,0.14477902761281508,65.20979020979021,10.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Banana')",372.0,0.14439088008570297,50.88919288645691,10.0
-Banana,"('Organic Fuji Apple', 'Strawberries')",358.0,0.1389568147061335,52.41581259150805,10.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",357.0,0.13856866717902142,67.61363636363636,10.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Strawberries')",342.0,0.13274645427233983,51.2743628185907,10.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",341.0,0.13235830674522772,63.73831775700934,10.0
-Banana,"('Honeycrisp Apple', 'Strawberries')",339.0,0.1315820116910035,51.20845921450151,10.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",337.0,0.1308057166367793,62.06261510128913,10.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Banana')",335.0,0.1300294215825551,50.37593984962406,10.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",334.0,0.12964127405544298,66.13861386138615,10.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",316.0,0.12265461856742511,67.09129511677283,10.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",311.0,0.1207138809318646,54.46584938704028,10.0
-Soda,"('Zero Calorie Cola',)",509.0,0.20010221331131814,53.02083333333333,11.0
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",495.0,0.19459841962495578,54.395604395604394,11.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",355.0,0.13956048276133193,50.786838340486405,11.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",355.0,0.13956048276133193,61.95462478184991,11.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",319.0,0.1254078704249715,65.9090909090909,11.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",314.0,0.12344222982269921,69.62305986696231,11.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",286.0,0.11243464244997445,61.77105831533477,11.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",263.0,0.10339269567952196,61.02088167053365,11.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",260.0,0.10221331131815858,64.83790523690773,11.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",253.0,0.0994614144749774,58.429561200923786,11.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",240.0,0.09435074890906947,65.04065040650406,11.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",239.0,0.093957620788615,50.21008403361344,11.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",239.0,0.093957620788615,51.73160173160173,11.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",236.0,0.09277823642725164,56.45933014354066,11.0
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",233.0,0.09159885206588828,55.47619047619048,11.0
-Lime Sparkling Water,"('Sparkling Water Berry', 'Sparkling Lemon Water')",231.0,0.09081259582497936,53.34872979214781,11.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Peach Pear Flavored Sparkling Water')",222.0,0.08727444274088925,57.66233766233766,11.0
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",221.0,0.0868813146204348,50.804597701149426,11.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",221.0,0.0868813146204348,58.93333333333334,11.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",221.0,0.0868813146204348,62.07865168539326,11.0
-Soda,"('Zero Calorie Cola',)",363.0,0.14911578039312343,52.76162790697675,12.0
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",357.0,0.14665105675026188,50.495049504950494,12.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",276.0,0.11337728757163104,61.06194690265486,12.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",248.0,0.10187524390494382,62.15538847117794,12.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",241.0,0.09899973298827201,67.31843575418995,12.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",205.0,0.08421139113110276,51.12219451371571,12.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",205.0,0.08421139113110276,50.49261083743842,12.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",201.0,0.08256824203586173,54.91803278688525,12.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",195.0,0.08010351839300019,58.91238670694864,12.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",194.0,0.07969273111918992,59.14634146341463,12.0
-Non Fat Raspberry Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",179.0,0.07353092201203607,50.28089887640449,12.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",179.0,0.07353092201203607,60.06711409395973,12.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",178.0,0.0731201347382258,67.42424242424242,12.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",177.0,0.07270934746441556,52.99401197604791,12.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",173.0,0.07106619836917452,57.475083056478404,12.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",168.0,0.06901226200012324,56.75675675675676,12.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",167.0,0.06860147472631298,59.21985815602837,12.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt',)",167.0,0.06860147472631298,50.0,12.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",166.0,0.06819068745250272,61.48148148148148,12.0
-Lime Sparkling Water,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",162.0,0.0665475383572617,61.36363636363637,12.0
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",378.0,0.15218432823502415,51.85185185185185,13.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",270.0,0.10870309159644581,59.471365638766514,13.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",246.0,0.09904059456565062,63.730569948186535,13.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",231.0,0.09300153392140365,58.040201005025125,13.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",226.0,0.09098851370665464,66.27565982404691,13.0
-Banana,"('Broccoli Crown', 'Cucumber Kirby')",206.0,0.08293643284765866,50.121654501216554,13.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Vanilla Skyr Nonfat Yogurt', 'Non Fat Raspberry Yogurt')",194.0,0.07810518433226107,54.647887323943664,13.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",190.0,0.07649476816046187,52.92479108635098,13.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Baby Spinach')",187.0,0.07528695603161248,54.518950437317784,13.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",186.0,0.07488435198866267,63.6986301369863,13.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",185.0,0.07448174794571287,50.135501355013545,13.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",184.0,0.07407914390276307,58.0441640378549,13.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",181.0,0.07287133177391367,55.35168195718655,13.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",181.0,0.07287133177391367,62.629757785467135,13.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt',)",180.0,0.07246872773096387,50.13927576601671,13.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Peach Pear Flavored Sparkling Water')",177.0,0.07126091560211448,57.28155339805825,13.0
-Lime Sparkling Water,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",175.0,0.07045570751621488,60.553633217993074,13.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",169.0,0.06804008325851608,58.47750865051903,13.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",166.0,0.06683227112966668,57.43944636678201,13.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",162.0,0.06522185495786749,52.25806451612903,13.0
-Sparkling Water Grapefruit,"('Sparkling Lemon Water', 'Lime Sparkling Water')",396.0,0.15673857114585396,53.51351351351351,14.0
-Soda,"('Zero Calorie Cola',)",382.0,0.1511973085295864,56.01173020527859,14.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",288.0,0.1139916881060756,58.06451612903226,14.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",235.0,0.09301405105877697,58.168316831683164,14.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",230.0,0.09103502869582426,65.3409090909091,14.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",226.0,0.08945181080546209,65.12968299711815,14.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",216.0,0.0854937660795567,52.300242130750604,14.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",213.0,0.08430635266178509,53.517587939698494,14.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",211.0,0.083514743716604,57.96703296703297,14.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",208.0,0.08232733029883238,59.25925925925925,14.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",202.0,0.07995250346328914,52.0618556701031,14.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",201.0,0.0795566989906986,63.20754716981132,14.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",192.0,0.07599445873738372,60.18808777429467,14.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",188.0,0.07441124084702157,60.64516129032258,14.0
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",188.0,0.07441124084702157,53.10734463276836,14.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt',)",184.0,0.07282802295665941,50.54945054945055,14.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",181.0,0.07164060953888779,66.30036630036629,14.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",176.0,0.06966158717593508,50.28571428571429,14.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",173.0,0.06847417375816346,63.138686131386855,14.0
-Lime Sparkling Water,"('Sparkling Water Berry', 'Sparkling Lemon Water')",173.0,0.06847417375816346,54.2319749216301,14.0
-Soda,"('Zero Calorie Cola',)",335.0,0.13223336227993998,51.14503816793893,15.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",265.0,0.10460251046025104,56.74518201284796,15.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",247.0,0.09749743427804532,53.69565217391305,15.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",212.0,0.08368200836820083,64.04833836858006,15.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",204.0,0.08052419673166496,50.37037037037037,15.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",196.0,0.07736638509512907,61.63522012578616,15.0
-Total 2% Lowfat Greek Strained Yogurt With Blueberry,"('Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt')",192.0,0.07578747927686114,50.0,15.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",192.0,0.07578747927686114,58.35866261398176,15.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",190.0,0.07499802636772716,57.57575757575758,15.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",183.0,0.07223494118575827,57.36677115987461,15.0
-Non Fat Raspberry Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",181.0,0.07144548827662431,51.12994350282486,15.0
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",181.0,0.07144548827662431,61.14864864864865,15.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",180.0,0.07105076182205732,50.847457627118644,15.0
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Icelandic Style Skyr Blueberry Non-fat Yogurt')",180.0,0.07105076182205732,50.0,15.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Sparkling Lemon Water')",166.0,0.06552459145811952,59.92779783393502,15.0
-Lime Sparkling Water,"('Sparkling Water Berry', 'Sparkling Lemon Water')",165.0,0.06512986500355254,50.15197568389058,15.0
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",164.0,0.06473513854898555,55.78231292517006,15.0
-Bag of Organic Bananas,"('Organic Bosc Pear', 'Organic Hass Avocado')",160.0,0.06315623273071762,52.11726384364821,15.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",158.0,0.062366779821583646,58.08823529411765,15.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",155.0,0.06118260045788269,60.311284046692606,15.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",238.0,0.09751580534534116,56.666666666666664,16.0
-Soda,"('Zero Calorie Cola',)",236.0,0.09669634479622065,50.31982942430704,16.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",218.0,0.08932119985413603,57.97872340425532,16.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",209.0,0.0856336273830937,52.64483627204031,16.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",197.0,0.08071686408837063,65.23178807947019,16.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt',)",189.0,0.07743902189188857,50.26595744680851,16.0
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",177.0,0.07252225859716549,55.4858934169279,16.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Sparkling Lemon Water')",170.0,0.0696541466752437,63.19702602230484,16.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",163.0,0.06678603475332189,52.58064516129032,16.0
-Vanilla Skyr Nonfat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",161.0,0.06596657420420136,52.103559870550164,16.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",159.0,0.06514711365508086,55.017301038062286,16.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Sparkling Lemon Water')",148.0,0.060640080634918034,52.85714285714286,16.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",148.0,0.060640080634918034,64.62882096069869,16.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",145.0,0.059410889811237266,58.94308943089431,16.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey')",141.0,0.05777196871299624,58.26446280991735,16.0
-Lime Sparkling Water,"('Sparkling Water Berry', 'Sparkling Lemon Water')",137.0,0.056133047614755203,50.92936802973978,16.0
-Organic Greek Whole Milk Blended Strawberry Yogurt,"('Greek Whole Milk Blended Blueberry Yogurt',)",135.0,0.05531358706563469,60.53811659192825,16.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt', 'Almond Milk Strawberry Yogurt')",135.0,0.05531358706563469,64.5933014354067,16.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Strawberry Yogurt')",135.0,0.05531358706563469,61.92660550458715,16.0
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Hass Avocado', 'Organic Strawberries')",135.0,0.05531358706563469,50.18587360594795,16.0
-Banana,"('Organic Fuji Apple', 'Strawberries')",244.0,0.11931306967100888,51.69491525423729,17.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",180.0,0.0880178382818918,51.57593123209169,17.0
-Banana,"('Seedless Red Grapes', 'Organic Fuji Apple')",176.0,0.08606188632007199,52.22551928783383,17.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach')",170.0,0.08312795837734224,57.23905723905723,17.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",166.0,0.08117200641552244,52.86624203821656,17.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",156.0,0.0762821265109729,50.0,17.0
-Banana,"('Yellow Onions', 'Strawberries')",152.0,0.07432617454915308,50.498338870431894,17.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Vanilla Skyr Nonfat Yogurt', 'Non Fat Raspberry Yogurt')",149.0,0.07285921057778821,58.43137254901961,17.0
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",119.0,0.05818957086413958,53.84615384615385,17.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",117.0,0.05721159488322967,58.2089552238806,17.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",114.0,0.05574463091186481,57.868020304568525,17.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",114.0,0.05574463091186481,52.77777777777778,17.0
-Bag of Organic Bananas,"('Apple Honeycrisp Organic', 'Organic Hass Avocado', 'Organic Strawberries')",114.0,0.05574463091186481,51.81818181818182,17.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Non Fat Raspberry Yogurt')",105.0,0.05134373899777022,58.333333333333336,17.0
-Banana,"('Bartlett Pears', 'Honeycrisp Apple')",102.0,0.04987677502640535,50.24630541871922,17.0
-Sparkling Water Grapefruit,"('Pure Sparkling Water', 'Lime Sparkling Water')",101.0,0.0493877870359504,53.72340425531915,17.0
-Coconut Chia Bar,"('Acai Berry Chia Bar',)",99.0,0.04840981105504049,50.51020408163265,17.0
-Banana,"('Broccoli Crown', 'Organic Fuji Apple')",99.0,0.04840981105504049,51.03092783505154,17.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% All Natural Greek Strained Yogurt with Honey')",97.0,0.047431835074130575,55.74712643678161,17.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Strawberry Yogurt')",96.0,0.046942847083675625,57.831325301204814,17.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",132.0,0.08080412345890621,55.932203389830505,18.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry')",122.0,0.07468259895444362,54.95495495495496,18.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",112.0,0.06856107444998102,52.58215962441315,18.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",102.0,0.062439549945518424,50.24630541871922,18.0
-Banana,"('Bartlett Pears', 'Organic Fuji Apple')",88.0,0.05386941563927081,51.162790697674424,18.0
-Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,"('Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt',)",84.0,0.05142080583748576,53.503184713375795,18.0
-Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,"('Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit',)",84.0,0.05142080583748576,59.57446808510638,18.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",80.0,0.04897219603570073,52.980132450331126,18.0
-Sparkling Water Grapefruit,"('Peach Pear Flavored Sparkling Water', 'Lime Sparkling Water')",77.0,0.04713573868436195,58.778625954198475,18.0
-Bag of Organic Bananas,"('Organic Zucchini', 'Organic Hass Avocado', 'Organic Strawberries')",73.0,0.04468712888257692,52.51798561151079,18.0
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Hass Avocado', 'Organic Strawberries')",72.0,0.04407497643213066,50.349650349650354,18.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt', 'Almond Milk Strawberry Yogurt')",71.0,0.0434628239816844,52.98507462686567,18.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Strawberry Yogurt')",71.0,0.0434628239816844,53.78787878787878,18.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Peach Yogurt')",71.0,0.0434628239816844,62.28070175438597,18.0
-Banana,"('Cucumber Kirby', 'Limes', 'Large Lemon')",71.0,0.0434628239816844,50.0,18.0
-Banana,"('Broccoli Crown', 'Organic Fuji Apple')",70.0,0.04285067153123814,50.35971223021583,18.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Acai & Mixed Berries Yogurt', 'Non Fat Raspberry Yogurt')",69.0,0.042238519080791875,57.98319327731093,18.0
-Banana,"('Bartlett Pears', 'Honeycrisp Apple')",69.0,0.042238519080791875,52.67175572519084,18.0
-Strawberries,"('Medium Scarlet Raspberries', 'Banana')",68.0,0.04162636663034562,53.96825396825397,18.0
-Sparkling Water Grapefruit,"('Sparkling Water Berry', 'Lime Sparkling Water')",68.0,0.04162636663034562,60.17699115044248,18.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",125.0,0.09943837207452311,60.679611650485434,19.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Strawberry Yogurt',)",125.0,0.09943837207452311,51.229508196721305,19.0
-Banana,"('Honeycrisp Apple', 'Strawberries')",119.0,0.09466533021494598,50.0,19.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",102.0,0.08114171161281085,50.0,19.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",91.0,0.07239113487025281,52.90697674418605,19.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Large Extra Fancy Fuji Apple')",86.0,0.0684135999872719,53.75,19.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",80.0,0.06364055812769479,51.94805194805194,19.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",77.0,0.06125403719790622,56.61764705882353,19.0
-Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,"('Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit',)",77.0,0.06125403719790622,70.0,19.0
-Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,"('Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt',)",77.0,0.06125403719790622,52.73972602739726,19.0
-Banana,"('Bartlett Pears', 'Organic Baby Spinach')",74.0,0.05886751626811767,55.639097744360896,19.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Banana')",69.0,0.05488998138513675,50.36496350364964,19.0
-Banana,"('Bartlett Pears', 'Large Lemon')",68.0,0.05409447440854056,59.64912280701754,19.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt', 'Almond Milk Blueberry Yogurt')",68.0,0.05409447440854056,70.10309278350515,19.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Strawberry Yogurt')",68.0,0.05409447440854056,54.400000000000006,19.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt', 'Almond Milk Strawberry Yogurt')",68.0,0.05409447440854056,66.66666666666666,19.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",65.0,0.05170795347875201,59.63302752293578,19.0
-Bag of Organic Bananas,"('Organic Blueberries', 'Organic Raspberries', 'Organic Hass Avocado')",63.0,0.05011693952555964,52.94117647058824,19.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Red Bell Pepper')",62.0,0.049321432548963456,51.2396694214876,19.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Raspberries', 'Organic Hass Avocado')",62.0,0.049321432548963456,51.2396694214876,19.0
-Banana,"('Honeycrisp Apple', 'Strawberries')",122.0,0.13028063730724873,51.47679324894515,20.0
-Banana,"('Organic Fuji Apple', 'Cucumber Kirby')",121.0,0.12921276323095982,52.60869565217391,20.0
-Banana,"('Organic Fuji Apple', 'Strawberries')",110.0,0.11746614839178164,52.13270142180095,20.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",100.0,0.10678740762889241,62.893081761006286,20.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Baby Spinach')",91.0,0.09717654094229208,52.601156069364166,20.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",89.0,0.09504079278971424,52.976190476190474,20.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Non Fat Raspberry Yogurt', 'Vanilla Skyr Nonfat Yogurt')",76.0,0.08115842979795823,56.2962962962963,20.0
-Banana,"('Organic Fuji Apple', 'Limes')",72.0,0.07688693349280253,50.0,20.0
-Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,"('Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt',)",64.0,0.06834394088249114,60.952380952380956,20.0
-Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,"('Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit',)",64.0,0.06834394088249114,67.36842105263158,20.0
-Banana,"('Original Hummus', 'Honeycrisp Apple')",64.0,0.06834394088249114,52.459016393442624,20.0
-Banana,"('Bartlett Pears', 'Cucumber Kirby')",61.0,0.06514031865362437,51.26050420168067,20.0
-Banana,"('Blueberries', 'Cucumber Kirby')",61.0,0.06514031865362437,51.26050420168067,20.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Peach Yogurt', 'Almond Milk Strawberry Yogurt')",59.0,0.06300457050104652,66.29213483146067,20.0
-Almond Milk Peach Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Strawberry Yogurt')",59.0,0.06300457050104652,59.0,20.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt', 'Almond Milk Peach Yogurt')",59.0,0.06300457050104652,75.64102564102564,20.0
-Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,"('Organic Apples, Carrots and Parsnips Puree',)",58.0,0.06193669642475759,50.0,20.0
-Icelandic Style Skyr Blueberry Non-fat Yogurt,"('Nonfat Icelandic Style Strawberry Yogurt', 'Non Fat Raspberry Yogurt')",58.0,0.06193669642475759,52.72727272727272,20.0
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Hass Avocado', 'Organic Strawberries')",55.0,0.05873307419589082,51.886792452830186,20.0
-Banana,"('Red Vine Tomato', 'Organic Fuji Apple')",55.0,0.05873307419589082,55.00000000000001,20.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Strawberries')",117.0,0.16679734834984675,52.46636771300448,21.0
-Banana,"('Broccoli Crown', 'Organic Avocado')",117.0,0.16679734834984675,52.23214285714286,21.0
-Banana,"('Strawberries', 'Organic Whole Milk')",110.0,0.15681801981609522,50.69124423963134,21.0
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries')",110.0,0.15681801981609522,51.162790697674424,21.0
-Banana,"('Honeycrisp Apple', 'Cucumber Kirby')",94.0,0.1340081260246632,50.53763440860215,21.0
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Large Extra Fancy Fuji Apple')",88.0,0.12545441585287617,52.071005917159766,21.0
-Bag of Organic Bananas,"('Organic Bosc Pear', 'Organic Hass Avocado')",86.0,0.12260317912894717,55.483870967741936,21.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",83.0,0.11832632404305367,55.333333333333336,21.0
-Banana,"('Organic Avocado', 'Organic Baby Spinach', 'Organic Strawberries')",83.0,0.11832632404305367,50.609756097560975,21.0
-Bag of Organic Bananas,"('Organic Bartlett Pear', 'Organic Raspberries')",81.0,0.11547508731912468,51.26582278481012,21.0
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Garlic')",80.0,0.11404946895716017,51.94805194805194,21.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",75.0,0.10692137714733765,51.02040816326531,21.0
-Banana,"('Organic Reduced Fat Milk', 'Organic Avocado')",73.0,0.10407014042340865,54.88721804511278,21.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",72.0,0.10264452206144416,58.536585365853654,21.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Large Extra Fancy Fuji Apple')",72.0,0.10264452206144416,55.38461538461539,21.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",71.0,0.10121890369947965,62.83185840707964,21.0
-Banana,"('Blueberries', 'Organic Avocado')",69.0,0.09836766697555065,51.8796992481203,21.0
-Banana,"('Boneless Skinless Chicken Breasts', 'Cucumber Kirby')",67.0,0.09551643025162164,53.6,21.0
-Banana,"('Yellow Onions', 'Strawberries')",67.0,0.09551643025162164,50.0,21.0
-Banana,"('Broccoli Crown', 'Cucumber Kirby')",67.0,0.09551643025162164,54.47154471544715,21.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado')",304.0,0.5528981685248168,52.41379310344828,22.0
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Hass Avocado')",133.0,0.24189294872960734,51.35135135135135,22.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Strawberries')",113.0,0.2055180692213957,64.20454545454545,22.0
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries')",106.0,0.19278686139352164,50.96153846153846,22.0
-Banana,"('Broccoli Crown', 'Organic Avocado')",104.0,0.18914937344270047,50.48543689320388,22.0
-Bag of Organic Bananas,"('Organic Gala Apples', 'Organic Raspberries')",94.0,0.17096193368859466,51.64835164835166,22.0
-Banana,"('Organic Fuji Apple', 'Organic Avocado')",88.0,0.16004946983613116,50.28571428571429,22.0
-Almond Milk Blueberry Yogurt,"('Almond Milk Strawberry Yogurt',)",79.0,0.14368077405743596,53.02013422818792,22.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",79.0,0.14368077405743596,68.69565217391305,22.0
-Banana,"('Organic Fuji Apple', 'Large Lemon')",77.0,0.14004328610661476,50.0,22.0
-Banana,"('Broccoli Crown', 'Cucumber Kirby')",74.0,0.13458705418038303,58.26771653543307,22.0
-Banana,"('Organic Fuji Apple', 'Strawberries')",73.0,0.13276831020497246,53.67647058823529,22.0
-Yotoddler Organic Pear Spinach Mango Yogurt,"('Organic Whole Milk Strawberry Beet Berry Yogurt Pouch',)",73.0,0.13276831020497246,50.0,22.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Hass Avocado', 'Organic Strawberries')",72.0,0.13094956622956186,51.42857142857142,22.0
-Banana,"('Organic Reduced Fat Milk', 'Organic Avocado')",69.0,0.12549333430333012,51.49253731343284,22.0
-Bag of Organic Bananas,"('Organic Raspberries', 'Organic Hass Avocado', 'Organic Baby Spinach')",67.0,0.12185584635250896,60.909090909090914,22.0
-Banana,"('Yellow Onions', 'Strawberries')",65.0,0.11821835840168779,53.278688524590166,22.0
-Banana,"('Yellow Onions', 'Organic Whole Milk')",61.0,0.11094338250004546,50.0,22.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Raspberries')",61.0,0.11094338250004546,53.98230088495575,22.0
-Banana,"('Bartlett Pears', 'Organic Avocado')",59.0,0.1073058945492243,54.12844036697248,22.0
-Bag of Organic Bananas,"('Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries')",67.0,0.18673876083502883,51.14503816793893,23.0
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Raspberries')",64.0,0.17837732378271412,50.0,23.0
-Bag of Organic Bananas,"('Organic Hass Avocado', 'Organic Baby Spinach', 'Organic Strawberries')",54.0,0.15050586694166504,50.467289719626166,23.0
-Bag of Organic Bananas,"('100% Raw Coconut Water', 'Organic Hass Avocado')",54.0,0.15050586694166504,50.0,23.0
-Bag of Organic Bananas,"(""Organic D'Anjou Pears"", 'Organic Raspberries')",53.0,0.14771872125756014,50.0,23.0
-Bag of Organic Bananas,"('Organic Navel Orange', 'Organic Hass Avocado')",53.0,0.14771872125756014,50.0,23.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Blueberry Yogurt',)",43.0,0.11984726441651104,55.84415584415584,23.0
-Bag of Organic Bananas,"('Organic Carrot Bunch', 'Organic Hass Avocado')",41.0,0.11427297304830122,51.89873417721519,23.0
-Banana,"('Organic Fuji Apple', 'Seedless Red Grapes')",41.0,0.11427297304830122,53.94736842105263,23.0
-Bag of Organic Bananas,"('Large Alfresco Eggs', 'Organic Hass Avocado')",41.0,0.11427297304830122,55.4054054054054,23.0
-Banana,"('Organic Whole String Cheese', 'Organic Avocado')",40.0,0.11148582736419634,51.28205128205128,23.0
-Banana,"('Blueberries', 'Organic Strawberries')",39.0,0.1086986816800914,50.649350649350644,23.0
-Yotoddler Organic Pear Spinach Mango Yogurt,"('Organic Whole Milk Strawberry Beet Berry Yogurt Pouch',)",39.0,0.1086986816800914,55.714285714285715,23.0
-Banana,"('Yellow Onions', 'Strawberries')",36.0,0.10033724462777668,53.73134328358209,23.0
-Bag of Organic Bananas,"('Organic Lemon', 'Organic Raspberries', 'Organic Hass Avocado')",35.0,0.0975500989436718,53.84615384615385,23.0
-Almond Milk Strawberry Yogurt,"('Almond Milk Peach Yogurt',)",35.0,0.0975500989436718,54.6875,23.0
-Total 2% with Strawberry Lowfat Greek Strained Yogurt,"('Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Banana')",34.0,0.09476295325956688,55.73770491803278,23.0
-Bag of Organic Bananas,"('Organic Kiwi', 'Organic Large Extra Fancy Fuji Apple')",33.0,0.09197580757546198,52.38095238095239,23.0
-Bag of Organic Bananas,"('Organic Cucumber', 'Organic Hass Avocado', 'Organic Strawberries')",33.0,0.09197580757546198,56.896551724137936,23.0
-Bag of Organic Bananas,"('Organic Green Seedless Grapes', 'Organic Hass Avocado')",31.0,0.08640151620725216,57.407407407407405,23.0
+Chocolate Peanut Butter,Coconut Chia Bar,23.0,0.11347937635681864,53.48837209302325,0.0
+Banana,Peanut Butter Creamy With Salt,23.0,0.11347937635681864,54.761904761904766,0.0
+Coconut Chia Bar,Chocolate Peanut Butter,23.0,0.11347937635681864,52.27272727272727,0.0
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Total 2% Lowfat Greek Strained Yogurt With Blueberry,24.0,0.2181818181818182,54.54545454545454,1.0
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Non Fat Acai & Mixed Berries Yogurt,15.0,0.13636363636363638,55.55555555555556,1.0
+Banana,Go Lean Cereal,13.0,0.1181818181818182,59.09090909090909,1.0
+Organic Whole Milk,Whole Milk Plain Yogurt,15.0,0.22492127755285649,51.724137931034484,2.0
+Blueberry Muffin,Low Fat Vanilla Yogurt,15.0,0.22492127755285649,53.57142857142857,2.0
+Low Fat Vanilla Yogurt,Blueberry Muffin,15.0,0.22492127755285649,83.33333333333334,2.0
+Almond Milk Peach Yogurt,Almond Milk Blueberry Yogurt,13.0,0.26683087027914615,100.0,3.0
+Almond Milk Blueberry Yogurt,Almond Milk Peach Yogurt,13.0,0.26683087027914615,86.66666666666667,3.0
+Organic Zucchini,Organic Yellow Squash,11.0,0.22577996715927748,55.00000000000001,3.0
+Lactose Free Fat Free Milk,Natural Skinless & Boneless Sardines In Water,11.0,0.22407822367080873,73.33333333333333,4.0
+Organic Greek Lowfat Yogurt With Strawberries,Organic Greek Lowfat Yogurt With Blueberries,11.0,0.22407822367080873,64.70588235294117,4.0
+Natural Skinless & Boneless Sardines In Water,Lactose Free Fat Free Milk,11.0,0.22407822367080873,64.70588235294117,4.0
+Banana,Grape Tomatoes,19.0,0.2250651504382848,54.285714285714285,5.0
+Banana,Grade A Large White Eggs,19.0,0.2250651504382848,51.35135135135135,5.0
+Banana,Classic Hummus,13.0,0.15399194503672115,50.0,5.0
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Nonfat Icelandic Style Strawberry Yogurt,54.0,0.19804885205017236,56.84210526315789,6.0
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Non Fat Acai & Mixed Berries Yogurt,47.0,0.17237585271033523,60.256410256410255,6.0
+Banana,Sweet Potato Yam,33.0,0.1210298540306609,56.896551724137936,6.0
+Strawberry on the Bottom Nonfat Greek Yogurt,Blueberry on the Bottom Nonfat Greek Yogurt,92.0,0.111703354743143,53.48837209302325,7.0
+Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food,70.0,0.08499168295673924,54.263565891472865,7.0
+Revel Berry Yerba Mate,Enlighten Mint Organic,63.0,0.07649251466106531,64.94845360824742,7.0
+Soda,Zero Calorie Cola,280.0,0.17527825422858787,52.5328330206379,8.0
+Strawberry on the Bottom Nonfat Greek Yogurt,Blueberry on the Bottom Nonfat Greek Yogurt,232.0,0.1452305535036871,52.01793721973094,8.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,121.0,0.07574524557735404,59.900990099009896,8.0
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Total 2% Lowfat Greek Strained Yogurt With Blueberry,1084.0,0.4702840359394184,50.02307337332718,9.0
+Soda,Zero Calorie Cola,531.0,0.2303697629924642,53.420523138833,9.0
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Non Fat Acai & Mixed Berries Yogurt,415.0,0.1800441650506076,50.733496332518335,9.0
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Total 2% Lowfat Greek Strained Yogurt With Blueberry,1169.0,0.4537444591940505,50.693842150910676,10.0
+Soda,Zero Calorie Cola,601.0,0.23327666379437495,53.422222222222224,10.0
+Almond Milk Blueberry Yogurt,Almond Milk Strawberry Yogurt,223.0,0.08655689854599936,51.86046511627907,10.0
+Soda,Zero Calorie Cola,509.0,0.20010221331131814,53.02083333333333,11.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,220.0,0.08648818649998034,54.72636815920397,11.0
+"Yogurt, Lowfat, Strawberry",Lowfat Blueberry Yogurt,196.0,0.0770531116090734,50.77720207253886,11.0
+Soda,Zero Calorie Cola,363.0,0.14911578039312343,52.76162790697675,12.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,201.0,0.08256824203586173,54.91803278688525,12.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,177.0,0.07270934746441556,52.99401197604791,12.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,231.0,0.09300153392140365,58.040201005025125,13.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,190.0,0.07649476816046187,52.92479108635098,13.0
+Almond Milk Blueberry Yogurt,Almond Milk Peach Yogurt,180.0,0.07246872773096387,50.13927576601671,13.0
+Soda,Zero Calorie Cola,382.0,0.1511973085295864,56.01173020527859,14.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,211.0,0.083514743716604,57.96703296703297,14.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,202.0,0.07995250346328914,52.0618556701031,14.0
+Soda,Zero Calorie Cola,335.0,0.13223336227993998,51.14503816793893,15.0
+Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,141.0,0.0556564300939449,67.78846153846155,15.0
+Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,141.0,0.0556564300939449,57.786885245901644,15.0
+Soda,Zero Calorie Cola,236.0,0.09669634479622065,50.31982942430704,16.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,218.0,0.08932119985413603,57.97872340425532,16.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,209.0,0.0856336273830937,52.64483627204031,16.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,180.0,0.0880178382818918,51.57593123209169,17.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,166.0,0.08117200641552244,52.86624203821656,17.0
+Coconut Chia Bar,Acai Berry Chia Bar,99.0,0.04840981105504049,50.51020408163265,17.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,132.0,0.08080412345890621,55.932203389830505,18.0
+Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,84.0,0.05142080583748576,59.57446808510638,18.0
+Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,84.0,0.05142080583748576,53.503184713375795,18.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,125.0,0.09943837207452311,60.679611650485434,19.0
+Almond Milk Blueberry Yogurt,Almond Milk Strawberry Yogurt,125.0,0.09943837207452311,51.229508196721305,19.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,102.0,0.08114171161281085,50.0,19.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,100.0,0.10678740762889241,62.893081761006286,20.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,89.0,0.09504079278971424,52.976190476190474,20.0
+Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit,Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt,64.0,0.06834394088249114,60.952380952380956,20.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,72.0,0.10264452206144416,58.536585365853654,21.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,71.0,0.10121890369947965,62.83185840707964,21.0
+YoKids Squeeze! Organic Strawberry Flavor Yogurt,YoKids Squeeze Organic Blueberry Blue Yogurt,66.0,0.09409081188965714,55.46218487394958,21.0
+Almond Milk Blueberry Yogurt,Almond Milk Strawberry Yogurt,79.0,0.14368077405743596,53.02013422818792,22.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,79.0,0.14368077405743596,68.69565217391305,22.0
+Yotoddler Organic Pear Spinach Mango Yogurt,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,73.0,0.13276831020497246,50.0,22.0
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,43.0,0.11984726441651104,55.84415584415584,23.0
+Yotoddler Organic Pear Spinach Mango Yogurt,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,39.0,0.1086986816800914,55.714285714285715,23.0
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,35.0,0.0975500989436718,54.6875,23.0
