@@ -1,0 +1,189 @@
+consequent,antecedent,support_itemset_absolute,support_itemset_relative_pct,confidence_pct
+Banana,Organic Avocado,53395,1.7460039252797301,30.28592820315026
+Banana,Organic Fuji Apple,33943,1.1099281062977786,37.96161674905496
+Banana,Cucumber Kirby,32097,1.0495643410376159,33.05731500077244
+Banana,Honeycrisp Apple,28408,0.9289349098107795,35.68978730354159
+Bag of Organic Bananas,Organic Large Extra Fancy Fuji Apple,23364,0.7639972976914621,31.15864717806465
+Bag of Organic Bananas,Organic D'Anjou Pears,14905,0.48738998981729337,30.503028814669285
+Bag of Organic Bananas,Organic Navel Orange,14019,0.458417998473575,32.86370669042149
+Banana,Broccoli Crown,13842,0.4526301401577306,32.96342160411507
+Banana,Bartlett Pears,13682,0.4473981778383232,38.735065964554664
+Banana,"Clementines, Bag",12406,0.4056732783410494,31.252519145505847
+Banana,Granny Smith Apples,11992,0.39213557583958286,33.322218517283545
+Total 2% Lowfat Greek Strained Yogurt With Blueberry,Total 2% with Strawberry Lowfat Greek Strained Yogurt,9331,0.3051215025149389,31.262773478071498
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Total 2% Lowfat Greek Strained Yogurt With Blueberry,9331,0.3051215025149389,44.992526158445436
+Banana,Gala Apples,8771,0.28680963439701307,36.62365860787507
+Banana,No Salt Added Black Beans,8757,0.2863518376940649,31.390472093773525
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Total 2% Lowfat Greek Strained Yogurt with Peach,8014,0.2620559126733169,40.30376181854757
+Banana,Red Raspberries,7865,0.2571836477633688,30.050051579872388
+Organic Strawberries,Organic Yellow Peaches,7230,0.23641929730822078,33.989939354050115
+Non Fat Raspberry Yogurt,Icelandic Style Skyr Blueberry Non-fat Yogurt,7224,0.23622309872124303,37.54092397235358
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Non Fat Raspberry Yogurt,7224,0.23622309872124303,44.15108177484415
+Sparkling Water Grapefruit,Peach Pear Flavored Sparkling Water,6727,0.21997131576658385,31.77910052910053
+Bag of Organic Bananas,Organic Bosc Pear,6684,0.21856522589324312,31.2219730941704
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Vanilla Skyr Nonfat Yogurt,6653,0.21755153319385792,36.69608383894098
+Vanilla Skyr Nonfat Yogurt,Icelandic Style Skyr Blueberry Non-fat Yogurt,6653,0.21755153319385792,34.573611183287426
+Total 2% Lowfat Greek Strained Yogurt with Peach,Total 2% Lowfat Greek Strained Yogurt With Blueberry,6282,0.20541992056573205,30.290756545638654
+Total 2% Lowfat Greek Strained Yogurt With Blueberry,Total 2% Lowfat Greek Strained Yogurt with Peach,6282,0.20541992056573205,31.593240796620396
+Banana,Asparation/Broccolini/Baby Broccoli,6075,0.1986510693149988,36.81371954914556
+Sparkling Water Grapefruit,Sparkling Water Berry,6040,0.19750657755762843,34.77860309782921
+Banana,Mango Chunks,5609,0.1834129790597248,31.757445362926056
+Banana,XL Emerald White Seedless Grapes,5575,0.18230118706685075,35.49824896529768
+Banana,Large Yellow Flesh Nectarine,5209,0.17033307326120636,34.12828408569744
+Vanilla Skyr Nonfat Yogurt,Non Fat Raspberry Yogurt,5097,0.1666706996376212,31.151448478181155
+Organic Zucchini,Organic Yellow Squash,4992,0.16323722436551014,44.55949299294832
+Banana,Frozen Broccoli Florets,4709,0.15398319101305832,30.530342323651453
+Organic Strawberries,Organic Nectarine,4594,0.15022271809598425,35.07405710795541
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Nonfat Icelandic Style Strawberry Yogurt,4559,0.1490782263386139,42.77537999624695
+Banana,Berry Medley,4505,0.14731243905581393,31.772339375132237
+Clementines,Apples,4009,0.13109335586565107,32.820302906262796
+Soda,Zero Calorie Cola,3970,0.1298180650502955,49.94338910554787
+Icelandic Style Skyr Blueberry Non-fat Yogurt,Non Fat Acai & Mixed Berries Yogurt,3925,0.1283465756479622,45.36523347202959
+Vanilla Skyr Nonfat Yogurt,Nonfat Icelandic Style Strawberry Yogurt,3898,0.1274636820065622,36.573465941077124
+Non Fat Raspberry Yogurt,Nonfat Icelandic Style Strawberry Yogurt,3821,0.12494580014034738,35.85100394070182
+Bag of Organic Bananas,Organic Honey Sweet Whole Wheat Bread,3731,0.12200282133568074,31.940758496704046
+Banana,Mandarin Oranges,3710,0.12131612628125853,33.20802005012531
+Grapefruit Sparkling Water,Lemon Sparkling Water,3335,0.10905371459514748,35.30968766543145
+Banana,Medium Navel Orange,3255,0.1064377334354438,32.743184790262546
+Blackberry Cucumber Sparkling Water,Kiwi Sandia Sparkling Water,3160,0.10333125580829568,34.61875547765118
+Non Fat Raspberry Yogurt,Non Fat Acai & Mixed Berries Yogurt,3145,0.10284075934085123,36.34997688395747
+Banana,Whole Strawberries,3043,0.09950538336222903,34.51678765880218
+Total 0% Raspberry Yogurt,Fat Free Strawberry Yogurt,3009,0.09839359136935497,30.69781677208733
+Banana,Black Plum,2988,0.09770689631493275,32.26781857451404
+Blueberry Yoghurt,Raspberry Yoghurt,2916,0.09535251327119941,34.884555568847944
+Banana,Red Plums,2834,0.09267113258250315,31.97202166064982
+Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,Yotoddler Organic Pear Spinach Mango Yogurt,2823,0.09231143517304388,46.11991504656102
+Yotoddler Organic Pear Spinach Mango Yogurt,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,2823,0.09231143517304388,45.00239120038259
+Banana,Pink Lady (Cripps) Apple,2815,0.09204983705707352,36.792576133838715
+Blueberry on the Bottom Nonfat Greek Yogurt,Strawberry on the Bottom Nonfat Greek Yogurt,2767,0.0904802483612513,36.25049128782916
+Strawberry on the Bottom Nonfat Greek Yogurt,Blueberry on the Bottom Nonfat Greek Yogurt,2767,0.0904802483612513,43.437990580847725
+Almond Milk Blueberry Yogurt,Almond Milk Strawberry Yogurt,2702,0.08835476366899206,47.28736436821841
+Almond Milk Strawberry Yogurt,Almond Milk Blueberry Yogurt,2702,0.08835476366899206,57.30646871686108
+Banana,Grape Tomatoes,2669,0.0872756714406143,30.70639668660838
+Strawberry on the Bottom Nonfat Greek Yogurt,Peach on the Bottom Nonfat Greek Yogurt,2665,0.08714487238262911,34.27211934156379
+Peach on the Bottom Nonfat Greek Yogurt,Strawberry on the Bottom Nonfat Greek Yogurt,2665,0.08714487238262911,34.914188392506226
+Total 0% Raspberry Yogurt,Fat Free Blueberry Yogurt,2644,0.08645817732820688,36.90675600223339
+Banana,Red Mango,2547,0.08328630017206616,30.898944559019775
+Banana,Sweet Potato Yam,2531,0.08276310394012541,40.52193403778418
+Almond Milk Strawberry Yogurt,Almond Milk Peach Yogurt,2477,0.08099731665732543,52.65731292517006
+Almond Milk Peach Yogurt,Almond Milk Strawberry Yogurt,2477,0.08099731665732543,43.34966748337417
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,Spinach Peas & Pear Stage 2 Baby Food,2440,0.07978742537096248,30.38226870875358
+Blackberry Cucumber Sparkling Water,Curate Melon Pomelo Sparking Water,2389,0.07811973738165137,33.92502130076683
+Blueberry on the Bottom Nonfat Greek Yogurt,Peach on the Bottom Nonfat Greek Yogurt,2371,0.07753114162071804,30.49125514403292
+Peach on the Bottom Nonfat Greek Yogurt,Blueberry on the Bottom Nonfat Greek Yogurt,2371,0.07753114162071804,37.22135007849294
+Fat Free Strawberry Yogurt,Fat Free Blueberry Yogurt,2340,0.07651744892133287,32.663316582914575
+Spinach Peas & Pear Stage 2 Baby Food,Broccoli & Apple Stage 2 Baby Food,2339,0.07648474915683656,34.230938094541195
+Vanilla Skyr Style Yogurt,Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,2309,0.07550375622194769,31.998337028824835
+Strawberry Rhubarb Yogurt,Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,2292,0.07494786022551066,31.762749445676274
+Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,Strawberry Rhubarb Yogurt,2292,0.07494786022551066,34.907097167225096
+Banana,Strawberry on the Bottom Nonfat Greek Yogurt,2291,0.07491516046101436,30.01441110965544
+Almond Milk Peach Yogurt,Almond Milk Blueberry Yogurt,2260,0.07390146776162919,47.932131495228
+Almond Milk Blueberry Yogurt,Almond Milk Peach Yogurt,2260,0.07390146776162919,48.044217687074834
+Kiwi Sandia Sparkling Water,Curate Melon Pomelo Sparking Water,2255,0.0737379689391477,32.02215279750071
+Banana,Golden Delicious Apple,2236,0.07311667341371807,43.26625386996904
+Banana,Bosc Pear,2228,0.0728550752977477,39.08086300649009
+Organic Nonfat Greek Yogurt With Peaches,Organic Greek Nonfat Yogurt With Mixed Berries,2208,0.07220108000782179,32.051095950065324
+Organic Greek Nonfat Yogurt With Mixed Berries,Organic Nonfat Greek Yogurt With Peaches,2208,0.07220108000782179,36.41761504205839
+Banana,Cherry Pomegranate Greek Yogurt,2142,0.07004289555106624,31.270072992700733
+Banana,Garnet Sweet Potato (Yam),2109,0.06896380332268846,31.38392857142857
+Banana,Whole Wheat English Muffins,2089,0.06830980803276254,32.044792146034666
+Blueberry Whole Milk Yogurt Pouch,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,2036,0.06657672051445886,32.45655985971624
+Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,Blueberry Whole Milk Yogurt Pouch,2036,0.06657672051445886,41.40736221273134
+Organic Zucchini,Yellow Straightneck Squash,2032,0.06644592145647367,31.396786155747836
+Banana,Peanut Butter Creamy With Salt,2028,0.06631512239848848,32.5
+Banana,YoKids Strawberry Banana/Strawberry Yogurt,2024,0.0661843233405033,30.074294205052006
+Strawberries,Medium Scarlet Raspberries,2022,0.06611892381151072,40.23880597014926
+Apple Pie Fruit & Nut Food Bar,Cherry Pie Fruit & Nut Bar,2002,0.0654649285215848,36.13718411552346
+"Yogurt, Lowfat, Strawberry",Lowfat Blueberry Yogurt,1995,0.06523603017011072,46.18055555555556
+"Yogurt, Lowfat, Strawberry",Organic Raspberry Lowfat Yogurt,1973,0.0645166353511922,37.45965445224986
+Bag of Organic Bananas,Grade A Large Brown Eggs,1966,0.06428773699971813,30.887666928515316
+Organic Greek Lowfat Yogurt With Strawberries,Organic Greek Lowfat Yogurt With Blueberries,1959,0.06405883864824405,41.026178010471206
+Organic Greek Lowfat Yogurt With Blueberries,Organic Greek Lowfat Yogurt With Strawberries,1959,0.06405883864824405,31.07057890563045
+Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,"Organic Pears, Peas and Broccoli Puree Stage 1",1925,0.06294704665536999,38.27798767150527
+"Organic Pears, Peas and Broccoli Puree Stage 1",Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,1925,0.06294704665536999,34.50439146800502
+Coconut Chia Bar,Chocolate Peanut Butter,1870,0.0611485596080737,40.197764402407564
+Chocolate Peanut Butter,Coconut Chia Bar,1870,0.0611485596080737,40.223704022370406
+Banana,Medium Scarlet Raspberries,1867,0.06105046031458482,37.15422885572139
+Peach on the Bottom Nonfat Greek Yogurt,Raspberry on the Bottom Nonfat Greek Yogurt,1846,0.06036376526016259,36.74363057324841
+Banana,Mandarins Bag,1842,0.060232966202177406,33.953917050691246
+Sparkling Water Grapefruit,All Natural Apricot Sparkling Water,1833,0.05993866832171075,33.47333820306793
+Apple Pie Fruit & Nut Food Bar,Blueberry Muffin Bar,1826,0.05970976997023668,31.762045573143155
+Yotoddler Organic Pear Spinach Mango Yogurt,Blueberry Whole Milk Yogurt Pouch,1821,0.059546271147755195,37.03477730323368
+Vanilla Almond Milk Yogurt,Almond Milk Strawberry Yogurt,1811,0.05921927350279224,31.69408470423521
+Almond Milk Strawberry Yogurt,Vanilla Almond Milk Yogurt,1811,0.05921927350279224,33.30881000551775
+Banana,Non-Fat Greek Yogurt With Strawberries on the Bottom,1785,0.05836907962588853,38.45325290822921
+Banana,Red Delicious Apple,1769,0.05784588339394779,41.8896519062278
+Bag of Organic Bananas,Organic Fuji Apples,1758,0.057486185984488535,32.82913165266106
+Strawberry on the Bottom Nonfat Greek Yogurt,Raspberry on the Bottom Nonfat Greek Yogurt,1746,0.05709378881053298,34.753184713375795
+Banana,Small Macintosh Apple,1731,0.05660329234308854,34.62
+"Yogurt, Lowfat, Strawberry",Organic Peach Lowfat Yogurt,1731,0.05660329234308854,40.83510261854211
+Organic Strawberries,Organic Black Plum,1717,0.0561454956401404,32.17163200299794
+Peach on the Bottom Nonfat Greek Yogurt,Non Fat Black Cherry on the Bottom Greek Yogurt,1697,0.055491500350214475,36.41630901287554
+Organic Strawberries,Organic Cherries,1697,0.055491500350214475,30.249554367201426
+YoKids Squeeze! Organic Strawberry Flavor Yogurt,YoKids Squeeze Organic Blueberry Blue Yogurt,1694,0.05539340105672559,48.79032258064516
+Banana,Blueberries Pint,1691,0.0552953017632367,37.39495798319328
+Blueberry on the Bottom Nonfat Greek Yogurt,Raspberry on the Bottom Nonfat Greek Yogurt,1684,0.05506640341176263,33.51910828025478
+Banana,Baby Spinach Salad,1671,0.05464130647331078,30.04314994606257
+Banana,Bolthouse Baby Carrots,1649,0.05392191165439227,34.95866016535934
+Blueberry on the Bottom Nonfat Greek Yogurt,Non Fat Black Cherry on the Bottom Greek Yogurt,1648,0.05388921188989597,35.36480686695279
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,"Peach,  Apricot & Banana Stage 2 Baby Food",1634,0.05343141518694782,32.058073376495976
+Banana,Frozen Peaches,1601,0.05235232295857005,30.45463191934563
+Vanilla Almond Milk Yogurt,Almond Milk Peach Yogurt,1561,0.0510443323787182,33.18452380952381
+Vanilla Almond Milk Yogurt,Almond Milk Blueberry Yogurt,1561,0.0510443323787182,33.10710498409332
+Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food,1531,0.050063339443829326,47.29687982700031
+Banana,Hass Avocado Bag,1512,0.049442043918399695,31.85169580787866
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,Baby Food Stage 2 Pumpkin Banana,1507,0.04927854509591821,33.804396590399286
+Banana,Low-Fat Strawberry Banana on the Bottom Greek Yogurt,1501,0.049082346508940444,36.988664366683096
+Vitamin Water Zero Squeezed Lemonade,Vitamin Water Zero Rise Orange,1486,0.048591850041496,34.27121771217712
+Strawberry on the Bottom Nonfat Greek Yogurt,Non Fat Black Cherry on the Bottom Greek Yogurt,1485,0.0485591502769997,31.86695278969957
+Organic Strawberries,Red Plum,1484,0.048526450512503407,30.497328401150842
+Banana,Artisan Sausage Pineapple Uncured Bacon Hardwood Smoked with Vermont Maple Syrup,1478,0.04833025192552563,30.90757005437056
+Banana,Brownberry 100% 12 Grain Bread,1466,0.04793785475157008,32.75245755138517
+Greek Whole Milk Blended Blueberry Yogurt,Organic Greek Whole Milk Blended Strawberry Yogurt,1458,0.047676256635599705,34.72255298880686
+Baby Food Stage 2 Blueberry Pear & Purple Carrot,Apple and Carrot Stage 2 Baby Food,1449,0.04738195875513305,35.204081632653065
+"Juice Beverage, Cold Pressed, Kale Apple Ginger Romaine Spinach Cucumber Celery Parsley Lemon",Beet Apple Carrot Lemon Ginger Organic Cold Pressed Juice Beverage,1436,0.0469568618166812,34.419942473633746
+Grapefruit Sparkling Water,Coconut Sparkling Water,1398,0.04571427076582195,34.24791768740813
+Coconut  Chocolate Bar,Chocolate Sea Salt,1376,0.04499487594690343,31.785631785631786
+Banana,Cara Cara Navel Orange,1369,0.04476597759542936,31.348752003663844
+Organic Raw Kombucha Gingerade,"Kombucha, Organic Raw, Citrus",1368,0.04473327783093306,30.624580255204837
+Organic Raspberry Lowfat Yogurt,Lowfat Blueberry Yogurt,1365,0.04463517853744418,31.59722222222222
+Banana,Cut & Peeled Baby Carrots,1361,0.04450437947945899,32.56759990428332
+Banana,Organic Lowfat French Vanilla Yogurt,1346,0.04401388301201455,31.775259678942398
+Banana,Hearty Grains 100% Whole Wheat English Muffins,1344,0.04394848348302196,30.0
+Banana,Red Bell Pepper,1338,0.04375228489604418,38.581314878892734
+Banana,Family Size Naturally Flavored Whole Grain Oats Cereal,1335,0.04365418560255529,33.6272040302267
+Fat Free Strawberry Yogurt,Total 0% Peach Yogurt,1324,0.04329448819309603,35.92944369063772
+Banana,Turkey,1320,0.04316368913511085,42.58064516129032
+Banana,Large Brown Grade AA Eggs,1311,0.04286939125464419,30.452961672473865
+Organic Blended Raspberry Whole Milk Greek Yogurt,Organic Greek Whole Milk Blended Strawberry Yogurt,1309,0.042803991725651594,31.17408906882591
+Total 2% with Strawberry Lowfat Greek Strained Yogurt,Blackberry Yogurt,1309,0.042803991725651594,37.788683602771364
+Peach on the Bottom Nonfat Greek Yogurt,Low-Fat Mango on the Bottom Greek Yogurt,1300,0.04250969384518493,36.32299525006985
+Banana,Blueberry Pint,1287,0.04208459690673308,37.38019169329074
+Unsweetened Blackberry Water,Unsweetened Watermelon Water,1271,0.041561400674792345,30.871994170512508
+Unsweetened Watermelon Water,Unsweetened Blackberry Water,1271,0.041561400674792345,40.815671162491974
+Apple Pie Fruit & Nut Food Bar,Lemon Fruit & Nut Food Bar,1264,0.04133250232331827,31.878940731399748
+Banana,Original Strawberry Low Fat Yogurt,1260,0.04120170326533308,30.252100840336134
+"Organic Pears, Peas and Broccoli Puree Stage 1",Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food,1253,0.04097280491385901,38.708680877355576
+Crunchy Oats 'n Honey Granola Bars,Sweet & Salty Nut Granola Bars Peanut,1245,0.040711206797888644,30.855018587360593
+Total 2% Lowfat Greek Strained Yogurt With Blueberry,Blackberry Yogurt,1239,0.04051500821091086,35.76789838337183
+Banana,Comice Pear,1237,0.04044960868191827,30.528134254689043
+Banana,Golden Sweet Potato,1223,0.03999181197897013,34.46041138348831
+Organic Ginger Root,Turmeric Root,1221,0.039926412449977536,35.41183294663573
+Organic Strawberries,Organic Seedless Watermelon,1221,0.039926412449977536,33.65490628445424
+Total 0% Raspberry Yogurt,Total 0% Peach Yogurt,1186,0.03878192069260717,32.18453188602442
+Banana,Snacks String Cheese Natural Mozzarella Cheese,1185,0.038749220928110874,30.415811088295687
+Organic Lemon Lowfat Yogurt,Lowfat Key Lime Yogurt,1182,0.03865112163462199,30.207002300025554
+Banana,Original Cream Cheese,1172,0.03832412398965902,30.956154252509243
+Total 2% Lowfat Greek Strained Yogurt with Peach,Blackberry Yogurt,1164,0.038062525873688656,33.6027713625866
+Banana,Mini Watermelon,1112,0.03636213811988126,32.11088651458273
+No Salt Added Black Beans,Dark Red Kidney Beans No Salt Added,1105,0.03613323976840719,31.100478468899524
+Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,Stage 1 Apples & Strawberries Organic Pureed Baby Food,1078,0.03525034612700719,33.49906774394034
+Total 2% Greek Strained Yogurt with Cherry 5.3 oz,Blackberry Yogurt,1056,0.03453095130808868,30.484988452655887
+Peanut Butter Bar,Almond Butter,1053,0.034432852014599793,33.449809402795424
+Peach on the Bottom Nonfat Greek Yogurt,Pineapple on the Bottom Greek Yogurt,1051,0.0343674524856072,31.514242878560722
+Raspberry Essence Water,Unsweetened Blackberry Water,1051,0.0343674524856072,33.75080282594733
+Organic Stage 2 Peaches & Bananas Baby Food,Stage 1 Apples & Strawberries Organic Pureed Baby Food,1043,0.034105854369636826,32.411435674331884
+Stage 1 Apples & Strawberries Organic Pureed Baby Food,Organic Stage 2 Peaches & Bananas Baby Food,1043,0.034105854369636826,30.885401243707435
+Banana,Mandarin Clementine  Bag,1036,0.033876956018162756,31.36542537087496
+Bag of Organic Bananas,Organic Orange Juice With Calcium & Vitamin D,1027,0.03358265813769609,32.832480818414325
+Banana,Vanilla Greek Yogurt 0% Fat,928,0.03034538145256278,30.18867924528302
