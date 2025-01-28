@@ -1,11 +1,11 @@
 import streamlit as st
 
 
-
-
 st.header('What are customers buying from our app?')
-st.subheader('A Deepdive on Instacart Online Grocery Shopping Dataset')
-st.title("")
+st.write('🔍 Deepdive on Instacart Online Grocery Shopping Dataset')
+st.divider()
+# st.write("")
+
 
 ## Change to selectbar
 pages = {

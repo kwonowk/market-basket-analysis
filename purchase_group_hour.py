@@ -42,6 +42,8 @@ def network_graph(df):
 
         pv_static(prod_net)
 
+st.subheader("How do purchasing patterns for these product groups vary at different times of the day? ")
+
 data  = pd.read_csv('purchase_group_hour.csv')
 hour = st.slider("Select purchase hour to analyze : ", 0, 23)
 

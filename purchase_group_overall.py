@@ -2,8 +2,9 @@ import pandas as pd
 from pyvis import network as net
 import networkx as nx
 from stvis import pv_static
+import streamlit as st
 
-data1  = pd.read_csv('q1-1.csv')
+data1  = pd.read_csv('purchase_group_overall.csv')
 
 def network_graph(df):
         G = nx.from_pandas_edgelist(df, source='antecedent', target='consequent',
@@ -42,5 +43,7 @@ def network_graph(df):
                         node["font"] = {'size' : 100}
 
         pv_static(prod_net)
+
+st.subheader('Which product groups are purchased together most frequently?')
 
 network_graph(data1)
