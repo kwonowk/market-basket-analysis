@@ -4,15 +4,15 @@ import networkx as nx
 from stvis import pv_static
 import streamlit as st
 
-data1  = pd.read_csv('purchase_group_overall.csv')
+data  = pd.read_csv('purchase_group_overall.csv')
 
 def network_graph(df):
         G = nx.from_pandas_edgelist(df, source='antecedent', target='consequent',
                                 edge_attr='support_itemset_relative_pct')
 
-        prod_net = net.Network(notebook = True, cdn_resources='in_line',
+        prod_net = net.Network(cdn_resources='in_line',
                             height="1000px",
-                            width="1000px",
+                            width="800px",
                             font_color="black")
 
         prod_net.barnes_hut()
@@ -44,6 +44,7 @@ def network_graph(df):
 
         pv_static(prod_net)
 
-st.subheader('Which product groups are purchased together most frequently?')
+st.header('Which product groups are purchased together most frequently?')
+st.divider()
 
-network_graph(data1)
+network_graph(data)

@@ -10,7 +10,7 @@ def network_graph(df):
 
         prod_net = net.Network(notebook = True, cdn_resources='in_line',
                             height="1000px",
-                            width="1000px",
+                            width="800px",
                             font_color="black")
 
         prod_net.barnes_hut()
@@ -42,13 +42,11 @@ def network_graph(df):
 
         pv_static(prod_net)
 
-st.subheader("How do purchasing patterns for these product groups vary at different times of the day? ")
+st.header('How do purchasing patterns for these product groups vary at different times of the day?')
+st.divider()
 
 data  = pd.read_csv('purchase_group_hour.csv')
 hour = st.slider("Select purchase hour to analyze : ", 0, 23)
-
-
-
 
 if st.button("Show purchase groups"):
     data_hour = data.loc[data["hour"] == hour][:30]
