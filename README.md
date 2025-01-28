@@ -28,10 +28,10 @@ This project utilizes Market Basket Analysis (MBA), a data mining technique for 
 
 ## 💾 Dataset
 
-**Description** 
+**Description**
 - Anonymized dataset containing a sample of over 3 million grocery orders from more than 200,000 users
 
-**Source** 
+**Source**
 - [Instacart](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2)
 
 **Size (merged)**
@@ -44,7 +44,7 @@ data
 ├── departments.csv
 ├── orders.csv
 ├── products.csv
-└── order_products.csv 
+└── order_products.csv
 ```
 
 ## 🧭 Methodology
@@ -53,7 +53,6 @@ Tools highlighted with `pre-formatting` for clarity
 
 1. Exploratory Data Analysis (EDA)
     - Utilize `pandas` for data manipulation and `matplotlib` for visualizing data trends and distributions
-    - 
 2. Market Basket Analysis using apriori algorithm
     - Compare the performance of different MBA algorithms using `efficient_apriori`, `mlxtend`, and `pyFIM` on a sample dataset to select the most efficient tool in terms of processing speed
     - Construct a “support-confidence” trade-off graph to visually aid the decision-making process for desired parameter setting
