@@ -45,15 +45,15 @@ pages = {
     [
     st.Page("purchase_group_overall.py", title="Overall product purchase groups"),
     st.Page("purchase_group_hour.py", title="Hourly product purchase groups")
-    ]
+    ],
 
-#     "Purchase timing and frequency" :
-# [
-#     st.Page(st.title(""), title = "Peak purchasing times during the week"),
-#     st.Page(st.title(""), title = "Most commonly reordered products"),
-#     st.Page(st.title(""), title = "Product reorder frequency"),
-#     st.Page(st.title(""), title = "Never or seldomly reordered products")
-#     ],
+    "Purchase timing and frequency" :
+[
+    st.Page("purchase_time.py", title = "Peak purchasing times during the week"),
+    st.Page("reorder_product.py", title = "Most commonly reordered products"),
+    st.Page("reorder_frequency.py", title = "Product reorder frequency"),
+    st.Page("reorder_none.py", title = "Never or seldomly reordered products")
+    ]
 
 #     "Individual product analysis":
 #     [
@@ -72,6 +72,6 @@ pg=st.navigation(pages)
 pg.run()
 
 with st.sidebar:
-    st.link_button("Who made this?",
+    st.link_button("Who's dis?",
                    "https://www.notion.so/Insung-Kwon-172eee86853b80c2bc73c8493043fe84",
-                   icon = "👩🏻‍💻")
+                   icon = "👀")
