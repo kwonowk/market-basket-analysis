@@ -1,14 +1,17 @@
 import streamlit as st
+st.set_page_config(page_title = "Market Basket Analysis", layout = "wide")
+
 def add_logo():
     st.markdown(
         """
 <style>
+    /*Modify side bar*/
     [data-testid="stSidebarNav"] {
         background-repeat: no-repeat;
-        padding-top: 200px;
+        padding-top: 160px;
         position: relative;
     }
-    /*Display text*/
+    /*Display title text at the top of the side bar*/
     [data-testid="stSidebarNav"]::before {
         content: "🔍 Deepdive on Instacart Online Grocery Shopping Dataset";
         color: black;
@@ -16,19 +19,28 @@ def add_logo():
         font-weight: bold;
         line-height: 35px;
         position: absolute;
-        top: 50px;
+        top: 10px;
         left: 20px;
     }
-    /*Define divider*/
+    /*Define divider below title text*/
     [data-testid="stSidebarNav"]::after {
       content: "";
         background: #C0C0C0;
         height: 1px;
         width: 100%;
         position: absolute;
-        top: 180px;
-
+        top: 138px;
     }
+
+    /*Make page wider*/
+    [data-testid="stSidebar"][aria-expanded="true"] > div:first-child{
+        width: 400px;
+    }
+    [data-testid="stSidebar"][aria-expanded="false"] > div:first-child{
+        width: 400px;
+        margin-left: -400px;
+    }
+
 </style>
         """,
         unsafe_allow_html=True,
@@ -37,6 +49,8 @@ def add_logo():
 
 add_logo()
 
+
+#### todo : Make pages wider
 
 pages = {
     "About the project" :

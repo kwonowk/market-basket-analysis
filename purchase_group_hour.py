@@ -10,7 +10,7 @@ def network_graph(df):
 
         prod_net = net.Network(notebook = True, cdn_resources='in_line',
                             height="1000px",
-                            width="800px",
+                            width="1200px",
                             font_color="black")
 
         prod_net.barnes_hut()
