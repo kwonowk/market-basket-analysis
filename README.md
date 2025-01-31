@@ -13,18 +13,18 @@ This project utilizes Market Basket Analysis (MBA), a data mining technique for 
 
 **Purchase combinations**
 
-- Which product groups are purchased together most frequently?
-- How do purchasing patterns for these product groups vary at different times of the day?
+- [Which product groups are purchased together most frequently?](https://market-basket-analysis-instacart.streamlit.app/purchase_group_overall)
+- [How do purchasing patterns for these product groups vary at different times of the day?](https://market-basket-analysis-instacart.streamlit.app/purchase_group_hour)
 
 **Purchase timing and frequency**
-- What are the peak purchasing times during the week?
-- Which products are most commonly reordered by customers?
-- How frequently are products reordered on average?
-- What are the products that customers rarely or never reorder?
+- [What are the peak purchasing times during the week?](https://market-basket-analysis-instacart.streamlit.app/purchase_time)
+- [Which products are most commonly reordered by customers?](https://market-basket-analysis-instacart.streamlit.app/reorder_product)
+- [How frequently are products reordered on average?](https://market-basket-analysis-instacart.streamlit.app/reorder_frequency)
+- [What are the products that customers rarely or never reorder?](https://market-basket-analysis-instacart.streamlit.app/reorder_none)
 
 **Individual product analysis**
-- Which products are typically bought as standalone items?
-- Are there products that are never purchased?
+- [Which products are typically bought as standalone items?](https://market-basket-analysis-instacart.streamlit.app/transactions_single)
+- [Are there products that are never purchased?](https://market-basket-analysis-instacart.streamlit.app/order_count)
 
 ## 💾 Dataset
 
