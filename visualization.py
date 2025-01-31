@@ -67,20 +67,14 @@ pages = {
     st.Page("reorder_product.py", title = "Most commonly reordered products"),
     st.Page("reorder_frequency.py", title = "Product reorder frequency"),
     st.Page("reorder_none.py", title = "Never or seldomly reordered products")
+    ],
+
+    "Individual product analysis":
+    [
+    st.Page("transactions_single.py", title = "Standalone purchases"),
+    st.Page("order_count.py", title = "Never ordered products")
     ]
-
-#     "Individual product analysis":
-#     [
-#     st.Page(st.title(""), title = "Standalone purchases"),
-#     st.Page(st.title(""), title = "Never or seldomly purchased products")
-#     ]
 }
-
-
-# data2 = pd.read_csv('q1-2.csv')
-# data3 = pd.read_csv('q2-1.csv')
-# data4 = pd.read_csv('q2-2.csv')
-# data5 = pd.read_csv('q2-3.csv')
 
 pg=st.navigation(pages)
 pg.run()

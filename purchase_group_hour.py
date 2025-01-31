@@ -51,4 +51,3 @@ hour = st.slider("Select purchase hour to analyze : ", 0, 23)
 if st.button("Show purchase groups"):
     data_hour = data.loc[data["hour"] == hour][:30]
     network_graph(data_hour)
-    st.dataframe(data_hour)

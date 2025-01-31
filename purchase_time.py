@@ -18,7 +18,7 @@ chart = alt.Chart(data).mark_bar().encode(
     column='Day of Week:O',
     color=alt.Color('count:Q')
 ).properties(
-    width=100,
+    width=130,
     height=400,
 )
 

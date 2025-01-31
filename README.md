@@ -20,11 +20,11 @@ This project utilizes Market Basket Analysis (MBA), a data mining technique for 
 - What are the peak purchasing times during the week?
 - Which products are most commonly reordered by customers?
 - How frequently are products reordered on average?
+- What are the products that customers rarely or never reorder?
 
 **Individual product analysis**
 - Which products are typically bought as standalone items?
-- What are the products that customers rarely or never reorder?
-- Are there products that are seldom or never purchased?
+- Are there products that are never purchased?
 
 ## 💾 Dataset
 
