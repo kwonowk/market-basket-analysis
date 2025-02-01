@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title = "Market Basket Analysis", layout = "wide")
 
-def add_logo():
+def add_sidebar_text():
     st.markdown(
         """
 <style>
@@ -46,11 +46,7 @@ def add_logo():
         unsafe_allow_html=True,
     )
 
-
-add_logo()
-
-
-#### todo : Make pages wider
+add_sidebar_text()
 
 pages = {
     "About the project" :

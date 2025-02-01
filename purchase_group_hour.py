@@ -34,7 +34,7 @@ def network_graph(df):
 
         nx.set_node_attributes(G,df.support_itemset_relative_pct*30,'size')
 
-        # add neighbor data to node hover data
+        # Add neighbor data to node hover data
         for node in prod_net.nodes:
                         node["title"] += " Neighbors:<br>" + "<br>".join(neighbor_map[node["id"]])
                         node["value"] = len(neighbor_map[node["id"]])

@@ -11,7 +11,6 @@ data = pd.read_csv('order_grouped.csv').rename({'order_dow': 'Day of Week',
 
 data['Day of Week'] = data['Day of Week'].apply(lambda x: "DoW " + str(x))
 
-
 chart = alt.Chart(data).mark_bar().encode(
     x='hour:O',
     y='count:Q',
@@ -21,6 +20,5 @@ chart = alt.Chart(data).mark_bar().encode(
     width=130,
     height=400,
 )
-
 
 st.altair_chart(chart)
